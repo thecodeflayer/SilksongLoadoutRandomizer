@@ -48,6 +48,6 @@ When attempting to extract internal names, scenes, or GameObject data for *Hollo
 - **Distribution:** Packaged manually for Thunderstore (`SilksongLoadoutRandomizer.dll`, `README.md`, `icon.png`, `manifest.json`).
 
 ## Current Status
-- **v1.0.3 Released.** (Hotfixes applied: Fixed bug where forced-unlocked crests and GiveAllSlots were failing to populate all slots due to missing save data initialization).
+- **v1.0.4 Released.** (Hotfixes applied: SaveGamePatch now backs up and scrubs slot locks to prevent GiveAllSlots from permanently altering save files).
 - Tested successfully for safe saving, hotkeys, and boss kill hooks.
 - **Future Ideas (v1.1+):** Area transition triggers, integration with Godhome-style Pantheons, custom visual effects.

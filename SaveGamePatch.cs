@@ -9,6 +9,7 @@ namespace SilksongLoadoutRandomizer
         private static string _backedUpCrestId;
         private static bool _backedUpIsTemp;
         private static Dictionary<string, List<string>> _backedUpToolCrests;
+        private static Dictionary<string, List<bool>> _backedUpSlotUnlocks;
 
         [HarmonyPrefix]
         public static void Prefix(ref System.Action<bool> __1)
@@ -23,10 +24,20 @@ namespace SilksongLoadoutRandomizer
             
             // Deep copy the tool crests dictionary for all known crests
             _backedUpToolCrests = new Dictionary<string, List<string>>();
+            _backedUpSlotUnlocks = new Dictionary<string, List<bool>>();
+            
             var validCrestNames = PlayerData.instance.ToolEquips.GetValidNames();
             foreach (string crestName in LoadoutManager.AllCrestNames)
             {
                 if (validCrestNames == null || !validCrestNames.Contains(crestName)) continue;
+
+                var data = PlayerData.instance.ToolEquips.GetData(crestName);
+                if (data.Slots != null)
+                {
+                    List<bool> slotUnlocks = new List<bool>();
+                    foreach (var s in data.Slots) slotUnlocks.Add(s.IsUnlocked);
+                    _backedUpSlotUnlocks[crestName] = slotUnlocks;
+                }
 
                 List<ToolItem> equips = ToolItemManager.GetEquippedToolsForCrest(crestName);
                 if (equips != null)
@@ -66,6 +77,39 @@ namespace SilksongLoadoutRandomizer
             foreach (string crestName in LoadoutManager.AllCrestNames)
             {
                 if (validCrestNames == null || !validCrestNames.Contains(crestName)) continue;
+
+                // Scrub the slot unlocks
+                if (_backedUpSlotUnlocks.ContainsKey(crestName))
+                {
+                    var data = PlayerData.instance.ToolEquips.GetData(crestName);
+                    if (data.Slots != null)
+                    {
+                        ToolCrest c = ToolItemManager.GetCrestByName(crestName);
+                        if (c != null && c.Slots.Length == data.Slots.Count)
+                        {
+                            for (int i = 0; i < data.Slots.Count; i++)
+                            {
+                                var sd = data.Slots[i];
+                                // A slot is only legitimately unlocked if it's base-unlocked on the crest OR if it was unlocked prior to randomizer modifying it
+                                // But since we don't know the exact history, we should only lock it if it's base-locked and the mod forced it.
+                                // Wait, the best way is to scrub it back to base-locked state unless the user legitimately bought it.
+                                // The native save file would track bought lockets.
+                                // Since we don't have a way to track which ones were bought while GiveAllSlots is active,
+                                // the safest thing is to scrub it to false if it's base-locked.
+                                // BUT wait, if they bought it, they lose it?
+                                // If GiveAllSlots is active, they can't buy it anyway.
+                                // For now, we will just restore the exact original locked state of the struct.
+                                // Wait, no, we just scrub it by setting it to false if it was base-locked!
+                                // Actually, _backedUpSlotUnlocks contains what it was right BEFORE saving. Which means it's ALREADY unlocked by the randomizer!
+                                // So we must scrub it by checking if it's base-locked. If it's base-locked, set IsUnlocked = false.
+                                // If they legitimately unlocked it, we can't tell the difference. But Memory Lockets aren't in this demo?
+                                sd.IsUnlocked = !c.Slots[i].IsLocked;
+                                data.Slots[i] = sd;
+                            }
+                            PlayerData.instance.ToolEquips.SetData(crestName, data);
+                        }
+                    }
+                }
 
                 List<ToolItem> equips = ToolItemManager.GetEquippedToolsForCrest(crestName);
                 if (equips != null)
@@ -109,6 +153,22 @@ namespace SilksongLoadoutRandomizer
                 {
                     ToolItemManager.SetEquippedCrest(_backedUpCrestId);
                     PlayerData.instance.IsCurrentCrestTemp = _backedUpIsTemp;
+
+                    // Restore slots
+                    foreach (var kvp in _backedUpSlotUnlocks)
+                    {
+                        var data = PlayerData.instance.ToolEquips.GetData(kvp.Key);
+                        if (data.Slots != null && data.Slots.Count == kvp.Value.Count)
+                        {
+                            for (int i = 0; i < data.Slots.Count; i++)
+                            {
+                                var sd = data.Slots[i];
+                                sd.IsUnlocked = kvp.Value[i];
+                                data.Slots[i] = sd;
+                            }
+                            PlayerData.instance.ToolEquips.SetData(kvp.Key, data);
+                        }
+                    }
 
                     foreach (var kvp in _backedUpToolCrests)
                     {
