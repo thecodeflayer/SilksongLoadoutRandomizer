@@ -1,0 +1,12 @@
+# Build results
+bin/
+obj/
+
+# Local developer settings
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# BepInEx temporary/build files
+*.log

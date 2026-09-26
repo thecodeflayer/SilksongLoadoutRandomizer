@@ -1,0 +1,43 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <AssemblyName>SilksongLoadoutRandomizer</AssemblyName>
+    <Description>Silksong Loadout Randomizer Plugin</Description>
+    <Version>1.0.0</Version>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BepInEx.Analyzers" Version="1.*" PrivateAssets="all" />
+    <PackageReference Include="BepInEx.Core" Version="5.*" />
+    <PackageReference Include="BepInEx.PluginInfoProps" Version="2.*" />
+    
+    <PackageReference Include="UnityEngine.Modules" Version="2020.3.12" IncludeAssets="compile" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>$(SilksongDir)\Hollow Knight Silksong_Data\Managed\Assembly-CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="PlayMaker">
+      <HintPath>$(SilksongDir)\Hollow Knight Silksong_Data\Managed\PlayMaker.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  
+  <!-- Local paths are automatically imported from $(MSBuildProjectName).csproj.user by the .NET SDK -->
+
+  <!-- Post-build event to copy the dll -->
+  <Target Name="CopyDLL" AfterTargets="Build">
+    <PropertyGroup>
+      <PluginDir Condition=" '$(SilksongDir)' != '' ">$(SilksongDir)\BepInEx\plugins</PluginDir>
+    </PropertyGroup>
+    <Message Text="SilksongDir is not set in $(MSBuildProjectName).csproj.user. Skipping auto-copy to game folder." Importance="high" Condition=" '$(SilksongDir)' == '' " />
+    <Message Text="Checking if $(PluginDir) exists..." Importance="high" Condition=" '$(SilksongDir)' != '' " />
+    <Copy SourceFiles="$(TargetPath)" DestinationFolder="$(PluginDir)" Condition=" '$(SilksongDir)' != '' And Exists('$(PluginDir)') " />
+    <Message Text="Successfully copied $(TargetFileName) to $(PluginDir)" Importance="high" Condition=" '$(SilksongDir)' != '' And Exists('$(PluginDir)') " />
+    <Message Text="Warning: Could not find $(PluginDir). Please adjust the SilksongDir property in $(MSBuildProjectName).csproj.user." Importance="high" Condition=" '$(SilksongDir)' != '' And !Exists('$(PluginDir)') " />
+  </Target>
+
+</Project>
