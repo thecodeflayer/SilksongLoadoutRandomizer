@@ -1,6 +1,6 @@
 # Silksong Loadout Randomizer
 
-A BepInEx plugin for *Hollow Knight: Silksong* that randomizes your equipped tools and silk skills. This mod was inspired by MyPetCactus and his randomized build run on [YouTube](url=https://www.youtube.com/watch?v=zL1Bqa6Tgqs).
+A BepInEx plugin for *Hollow Knight: Silksong* that randomizes your equipped tools and silk skills. This mod was inspired by MyPetCactus and his randomized build run on [YouTube](https://www.youtube.com/watch?v=zL1Bqa6Tgqs).
 
 ## Features
 - **Bench Randomization**: Randomize your entire loadout every time you rest at a bench.
