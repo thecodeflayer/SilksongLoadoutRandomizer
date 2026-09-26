@@ -48,6 +48,6 @@ When attempting to extract internal names, scenes, or GameObject data for *Hollo
 - **Distribution:** Packaged manually for Thunderstore (`SilksongLoadoutRandomizer.dll`, `README.md`, `icon.png`, `manifest.json`).
 
 ## Current Status
-- **v1.0.2 Released.** (Hotfixes applied: Added missing "Father of the Flame" boss, fixed Crest Unlock option NRE, and corrected Needle Phial exclusion name).
+- **v1.0.3 Released.** (Hotfixes applied: Fixed bug where forced-unlocked crests and GiveAllSlots were failing to populate all slots due to missing save data initialization).
 - Tested successfully for safe saving, hotkeys, and boss kill hooks.
 - **Future Ideas (v1.1+):** Area transition triggers, integration with Godhome-style Pantheons, custom visual effects.

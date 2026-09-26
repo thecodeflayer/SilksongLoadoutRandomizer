@@ -257,19 +257,38 @@ namespace SilksongLoadoutRandomizer
 
             List<string> newEquips = new List<string>();
             ToolCrestsData.Data crestData = crest.SaveData;
+            bool dataModified = false;
+
+            if (crestData.Slots == null)
+            {
+                crestData.Slots = new System.Collections.Generic.List<ToolCrestsData.SlotData>();
+                dataModified = true;
+            }
+
+            while (crestData.Slots.Count < crest.Slots.Length)
+            {
+                crestData.Slots.Add(new ToolCrestsData.SlotData { EquippedTool = "", IsUnlocked = false });
+                dataModified = true;
+            }
 
             // Iterate over the slots of the crest
             for (int i = 0; i < crest.Slots.Length; i++)
             {
-                bool isSlotUnlocked = Plugin.GiveAllSlots.Value || !crest.Slots[i].IsLocked; // Start with config or base state
+                bool isSlotUnlocked = !crest.Slots[i].IsLocked; // Base state
 
                 // Check if save data overrides it (e.g. Memory Lockets)
-                if (!isSlotUnlocked && crestData.Slots != null && i < crestData.Slots.Count)
+                if (crestData.Slots[i].IsUnlocked)
                 {
-                    if (crestData.Slots[i].IsUnlocked)
-                    {
-                        isSlotUnlocked = true;
-                    }
+                    isSlotUnlocked = true;
+                }
+                else if (Plugin.GiveAllSlots.Value)
+                {
+                    // User wants to force unlock all slots. Update the memory structure so native engine accepts the tools
+                    var sd = crestData.Slots[i];
+                    sd.IsUnlocked = true;
+                    crestData.Slots[i] = sd;
+                    isSlotUnlocked = true;
+                    dataModified = true;
                 }
 
                 if (!isSlotUnlocked)
@@ -315,6 +334,11 @@ namespace SilksongLoadoutRandomizer
                 {
                     newEquips.Add(""); // Ran out of tools for this color, leave empty
                 }
+            }
+
+            if (dataModified && PlayerData.instance != null)
+            {
+                PlayerData.instance.ToolEquips.SetData(crest.name, crestData);
             }
 
             return newEquips;
