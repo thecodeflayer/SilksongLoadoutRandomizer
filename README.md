@@ -17,6 +17,10 @@ You can customize exactly what gets randomized:
 - Includes robust support for all 48 boss encounters, gracefully handling multi-boss fights without misfiring.
 
 ## Installation
+
+**Recommended:** Download and install automatically via [Thunderstore / r2modman](https://thunderstore.io/c/hollow-knight-silksong/p/thecodeflayer/SilksongLoadoutRandomizer/).
+
+**Manual Installation:**
 1. Install [BepInEx 5](https://github.com/BepInEx/BepInEx) for Hollow Knight: Silksong.
 2. Place `SilksongLoadoutRandomizer.dll` in your `BepInEx/plugins` folder.
 3. Launch the game and enjoy the chaos!
