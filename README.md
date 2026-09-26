@@ -20,3 +20,6 @@ You can customize exactly what gets randomized:
 1. Install [BepInEx 5](https://github.com/BepInEx/BepInEx) for Hollow Knight: Silksong.
 2. Place `SilksongLoadoutRandomizer.dll` in your `BepInEx/plugins` folder.
 3. Launch the game and enjoy the chaos!
+
+## Source Code & Support
+If you encounter any bugs, have feature requests, or want to view the source code, please visit the [GitHub Repository](https://github.com/thecodeflayer/SilksongLoadoutRandomizer).
