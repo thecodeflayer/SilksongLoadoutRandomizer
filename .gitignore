@@ -10,3 +10,5 @@ obj/
 
 # BepInEx temporary/build files
 *.log
+
+*.zip
