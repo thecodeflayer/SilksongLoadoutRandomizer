@@ -140,7 +140,14 @@ namespace SilksongLoadoutRandomizer
                         var names = PlayerData.instance.ToolEquips.GetValidNames();
                         if (names == null || !names.Contains(crestName))
                         {
-                            continue;
+                            if (!Plugin.GiveAllCrests.Value) 
+                            {
+                                continue;
+                            }
+                            
+                            // The crest isn't initialized in PlayerData, but the user wants to force-equip it.
+                            // We must initialize its structure in memory to avoid native NREs.
+                            PlayerData.instance.ToolEquips.SetData(crestName, c.SaveData);
                         }
                     }
 
@@ -240,7 +247,7 @@ namespace SilksongLoadoutRandomizer
                 if (!isUnlocked) continue;
 
                 // The Needle Phial is a temporary quest item and shouldn't take up a slot
-                if (tool.name.Replace(" ", "").Replace("_", "").Equals("NeedlePhial", System.StringComparison.OrdinalIgnoreCase)) continue;
+                if (tool.name.Replace(" ", "").Replace("_", "").Equals("Extractor", System.StringComparison.OrdinalIgnoreCase)) continue;
 
                 if (tool.Type == ToolItemType.Red && Plugin.IncludeRedTools.Value) redPool.Add(tool);
                 else if (tool.Type == ToolItemType.Blue && Plugin.IncludeBlueTools.Value) bluePool.Add(tool);

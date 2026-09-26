@@ -1,0 +1,5370 @@
+f i#l%n&q,r.t8y:z<{=|>
+{{ IsConsumable = {0} }}
+{{ field = {0}, attribute = {1} }}
+{{ name = {0}, order = {1} }}
+{{ value = {0}, order = {1} }}
+{{ Door = {0}, DoorName = {1}, TargetDoorMatch = {2} }}
+Horizontal
+_Size
+_Vibrancy
+_RedCyan
+_GreenMagenta
+_BlueYellow
+_Zoom
+_BarrelDistortion
+_BorderTex
+_BorderOnOff
+M2H_lastLanguage
+ZH_TW
+BOUNCE
+A SPAWN
+A RECYCLE
+color
+float
+gameObject
+material
+object
+quaternion
+string
+texture
+vector2
+vector3
+Start Colour
+End Colour
+Duration
+CUSTOM FADE
+GameManager could not be found
+Screen Fader
+targetType
+https://hutonggames.fogbugz.com/default.asp?W1150
+PlayMakerUnity2DProxy requires the 'PlayMaker Unity 2D' Prefab in the Scene.
+Use the menu 'PlayMaker/Addons/Unity 2D/Components/Add PlayMakerUnity2D to Scene' to correct the situation
+OnCollisionStay2D 
+OnCollisionExit2D 
+ OnTriggerEnter2D 
+ OnTriggerStay2D 
+ OnTriggerExit2D 
+'PlayMaker Unity 2D' is missing.
+PlayMaker Unity 2D
+COLLISION ENTER 2D
+COLLISION EXIT 2D
+COLLISION STAY 2D
+TRIGGER ENTER 2D
+TRIGGER EXIT 2D
+TRIGGER STAY 2D
+startIndex
+ArgumentOutOfRange_Index
+count
+ArgumentOutOfRange_Count
+Self target not supported yet
+subFsms target not supported yet
+HostFSM target not supported yet
+The fsmVar value <
+> doesn't match the value <
+ParseValueToString type not supported 
+> not supported
+string(
+bool(
+float(
+vector2(
+vector3(
+vector4(
+quaternion(
+rect(
+color(
+texture(
+gameObject(
+false
+vector2\([x],[y]\)
+[-+]?[0-9]*\.?[0-9]+([eE][-+]?[0-9]+)?
+(?<x>
+(?<y>
+vector3\([x],[y],[z]\)
+(?<z>
+vector4\([x],[y],[z],[w]\)
+(?<w>
+rect\([x],[y],[w],[h]\)
+(?<h>
+quaternion\([x],[y],[z],[w]\)
+color\([r],[g],[b],[a]\)
+(?<r>
+(?<g>
+(?<b>
+(?<a>
+ParseValueFromString failed for 
+_ReflectionTex
+_ProjMatrix
+__SurfaceReflection
+Surface Refl Camera id
+ for 
+CubemapCamera
+RealtimeReflections
+_Cube
+Appear
+{0} is missing an Animator component.
+{0} has a null shake
+JUST FADE
+door_fastTravelExit
+End_Credits
+GG_End_Sequence
+End_Credits_Scroll
+Cinematic_MrMushroom
+FADE INSTANT
+End_Game_Completion
+_FlashColor
+_FlashAmount
+health_display
+Health Number
+Airborne
+TOOL EQUIPS CHANGED
+Exit Door To Idle
+Wake Up Ground
+Walk To Idle
+Run To Idle
+Backdash Land 2
+Dash To Idle
+Super Jump Fall
+Dash Upper Recovery
+Silk Charge End
+Recoil
+Idle To Run
+Idle To Run Short
+Land To Run
+Idle To Run Weak
+Dash Down
+Shadow Dash Down
+Shadow Dash
+Air Dash
+Back Dash
+DownSpike Antic
+DownSpikeBounce 1
+DownSpike
+UpSlash
+UpSlashAlt
+DownSlash
+DownSlashAlt
+Wall Slash
+Slash
+SlashAlt
+ToolThrow Wall
+ToolThrow Q
+ToolThrowAlt Q
+ToolThrow Up
+ToolThrow Down anim not implemented
+Shuttlecock
+Float
+Wall Cling
+Wall Slide
+Downspike Recovery
+Downspike Recovery Land
+Fireball
+LookUp
+LookUp Updraft
+LookUp Windy
+TurnWalk
+Land To Walk
+Run To Walk Weak
+Run To Walk
+Weak Walk Faster
+Walk Q
+Mantle Land
+Walljump
+Walljump Somersault
+Double Jump
+Dash Down End
+Dash Down Land
+HardLand
+Sprint Backflip
+Mantle Cancel To Jump Backwards
+Mantle Cancel To Jump
+Slash Land
+Slash Land Run
+Slash Land Run Alt
+Land Q
+Backdash Land
+LookUpEnd
+LookUpEnd Windy
+Look Up Half End
+LookDown Slight End
+LookDownEnd
+LookDownEnd Windy
+Hazard Respawn
+Hurt Look Up Windy End
+Hurt Look Up End
+Hurt Look Down Windy End
+LookDown
+LookDown Updraft
+LookDown Windy
+Umbrella Deflate
+Dash Upper
+Footstep
+Backdash To Idle
+Sprint Skid To Run
+Sprint To Run
+Slash To Run
+Idle Rest
+Mantle Land To Idle
+Mantle Land To Run
+Dash To Run
+Rage Idle End
+Hurt Look Up
+Hurt Look Up Windy
+Hurt Listen Up
+Hurt Look Down Windy
+Idle Hurt Windy
+Idle Hurt Listen Windy
+Idle Hurt Talk Windy
+Hurt Look
+Hurt Listen Down Windy
+Idle Hurt Listen
+Idle Hurt Talk
+Hurt Listen Down
+Weak Walk
+Idle Hurt
+Rage Idle
+LookUpEnd Updraft
+LookDownEnd Updraft
+Look Up Half
+LookDown Slight
+Idle Updraft
+Idle Windy
+Hurt Look Down
+Run Q
+Could not resolve animation clip: {0}
+HeroAnim: Could not find animation clip with the name 
+DownSpikeBounce 2
+Harpoon Catch
+Recoil Twirl
+Slash_Charged
+Hurt To Idle
+MULTI WOUND CANCEL
+Swim Dash
+Swim Dash Turn
+Swim Dash Bonk
+Surface Current In Recover
+Surface In
+Surface InToIdle
+Surface Idle
+Surface IdleToSwim
+Surface TurnToSwim
+Spa Surface In
+Spa Surface InToIdle
+Spa Surface Idle
+Spa Surface IdleToSwim
+Spa Surface TurnToSwim
+Nail Attack
+Hero Spell
+HeroBox
+Assigned transform must be a child of this transform!
+Opening sequence changing sequences.
+Clip is null
+String 1
+String 2
+String 3
+DEPRECATED: This script is obsolete and should be replaced with PlayFromRandomFrame.
+targetAnimator does not have clip: 
+YourStartState
+Shine
+Dashing finished! Reducing speed from {0} to {1}
+Sprint Start
+Fly Turn
+Fly Down
+Fly Up
+Sprint
+Dash Forward
+Dash Forward Mantle
+Antic Skid
+TurnToWalk
+WALK START
+WALK STOP
+Fly Antic
+{0} does not have clip for {1} enviro type
+extrusion
+RecPermadeathMode
+EnemyKillShake
+TINK RIGHT
+TINK UP
+TINK LEFT
+TINK DOWN
+TINK DOWN L
+TINK DOWN R
+direction
+Sprite
+Tip Over Right
+Tip Over Left
+Vector Curve Animator duration can not be less than or equal to 0!
+ShouldAppear
+IS_CHARACTER
+_CharacterTintColor
+Darkness Region
+Darkness Region FSM needs upgrading to DarknessRegion script
+Darkness
+Darkness Region FSM was upgraded to DarknessRegion script
+Darkness Level
+SCENE RESET
+- Player Data reference is null, please check this is being set correctly.
+ does not have a Hazard Respawn Marker Set
+{0} is missing box collider
+Add Map Scene
+Scene Name
+Map Scene Region FSM was upgraded to MapSceneRegion script.
+PREPARE HERO RESPAWNING HERE
+HERO RESPAWNING HERE
+ - Respawn Trigger set to Single Use but has no PlayMakerFSM attached.
+ does not have a Death Respawn Marker Set
+Activated
+In Sand
+BREAK
+Strum
+WindZone
+AnimatedVolumeControl
+AudioEvent Manager
+musicChannel
+AudioPreloader
+AudioSourcePriorityAssigner requires an AudioSource component on 
+Priority level {0} is out of range for the priority table on {1}.
+Priority level {0} is out of range for the priority table.
+{0} is missing it's audio source. Destroying script to prevent null ref.
+FadeAudioOnAwake
+PAUSE_FADE
+Player
+volActors
+NeedolinSyncedAudioPlayer
+PersistentAudioInstance
+Can't stop event when "stopOnDisable" is false
+TransitionAudioFader
+HERO HAZARD DEATH
+HAZARD RESPAWNED
+VENT REGION ENTER
+VENT REGION EXIT
+FSM_SHARED_KEY
+Idle 1
+Bob 1
+Bounce 1
+RecoilLeft
+RecoilRight
+Bounce
+Lever Activated
+cityBridge1
+Bridge Activated
+Fence Activated
+{0} - {1}
+_GameCameraCapture
+Tube_Hub
+DITHERING_NOISE
+SCENE FADE OUT
+DEATH RESPAWN
+HAZARD FADE
+START FADE
+SCENE FADE TO MENU
+LockZone Activated: {0} at startLockedTimer {1} ({2}s)
+LockZone Released 
+LockZone was not the current lock when removed.
+CC - STR: NewPosition: {0} TargetDelta: ({1}, {2}) CT-XOffset: {3} HeroPos: {4} CT-Pos: {5}
+====> TEST 1a - ForceDirect Positioning Mode
+====> TEST 1b - Normal Positioning Mode
+====> TEST 3 - Lock Zone Active
+====> TEST 4 - No Lock Zone
+====> TEST 2 - At Horizontal Scene Bounds
+====> TEST 2a - Hero Facing Bounds
+====> TEST 2b - Hero Facing Inwards
+Xoffset still touching sides
+Not Touching Sides with Xoffset CT: {0} Hero: {1}
+CC - PositionToHero FIN: - TargetDelta: ({0}, {1}) Destination: {2} CT-XOffset: {3} NewPosition: {4} CamTargetPos: {5} HeroPos: {6}
+Removing cam locks. (
+ total)
+Weave_10
+Slab_10b
+Shellwood_11b
+Coral_Tower_01
+Ant_Queen
+Clover_01
+Clover_20
+{0} Fade Texture
+CameraRenderScaled
+CameraRenderToMesh
+_MainTex
+CameraRenderToUI
+CT PTS - xOffset: {0} HeroPos: {1}, {2}
+CT PTS - Follow Hero - CT Pos: {0}
+CT PTS - Lock Zone - CT Pos: {0}
+CT - PTS: HeroPos: {0} Mode: {1} Dest: {2}
+Can't merge null camera!
+DarknessCameraEffect
+_DarknessCutout
+_DarknessCameraVP
+_PreviewLerp
+DisplayFrozenCamera
+Couldn't find GameCameras, make sure one exists in the scene.
+Is Visible
+CameraController not set in inspector.
+CameraTarget not set in inspector.
+SceneParticlesController
+Scene Particles Prefab not set in inspector.
+SceneColorManager not set in inspector.
+CANCEL SHAKE
+RESUME SHAKE
+TestParentForPosition
+MoveMenuToHudCamera
+{0} NoiseTexture
+NOISE_ENABLED
+_NoiseStrength
+_TimeSnap
+_NoiseTex
+_NoiseColor
+JUST UNLOCKED
+Can't handle purchase for itemIndex out of range: 
+hasPinFleaMarrowlands
+hasPinFleaMidlands
+hasPinFleaBlastedlands
+hasPinFleaCitadel
+hasPinFleaPeaklands
+hasPinFleaMucklands
+CheatManager
+<color=red>
+</color>
+<color=green>
+_HeatEffectMult
+color_fader
+Down Colour
+Down Time
+Up Colour
+Up Delay
+Up Time
+WALL R
+FLOOR
+WALL L
+Recoiler
+DASH RECOIL
+DASH HIT
+NailSlash: could not find HeroController on parent: 
+Submit
+Cancel
+Menu Extra
+Menu Super
+Right
+RS_Up
+RS_Down
+RS_Left
+RS_Right
+Attack
+Evade
+Super Dash
+Dream Nail
+Quick Map
+Quick Cast
+Taunt
+Pane Right
+Pane Left
+openInventory
+openInventoryMap
+openInventoryJournal
+openInventoryTools
+openInventoryQuests
+swipeInventoryMap
+swipeInventoryJournal
+swipeInventoryTools
+swipeInventoryQuests
+Pause
+damages_hero
+damageDealt
+hazardType
+Charge Up Bench
+Charge Up Bench Silk
+Charge Up Air
+Charge Up
+SPOOL APPEARED
+Charm Effects
+Thorn Counter
+Effects
+Dash Burst
+Spell Control
+Is Quickening Active
+Sprintmaster Active
+Add Speed
+Is Active
+RESET
+configGroup was null!
+HC CONFIG UPDATED
+TRY SPRINT
+AIR MANTLE
+Fsm Skill Tool Event {0} is invalid
+TAKE CONTROL
+Fsm Tool Event {0} is invalid
+OVERBLUE QUICK
+FORCE UPDRAFT ENTER
+Wanderer
+WANDERER DASH COMBO
+attackDir
+Hunter
+Hunter_v2
+Hunter_v3
+Toolmaster
+Spell
+NAIL CLASH
+<b>Possible hazard death loop</b>, canceling quick damage.
+DAMAGE
+FROST DAMAGE
+PARRIED
+heroAction
+Flame
+HeroCtrl-HeroDamaged
+HeroCtrl-Respawned
+Is Shielding
+HeroCtrl-MaxHealth
+FIRST_MASK
+ALL_MASKS
+FIRST_SILK_SPOOL
+ALL_SILK_SPOOLS
+ALL_SILK_HEARTS
+Target Updraft Speed
+UPDRAFT ENTER
+UPDRAFT EXIT
+DontDestroyOnLoad
+DO MOVE
+HERO WALLSLIDE
+DEACTIVATE
+FLOAT
+HARD LANDING
+SCUTTLE
+SCRAMBLE
+DASHED
+RumblingFall
+Pos: {0} Transition State: {1}
+CANCEL SPRINT
+HeroCtrl-DashEnd
+CREST ATTACK CANCEL
+Hero Landed
+ERROR: unable to determine direction of collision - contact points at (
+HeroWalkable
+HeroCtrl-Landed
+HERO TOUCHED GROUND
+HeroCtrl-LeftGround
+ProxyFSM
+FindGroundPoint: Could not find ground point below {0}, check reference position is not too high (more than {1} tiles).
+ROAR ENTER
+Roar and Wound States
+Push Strength
+ROAR EXIT
+Is Sprinting
+HeroCtrl-LeavingScene
+DO SPRINT SKID
+HeroControllerStates: Could not find bool named
+in cState
+Failed to set cState: 
+BENCHREST START
+Clash Tink
+Extra Damager
+Bounce Shroom
+BOUNCE UPWARD
+Terrain Thunker
+THUNKED GROUND
+THUNKED DOWN
+FsmExecutionStack is not empty! FsmExecutionStack should be empty when validating the PlayMaker state. Non empty stack may result in major memory leaks in the runtime. The next messages contain the names of leaked FSMs. Those are the names of the FSM, not the GameObject that triggered the execution.
+(no object)
+Leaked FSM on the FsmExecutionStack. Name:
+(no name)
+, Owner: 
+(Issue automatically fixed)
+_NAME
+_DESC
+{0}: {1} : ({2})
+Element {0}
+Collectable Item masterList is not assigned!
+Collectable Item: {0} not found in master list!
+Couldn't pickup item {0}
+No collectable item assigned!
+Item state was less than 0
+takeItemType
+item was null
+readSource
+StopJitter
+No items left to consume!
+StartJitter
+Failed
+IsUIListInputBlocked
+UI EXTRA
+UI SUPER
+UI EXTRA RELEASED
+Inventory Control
+Target Pane Index
+MOVE PANE TO
+UI RS DOWN
+UI RS UP
+UI RS LEFT
+UI RS RIGHT
+UI CANCEL
+UI RIGHT
+UI LEFT
+UI UP
+UI DOWN
+UI CONFIRM
+UI CONFIRM RELEASED
+MATERIUM_FULL
+Empty
+Closed
+START PLAYING
+ALREADY PLAYING
+STOP PLAYING
+IsPlaying
+ACTIVATE DISPLAYS
+DamageTag was null
+Localisation Sheet: "{0}" does not exist!
+Can't deposit a relic that hasn't been collected!
+!!NO_RELIC_TYPE!!
+Started loading clips for 
+Freed clips for 
+Finished loading gramaphone clip for 
+Finished loading needolin clip for 
+OnSpawnDequeued
+SPAWN DEQUEUED
+DoCheck
+DEPRECATED
+Sprites/Default
+Shadow_Weavehome
+Shadow_24
+Aqueduct_05
+_BeatSpeedIncrease
+_BeatMagnitudeIncrease
+_BlackThreadAmount
+BLACKTHREAD
+_Parameter
+_Bloom
+_TargetTexelSize
+{0}_{1}x{2}_frame{3}
+BloomOptimized
+_BlurPlaneVibranceOffset
+BRIGHTNESS_EFFECT_ENABLED
+_Brightness
+_Contrast
+USE_MASK
+_Mask_ST
+_MaskLerp
+CameraShake
+Simple Pair cannot work with curves with different number of Keyframes.
+Extra Tag
+ENTER DEEP MEMORY ZONE
+EXIT DEEP MEMORY ZONE
+GrabPassBatcher
+ReferencesData
+Couldn't load SceneDefaultSettings
+Activate
+No grade marker set for this grade trigger: 
+GrazeZone has been deprecated, please remove this object: 
+_PushAmount
+Sharp Shadow
+GrassSprite
+WindyIdle
+WindyPush
+Splat
+AverageShake
+Parent is not assigned. Cannot record world direction and offset.
+Recorded current world direction as: {0} and offset as: {1}
+_BlurInfo
+Hollow Knight/Light Blur
+Failed to find shader {0}
+BlurCamera
+BLUR_PLANE
+LightBlurredBackground
+HEARTBEAT_SCENE_START
+HEARTBEAT_SCENE_END
+Could not find collider
+RECOLOUR
+CAN_HUESHIFT
+_HueShift
+PooledEffectManager
+Scenery Trigger requires exactly two Collider components attached to work correctly.
+_ObjectPos
+_ObjectScale
+Ignore Particle Stop
+UberPostprocess_Material
+WaterPhysicsMesh
+Water Mesh
+Trigger
+WaterCamera
+WaterPhysics
+{0}_{1}
+BG CLOSE
+BATTLE COMPLETED
+BG QUICK OPEN
+BATTLE START
+HeroLight
+Enemy has BlackThreadState but no HealthManager! Disabling script.
+Stun Control
+Abyss Attacking
+No Sing FSM set for 
+! Will not be black threaded.
+_BlackThread
+Black Thread Enemy "
+" has inactive collider that can't be manually handled!
+Audio Loop Voice
+Needolin
+Praying
+Sing Ground
+Sing Air
+CLEAR EFFECTS INSTANT
+Hatch
+Tele End
+Tele Start
+TurnToAttack
+TurnToFly
+Rest Start
+Rest End
+Hatchling Magnet
+Ignore Hatchling
+FloorDisturber
+Enemy Range Exclude
+Terrain
+Soft Terrain
+COGFLY ATTACK
+Death Air
+Death Land
+Death Land Air
+Death Land AfterBounce
+Death Air AfterBounce
+Death BounceAway
+Explosion
+SPAWN
+_Desaturation
+GO LEFT
+GO RIGHT
+GO DOWN
+GO UP
+Ambient Idle
+Enemy Projectile
+Hero Damage Target
+TAKE DAMAGE
+DAMAGER TINKED
+BOUNCE TINKED
+BOUNCE TINKED DOWN
+BOUNCE TINKED UP
+BOUNCE TINKED RIGHT
+BOUNCE TINKED LEFT
+DAMAGER HIT SPIKES
+z2 Steam Hazard
+hasKilled
+health_manager_enemy
+CENTIPEDE DEATH
+EXPLOSION DEATH
+Owner Name
+corpse
+spellBurn
+EnemyDeathEffects EmitEffects not overidden!
+EDGE L
+EDGE R
+ARMOUR HIT R
+ARMOUR HIT L
+ARMOUR HIT U
+ARMOUR HIT D
+DAMAGE FLASH
+ColorReturnNeutral
+amount
+easetype
+space
+chaser
+Start Alert
+SLEEP
+SendOutRoutine
+BringInRoutine
+Bat TurnToFly
+DEALT DAMAGE
+BLOCKED HIT
+HIT LANDED
+ATTACK BLOCKED
+BLOCKED HIT R
+BLOCKED HIT L
+BLOCKED HIT U
+BLOCKED DOWN
+EXTRACT
+TOOK HEAVY DAMAGE
+DEALT ACTUAL DAMAGE
+TOOK DAMAGE
+SING DURATION END
+WEAK HIT
+TOOK SPELL DAMAGE
+TOOK EXPLOSION DAMAGE
+Reaper
+BLOCKED EXPLOSION
+Stun Damage
+STUN DAMAGE
+TOOK TAG DAMAGE
+ZERO HP
+LAVA DEATH
+FATAL DAMAGE
+KILLED
+Spell Vulnerable
+{0} ({1})
+Journal
+Journal Msg
+Should Recycle
+checkType
+NAME_
+DESC_
+NOTE_
+Journal Entry (
+dreamGate
+D Attack
+D Fly
+D Hatch
+D Tele End
+D Tele Start
+D TurnToAttack
+D TurnToFly
+D Rest Start
+D Rest End
+REMOVE
+{0}_item_{1}
+{0} Spawn Folder
+Attack Direction
+Attack Type
+Attack Magnitude
+RECOIL HORIZONTAL
+HIT LEFT
+HIT RIGHT
+HIT DOWN
+HIT UP
+RECOIL
+Couldn't get collider for recoil, trying children...
+Still couldn't get collider for recoil! Will not recoil.
+RECOIL END
+FREEZE IN PLACE
+enemy_message
+enemy_message FSM needs upgrading to SendEnemyMessageTrigger script
+Event
+enemy_message FSM was upgraded to SendEnemyMessageTrigger script
+No collider to get bounds from!
+TURN LEFT
+TURN RIGHT
+Fire Instant
+Impact
+Zap L
+Zap R
+Idle L1
+Idle L2
+Idle L3
+Idle L4
+Idle R1
+Idle R2
+Idle R3
+Idle R4
+Water Surface
+FSM CANCEL
+HERO DEATH
+MAGGOT CHECK
+HERO HEALED
+HERO HEALED TO MAX
+HEALTH UPDATE
+CHARM INDICATOR CHECK
+HERO SURFACE ENTER
+HERO SURFACE EXIT
+START EXTRACT M
+START EXTRACT SWAMP
+START EXTRACT BLUEBLOOD
+CINEMATIC START
+CINEMATIC END
+CINEMATIC SKIPPED
+FLEA MUSIC START
+FLEA MUSIC STOP
+BENCH REGAIN CONTROL
+BENCH RELINQUISH CONTROL
+LAVA BELL RECHARGING
+FROST UPDATE HEALTH
+HERO DAMAGED EXTRA
+LAVA BELL USED
+REMINDER BIND
+WARRIOR RAGE ENDED
+REGENERATED SILK CHUNK
+SILK CURSED UPDATE
+WARRIOR RAGE STARTED
+HAZARD RESPAWN RESET
+SPOOL UNBROKEN
+CLEAR EFFECTS
+LAVA BELL RESET
+ITEM COLLECTED
+BREAK HERO CORPSE
+DELIVERY HUD REFRESH
+DELIVERY HUD HIT
+DELIVERY HUD BREAK
+INVENTORY CANCEL
+GG TRANSITION OUT INSTANT
+GG TRANSITION IN
+GG TRANSITION FINAL
+GG TRANSITION OUT STATUE
+SHOW BOUND NAIL
+SHOW BOUND CHARMS
+UPDATE BLUE HEALTH
+BIND VESSEL ORB
+HIDE BOUND NAIL
+HIDE BOUND CHARMS
+UNBIND VESSEL ORB
+TOOL PIN THUNKED
+SCENE TRANSITION BEGAN
+HAZARD RELOAD
+HERO ENTERED SCENE
+CUSTOM CUTSCENE SKIP
+DREAM PLANT HIT
+DREAM ORB COLLECT
+ENVIRO UPDATE
+ADD BLUE HEALTH
+ADD QUEUED BLUE HEALTH
+START EXTRACT B
+SHOW CUSTOM TOOL REMINDER
+HIDE CUSTOM TOOL REMINDER
+HUD FRAME CHANGED
+DIALOGUE BOX APPEARING
+RESET SHOP WINDOW
+GG TRANSITION OUT
+HERO DAMAGED
+COG DAMAGE
+BIND FAILED NOT ENOUGH
+EXTRACT CANCEL
+INVENTORY OPEN COMPLETE
+FLINT SLATE EXPIRE
+POST TOOL EQUIPS CHANGED
+Achievements
+ requires an AudioSource to auto-recycle itself.
+BetaEnd
+cardinalDirection
+hitDirection
+GameLang
+GameBackers
+GameNativePopups
+RumbleSetting
+CameraShakeSetting
+HudScaleSetting
+NativeInput
+XInput
+AppleMFi
+-resetres
+VidFullscreen
+VidVSync
+VidDisplay
+VidTFR
+VidParticles
+ShaderQuality
+VidDithering
+VidNoise
+VidOSValue
+VidOSSet
+VidBrightValue
+VidBrightSet
+MasterVolume
+MusicVolume
+SoundVolume
+PlayerVoiceEnabled
+KeyJump
+KeyAttack
+KeyDash
+KeyCast
+KeySupDash
+KeyDreamnail
+KeyQuickMap
+KeyQuickCast
+KeyTaunt
+KeyInventory
+KeyInventoryMap
+KeyInventoryJournal
+KeyInventoryTools
+KeyInventoryQuests
+KeyUp
+KeyDown
+KeyLeft
+KeyRight
+Controller
+ResetSettings - {0}
+Remapped GamepadType from {0} to {1}
+LoadSettings - {0} setting not found. Loading defaults.
+LoadSettings - {0} Loaded ({1})
+SaveSettings - {0} Saved ({1})
+MakeSkippable requires a Cinematic Player or Cutscene Helper component.
+UnlockSkip
+MakeSkippable - Cinematic Player is null
+MakeSkippable - Cutscene Helper is null
+playCredits
+PerformanceHud
+DebugPanelSettings
+revisionLabel
+No Build Metadata
+sceneLabel
+cpuMemLabel
+resolutionLabel
+fpsLabel
+profileLabel
+monoGroup
+gcLabel
+monoHeapLabel
+SetPass Calls Count
+Triangles Count
+:    
+0.00s
+Total: 
+CPU Mem.: {0:n} / {1:n} / {2:n}
+Heap: {0:n} / {1:n} / {2:n}
+<color=#808080>
+- SetPass Calls: {0}, Triangles: {1}
+{0}x{1} [{2}x{3}]
+Boost Mode: 
+Disabled
+Enabled
+Incorrect Doors Left: {0}
+Correct Doors Left: {0}
+Correct Door: 
+Saturation: {0}, Adjusted: {1}
+MapZone: 
+Interaction: 
+, Blocked by: 
+PIN CHALLENGE START
+PIN CHALLENGE END
+Deactivated child GameObjects so they start disabled
+Rotation on parent of {0} degrees.
+Fixed rotation on parent of {0} degrees, fixed children.
+[Singleton] Instance '
+' already destroyed on application quit. Won't create again - returning null.
+[Singleton] Something went really wrong  - there should never be more than one singleton! Reopening the scene might fix it.
+(singleton) 
+TestGameObjectActivator disabled targets
+{0}-{1} seconds
+Roar Object
+bossDoorCageUnlocked
+Can't save an empty PlayerData bool!
+finalBossDoorUnlocked
+Unlock
+Unlocked
+Dream Return
+blueRoomDoorUnlocked
+RecBossRushMode
+currentBossDoorPD
+Cannot load existing boss sequence if there is none!
+Could not find current scene {0} in boss sequence {1}
+Boss sequence couldn't be loaded by name!
+CHARM EQUIP CHECK
+HUD IN
+MP LOSE
+MP RESERVE DOWN
+Dream Enter Next Scene
+To Scene
+Entry Door
+door_dreamEnter
+DREAM RETURN
+ggEndScene
+equippedCharm_
+RumblingMed
+StopRumble
+Boss Name Key
+Boss Name Sheet
+Description Key
+Description Sheet
+Dream Attack
+DoAppear
+New statue count fell below zero. This means something has gone wrong!
+Could not start boss scene. Scene: "{0}" does not exist!
+bossSceneToLoad
+GG_Challenge_Close
+Unbind
+Select
+Bind All
+Locked
+No List Item template assigned!
+.....
+GODS_GLORY
+_Color
+Needolin audio is not already playing, so amplify can't sync!
+Disappear
+sizzleTypes
+No sizzle was ever started for type: 
+Caged Respawn Marker
+Slab_03
+Collider type not implemented!
+Deflector
+UnlockStagInput
+mouse x
+Game controller {0} attached
+Game controller {0} detached.
+StopCutsceneInput
+No PlayerAction could be matched to HeroActionButton: 
+This action has no key mapped but registered a key binding. ({0})
+Keybinding Error - Action: {0} returned a null binding.
+{0} : {1} of type {2}
+Action Not Found
+Inventory
+BUTTON_JUMP
+BUTTON_ATTACK
+BUTTON_DASH
+BUTTON_CAST
+BUTTON_SUPER_DASH
+BUTTON_MAP
+BUTTON_QCAST
+BUTTON_INVENTORY
+BUTTON_DREAM_NAIL
+BUTTON_MOVE
+BUTTON_LOOK
+BUTTON_PAUSE
+IH Unknown Key for action: 
+unknownkey
+xbox 360
+Controller is Unknown type with name (
+), will attempt matching based on name.
+xbox one
+xbox series
+switch
+Unable to match controller of name (
+), will attempt default mapping set.
+Unsupported platform for InputHander 
+Unable to bind player action set to Input Module.
+Could not upgrade serialized string promptLabel (
+) to PromptLabels enum
+Was Interactable Active
+INTERACTIBLE ENABLED
+Speak
+INTERACT
+InteractPriority "{0}" not implemented
+Unable to find input manager.
+Too late to enable native input module.
+Unknown currency type: {0}
+HasSeenGeoMid
+HasSeenGeoBig
+Silkfly Cloud
+COMPLETED
+LAST ORB COLLECTED
+Could not find matching variable for memory orb map child: 
+{0} local position: {1}
+LANG_
+MainMenu
+({0})
+GAME_CONTROLLER_RUMBLE
+GAME_CONTROLLER_VIBRATION
+PANTHEON1
+PANTHEON2
+PANTHEON3
+PANTHEON4
+ENDINGD
+COMPLETIONGG
+Accessibility
+ReducedCameraShake
+ReducedControllerRumble
+AppConfig.ini
+Vignette
+Darkness Control
+SCENE RESET NO LANTERN
+Thread_Target_Up
+Thread_Target_Down
+SM Setting Curves to 
+) G: (
+ ) B: (
+) S: 
+_HeroDesaturation
+IsExhibitionMode
+Couldn't find a Game Manager, make sure one exists in the scene.
+GameManager
+Tut_01
+Death Respawn Marker Init
+Bone_East_10_Room
+Belltown
+Halfway_01
+Song_Enclave
+Bellshrine_Enclave
+Save Sherma
+Bonetown
+Room_Pinstress
+Bone_12
+Rock Rollers
+Fine Pins
+Save City Merchant
+Song Knight
+Crow Feathers
+Dust_11
+Belltown_Room_Spare
+Belltown_basement
+Belltown_Room_pinsmith
+Belltown_Room_Relic
+Growstone
+Soul Snare
+Bellway_01
+Building Materials (Statue)
+Building Materials (Bridge)
+Pilgrim Rags
+Tut_03
+Churchkeeper Basement
+Bone_10
+Greymoor_08
+Coral_Judge_Arena
+Belltown_Boss
+Belltown House Start
+Belltown House Mid
+Ward_02
+Dock_10
+dock_pressure_plate_lock
+Songclave Donation 1
+Songclave Donation 2
+Song Pilgrim Cloaks
+Under_07c
+Bot Blocker
+Under_17
+Broodmother Hunt
+Extractor Blue
+Extractor Blue Worms
+Sprintmaster Race
+Sprintmaster_Cave
+Song_Tower_Destroyed
+Silk Defeat Snare
+Song Handmaiden
+Song Golem
+Grand Gate Bellshrines
+Pilgrim Rag
+Skull King
+Skull King Fragment
+Roach Killing
+Roach Corpse Item
+Rock Roller Item
+Song_Enclave_Tube
+One Way Wall
+END FOLLOWERS INSTANT
+Cloakless
+Mossberry Stew
+The Threadspun Town
+Coral Conch Driller Giant
+Flea Games
+Dust_Shack
+Collectable Item Extractor Pins
+Doctor Curse Cure
+Extractor Machine Pins
+SCENE FADE IN
+Couldn't convert 
+ to a MapZone
+Delay
+SeenMapperBoneForest
+SeenMapperCoralCaverns
+SeenMapperCrawl
+SeenMapperDocks
+SeenMapperDustpens
+SeenMapperGreymoor
+SeenMapperHuntersNest
+SeenMapperJudgeSteps
+SeenMapperPeak
+SeenMapperShadow
+SeenMapperShellwood
+SeenMapperWilds
+BELLWAYS_FULL
+TUBES_FULL
+ALL_MAPS
+CITADEL_SONG
+STEEL_SOUL
+COMPLETED_STEEL
+COMPLETION
+STEEL_SOUL_FULL
+SPEEDRUN_1
+SPEED_COMPLETION
+Scenes/
+PermaDeath_Unlock
+Intro_Cutscene
+Couldn't find transition point "
+", falling back to first available: "
+door_dreamReturn
+SCENE FADE OUT INSTANT
+Couldn't find InputHandler component.
+Couldn't find AchievementHandler component.
+SceneManager
+Scene Manager missing from scene 
+GameLangSet
+-forcelang
+== Language option forced on by command argument.
+Map Zones
+AutoSaveNames
+TileMap
+Using fallback 1 to find tilemap. Scene {0} requires manual fixing.
+Failed to find tilemap in 
+ entirely.
+Menu_Title
+Title_Screens
+Knight Pickup
+Pre_Menu_Intro
+Cutscene_Boss_Door
+Quit_To_Menu
+GG_Unlock
+PermaDeath
+GG_Entrance_Cutscene
+GG_Boss_Door_Entrance
+Demo Start
+Intro_Cutscene_Prologue
+Opening_Sequence
+Opening_Sequence_Act3
+Prologue_Excerpt
+Cinematic_Stag_travel
+Cinematic_Submarine_travel
+Cinematic_Ending_A
+Cinematic_Ending_B
+Cinematic_Ending_C
+Cinematic_Ending_D
+Cinematic_Ending_E
+Menu_Credits
+Error saving achievements (PlayerAchievements is null)
+1.0.30000
+Cannot load from invalid save slot index {0}
+Cannot clear invalid save slot index {0}
+Save file {0} {1}
+clearing...
+Save file {0} not cleared - cannot clear save files in demo mode!
+Missing Game Manager. Using fallback get bytes method.
+GlobalPool
+Hero_Hornet
+GG_Atrium
+GG_Atrium_Roof
+GG_Workshop
+GG_Blue_Room
+GG_Land_of_Storms
+GG_Unlock_Wastes
+Failed to save. Missing Game Manager.
+{0:0}h {1:00}m
+{0:0}m
+{0:0}m {1:00}s
+{0:0}s
+{0:0}h {1:00}m {2:00}s
+{0:0}:{1:00}
+Couldn't find a UIManager, make sure one exists in the scene.
+ExhibitionModeProfileId
+LogoTitle
+This function is now deprecated
+PauseMenuScreen
+Making UI menu lean.
+clear
+From parent "{0}"
+{0} : {1}{2}
+CoreLoop
+FireInvokeNext
+KeyCode down: 
+default
+shared.dat
+No online subsystems packaged.
+Multiple online subsystems packaged.
+Selected online subsystem 
+GOG was not initialised, will not be used as online subsystem.
+Desktop
+Temp file <b>{0}</b> was found and is likely corrupted. The file has been deleted.
+Backup file: {0} does not have a numerical extension, and will be ignored.
+Plugins
+*.dat
+Directory: "
+" does not exist
+x86_64
+XGamingRuntimeThunks.dll
+XB1AchievementMap
+sharedData
+sharedData.dat
+GalaxyCSharpGlue.dll
+58684736355579041
+6df4eee80bbe552d39094e3ee31e457ff109405df303f1cebf263f964c1a8a1e
+GOG failed to initialize
+Unable to get achievement {0}, because GOG is not authenticated.
+Unable to push achievement {0}, because GOG is not authenticated.
+Unable to reset achievements, because GOG is not authenticated.
+Primary save at '
+' invalid or corrupted. Trying backup.
+Backup save is also invalid/corrupted.
+Failed to data to {0}: {1}
+user.dat
+user{0}.dat
+SaveScreenCapture not implemented
+LoadScreenCaptures not implemented
+Unable to create save restore point. Missing Save Restore Handler.
+Unable to write save backup point. Missing Save Restore Handler.
+Unable to fetch save restore point. Missing Save Restore Handler.
+Unable to fetch version restore point. Missing Save Restore Handler.
+Unable to delete save restore point. Missing Save Restore Handler.
+Unable to delete backup files from previous versions. Missing Save Restore Handler.
+Save Import
+Cannot set target frame rate to 0.
+PlayerPrefsSharedData does not support ImportData
+Swipe {0}
+Restore Data #{0}
+{0}{1}{2}
+restoreData
+NODEL
+{0}{1}
+Restore_Points
+user{0}_
+1.0.30000.dat
+Data source is null
+Failed to load json from bytes.
+Failed to load 
+ from 
+yyyy/MM/dd
+PROFILE_INCOMPATIBLE
+steam_api64.dll
+Steamworks packsize incorrect.
+Steamworks binaries out of date or missing.
+Application was not launched through Steam! Shutting down...
+Steam initializing
+Steam logged in as {0}
+Steam unable to request current stats.
+Steam failed to initialize
+Shutting down Steam API.
+Steam: 
+Steam overlay became {0}.
+opened
+closed
+Steam stats received.
+Steam failed to receive stats: {0}
+Steam shut down.
+Steam achievement {0} ({1}/{2}) upload complete
+Unable to unlock achievement {0}, because Steam is not initialized
+Pushing achievement {0}
+Unable to retrieve achievement state for {0}, because Steam is not initialized
+Failed to retrieve achievement state for {0}
+Unable to update achievement progress for {0}, because Steam is not initialized
+_STAT
+Pushing stat {0}_STAT value: {1}/{2}
+Unable to reset all stats, because Steam is not initialized
+Reset all stats
+IsStreamingBuild
+Thread Initialiser
+Play Audio clip vibration not implemented
+Stop Emissions with clip not implemented
+<color="red">Not Playing</color="red">
+<color="green">Is Playing</color="green">
+localSharedData
+localSharedData.dat
+Bone_East_24
+Plasmium Gland
+Great Gourmand
+Courier Delivery Dustpens Slave
+White Flower
+Mr Mushroom
+PURPLE HEALTH CHECK
+Shellwood_26
+Bone_East_14
+Aspid_01
+Hang_08
+Coral_28
+Slab_16
+Blank
+Prompts
+{0} (Control Point {1})
+Control Point 
+Raise
+START DOWN
+START UP
+ACTIVATED
+Silent Appear
+state
+Completed
+Singing
+Pulse
+Appear Inactive
+Appear Active
+Pre Activate
+silk_strand_impact
+black_thread_strand
+Appear Range
+Deflated
+Inflate
+Inflated
+Pivot
+BounceOnTrigger requires a Rigidbody2D component to be assigned or present on the GameObject.
+Hero Y
+BOUNCE CANCEL
+In Deactivate Antic
+Turn Start
+Turn Stop
+Turn Fail
+rosary
+CameraParent
+damages_enemy
+COG ENTER
+Breaker
+Is Dropped
+Is Depressed
+{0} seconds
+CYLINDER COMPLETED
+CYLINDER ALREADY COMPLETE
+RETRACT
+_MainTex_ST
+Cog Grind Marker
+Wound Sender Override
+WOUND START
+Multihitter
+cog_multihitter FSM needs upgrading to CogMultiHitter script
+Use Self For Angle
+cog_multihitter FSM was upgraded to CogMultiHitter script
+Belltown_Room_Fisher
+Missing Rigidbody2D on {0}
+Close
+Moving
+hasDreamNail
+seenDreamNailPrompt
+REMINDER DREAM NAIL
+flashWhitePulse
+dreamOrbs
+Idle Small
+Drop Small
+Raise Small
+Top Point
+Start Point
+Is In Updraft
+Updraft Obj
+ENTERED UPDRAFT
+EXITED UPDRAFT
+Enviro Region
+Enviro Region FSM needs upgrading to EnviroRegion script
+Enviro Type
+Enviro Region FSM was upgraded to EnviroRegion script
+Fixed Joint - 
+Platform contact point was not legitimate! (dang it, Unity D:)
+HIT SKIP EFFECTS
+Glob Land
+Glob Wobble
+Glob Break
+Infected Flag
+grubsCollected
+Idle Snowy
+Backing
+Collider Start Enabled
+RING DROP IMPACT
+IMPACT
+Cocoon Idle
+Cocoon Sweat
+Speed
+RIGHT
+Hit Source Position
+Couldn't determine valid hit direction!
+Did not have parent!
+Both objects need to be assigned to ignore collision!
+BROLLY START
+BROLLY END
+Hit Left
+Hit Right
+Hit C
+Hit CC
+Reset
+ACTIVATE
+Hit Direction
+Retracted
+Retract
+Glob Fall
+EXTRACT FINISH
+Regenerate
+_SaturationLerp
+DEACTIVATED
+DEACTIVATED_INSTANT
+Resting
+Self X
+Should not be in this state!
+Could not unsubscribe
+Dont Move
+STOP MOVE
+Notify Group
+Pressure Plate ({0})
+Pressure Plate contact point was not legitimate! (dang it, Unity D:)
+Adding force: {0} to {1} {2} {3}
+CancelSuperDash
+CancelHeroJump
+equippedCharm_27
+hasJournal
+killedOrangeScuttler
+killsOrangeScuttler
+newDataOrangeScuttler
+No silk rations left!
+BENCHREST
+Blast
+Slide Fast
+Slide Brake
+Slide Brake End
+Slide Fast End
+Slide Start
+Slide Normal
+Tile Smasher
+StalactiteBreakEffect
+Is Floating
+ENTERED FLOAT
+EXITED FLOAT
+No animator found!
+Alert
+Rage Start
+Rage End
+Disperse
+Dont Play Sound
+Grow Speed
+_CutoutsCount
+_Cutouts
+_TintColor
+_SecondaryColor
+Open Up First
+Open Down First
+Close Up First
+Close Down First
+Return
+Hidden
+ has a WalkSlope script attached. This script is now DEPRECATED. Please remove it from the prefab.
+Active
+No target!
+Target has no teleport point!
+IsVisible
+IsCharging
+IsActive
+Inactive
+Direction button deprecated!
+EndRubbleContinuation
+Quests
+FIRST_WISH
+<alpha=#55>
+</s><alpha=#FF>
+{0} is not a MainQuest. InventoryItemMainQuest should only be used with MainQuests!
+Can Complete
+Quest (
+Completed Quest (
+Main Quest (
+TYPE_
+CONTINUE QUEST BOARD DEPOSIT
+QuestBoardState_
+QUESTS_NOCONSUME
+QUESTS
+No quest board assigned!
+IsInQuestBoardDepositSequence
+Quest
+DONATE
+Skipping null quest
+CanGetMore() is not valid for this item
+Get() is not valid for this item
+Could not get counter item for quest: {0}
+NO TYPE ASSIGNED
+Couldn't get quest: 
+No quest accepted object had been previously spawned!
+TODO: Can still take rumours?
+"{0}" has no "Get()" implementation.
+PD Variable 
+ does not exist! This is fine if we're just calling this to display quest updated after bool set.
+ missing 
+ in PlayerData
+Quest test has a null quest!
+Checking completed amount for 
+. NOTE: this will check all quest targets and fail if any are below the desired amount (legacy behaviour)
+Invalid PlayMaker state! Issues were fixed automatically. Look at the errors below to find out what went wrong.
+_GameManager
+_UIManager
+_GameCameras
+DESPAWN
+OnUpdate
+updateSpriteColor
+looptype
+Taking initial readings...
+Code Profiler
+Avg frame time: 
+ fps 
+Total
+MS/frame
+Calls/fra
+MS/call
+Label
+0.000
+0.0000
+ProfilerRecording start/stops not balanced for '
+Unequip
+TOOLS APPEAR
+TFR: 
+GAME_TITLE
+Move Vector: {0}, {1}
+Move Pressed: {0}
+Move Raw L: {0} R: {1}
+Any Key Down: {0}
+./Assets/_Porting/Scene XML/
+Prefabs/
+This script is now deprecated. Please remove it from 
+ (Demo)
+(CHEATS ENABLED)
+en-AU
+Last Commit Time: 
+Build Time: 
+Tools
+SILK REFRESHED
+Trying to replenish a tool that is not unlocked!
+Cursed
+THROW_TOOL_GENERIC
+Could not load crest {0}
+Equipped tool {0} could not be found
+FIRST_SILK_SKILL
+ALL_SILK_SKILLS
+FIRST_TOOL
+ALL_TOOLS
+FIRST_CREST
+ALL_CRESTS
+TrackTriggerObjects native Object was destroyed! This should not happen...
+Transition will fail! Returning to current scene. Target Scene: {0}, Target Gate: {1}
+DOOR TOUCHED
+DOOR ENTER COMPLETE
+right
+[dynamic]
+Door Control
+Entry Gate
+New Scene
+Over Hero
+Atmos Snapshot
+Enviro Snapshot
+Music Snapshot
+Audio Transition Time
+Door Control FSM was upgraded to TransitionPoint
+PREPARE ENTRY
+START ENTRY
+FINISH ENTRY
+Trigger Enter
+Particle
+Acid trigger entered
+Could not get achievement popup!
+SetAction couldn't convert 
+Couldn't get button skin for 
+AreaTitle
+Visited
+NPC Title
+City Title
+Display Right
+Area Event
+TOOLMASTER QUICK CRAFTING
+Is Poison
+Flash Sprite
+Charms Pane
+UI Charms
+Newly Equipped Name
+All cheat codes failed
+Cheat code succeeded
+unlockedMenuStyle
+Menu Style "
+" is out of bounds.
+CTRL_UNMAPPED
+Couldn't find ControlReminder instance.
+APPEAR
+DISAPPEAR
+GET SINGLE
+NPC Dialogue Text is empty! Canceling...
+LEAVING SCENE
+OUT INSTANT
+ERROR: Empty dialogue line!
+DialogueText tag opened with '{0}' but no closing '{1}' was found!
+hpage
+GIVE_ITEM_PROMPT
+GIVE_ITEMS_PROMPT
+Text Finished
+Swap Text
+In Conversation
+Is Talking
+No NPC title found for speaker event: 
+Area Title Control
+NPC Title Waiting
+NPC TITLE DOWN CANCEL
+NPC TITLE DOWN
+No NPC dialogue table found for speaker event: 
+LINE_END
+CONVO_END
+CONVO_END_FORCED
+SpriteChild
+REMASKER FREEZE
+SECRET TONE
+Bellway_02
+Bellway_03
+Bellway_04
+Bellway_08
+Bellway_City
+Slab_06
+Shellwood_19
+Bone_05
+Bellway_Shadow
+Bellway_Aqueduct
+Song_01b
+Under_22
+Hang_06b
+Arborium_Tube
+GameCameraTextureDisplay
+_TimeOffset
+gm.tilemap is null! Refreshing tilemap info manually
+gm.tilemap is null!
+Dock_06_Church
+Black Thread Pt3 Escape
+pin_blue_health
+Compass Icon
+Shade Pos
+Map Markers
+Flea Tracker Markers
+Pan Audio Loop
+DustMazeCompassMarker
+defeatedPhantom
+Dust_09
+Dust_09_top_2
+Dust_09_into_citadel
+Dust_Maze_08_completed
+Parent RectTransform not assigned.
+MinHeight cannot be greater than MaxHeight. Adjusting values.
+Error
+_TITLE
+Is Selected
+Cursor
+Update Cursor
+UPDATE CURSOR
+Inventory Proxy
+PANE RESET
+Start Selection
+Equip
+Release press could not be performed
+Change
+{0} / {1}
+Place
+Place Skill
+Game Map
+WIDE MAP
+Allow Pane Swapping
+Do Not Close
+In Sub Menu
+Pane Move Custom
+Inventory pane {0} did not have fade group
+Only Pane
+UI ACTIVE
+UI INACTIVE
+Sing Start
+Suck No Cocoon
+Suck Cursed Start
+Target Pane
+FADE TO TARGET
+Spare Crest
+Crest slot index out of range!
+Inert
+Burst
+Tool Slot "{0}" couldn't find parent manager!
+Unlock Ready Idle
+Unlock Ready Selected
+Filled
+nailSmithUpgrades
+Tween Pos
+TWEEN
+CTRL_MARKER_PLACE
+CTRL_MARKER_REMOVE
+Next area display "
+" in "
+" did not have map scene parent.
+CTRL_PRESSBUTTON
+Could not find a suitable skin for the new button map: 
+Cancelled new {0} button binding (Not allowed to bind {1})
+New binding added for 
+{0}->{1} is already bound to {2}, cancelling rebind
+{0}->{1} is already bound to another button: {2}
+Binding rejected for 
+KEYBOARD_PRESSKEY
+KEYBOARD_UNMAPPED
+MapPinVisibilityState
+HIDDEN_ACHIEVEMENT_TITLE
+HIDDEN_ACHIEVEMENT
+HIDDEN_ACHIEVEMENT_ALT
+ERROR: Can't load achievements if they haven't been fetched yet!
+SFXVolume
+UIVolume
+CinematicVolume
+lastVersion
+0.0.0.0
+menuStyle
+permadeathMode
+No default highlight item defined.
+Pointer Up
+Pointer Down
+Steel Quest Spots array is null!
+Quest spot is null!
+CountDown
+{0} is missing button template
+Failed to create buttons
+{0}. {1}
+{0} is missing parent display
+Could not parse crest id 
+No background images have been created in this prefab.
+Current Item Sub
+TO CONFIRM
+SilkChunk Temp Use
+SilkChunk Temp Get
+SilkChunk Gone
+SilkChunk Pilgrim Disperse
+takeSource
+SilkChunk UpToGlow1
+SilkChunk Up1
+SilkChunk Down1
+SilkChunk Down Acid1
+SilkChunk Idle 1
+SilkChunk Glow 1
+SilkChunk UpToGlow2
+SilkChunk Up2
+SilkChunk Down2
+SilkChunk Down Acid2
+SilkChunk Idle 2
+SilkChunk Glow 2
+SilkChunk UpToGlow3
+SilkChunk Up3
+SilkChunk Down3
+SilkChunk Down Acid3
+SilkChunk Idle 3
+SilkChunk Glow 3
+SPOOL CAP FIX
+Spool Cursed Appear
+BIND ACTIVE
+BIND INACTIVE
+Spool Cursed Bobbing
+Spool Cursed
+No templateItem assigned!
+No itemList assigned!
+Already transitioning
+Can't transition from or to inactive
+CTRL_BUY
+{0}/{1}
+SKILL GET MSG FADED OUT
+Hide NoEquip
+statusType
+Playback Time
+_ClipRect
+{0} Setting height to {1} for {2}
+UIManager
+ could not find a UI Manager in this scene
+ animate in called.
+ animate out called.
+Attempting to get button skins before the Input Handler is ready.
+Escape
+UpArrow
+DownArrow
+LeftArrow
+RightArrow
+LeftShift
+RightShift
+LeftControl
+RightControl
+LeftAlt
+RightAlt
+Backquote
+Minus
+Equals
+Backspace
+Left Bracket
+Right Bracket
+Backslash
+Semicolon
+Quote
+Comma
+Period
+PadMultiply
+PadDivide
+PadMinus
+PadPlus
+PadPeriod
+Space
+LeftBracket
+RightBracket
+Insert
+Delete
+PageUp
+PageDown
+PadEnter
+LeftButton
+RightButton
+MiddleButton
+CapsLock
+Enter
+L Shift
+R Shift
+L Ctrl
+R Ctrl
+L Alt
+R Alt
+CpsLk
+Button
+Appear Speed
+Fade Up
+_Arc1
+_Arc2
+_Angle
+_EdgeFade
+--show-performance-hud
+--enable-developer-cheats
+--remote-save-directory=
+Type must be an enum
+Object cannot be null
+Unknown type
+Value
+Could not send {0} to {1}, GameObject could not be found in global variables!
+Invalid argument
+Memory usage exceeds the threshold.
+GCManager
+GC stutter was detected! Heap size was increased by {0}%. Current heap threshold is: {1}MB
+Draw method for {0} not implemented
+GUI Drawer
+path1
+paths
+Array length cannot be zero.
+HideInEditMode object is disabled - is this intended? (
+Region debugger is exists in scene! These should be removed before release.
+Bone_11b
+Silk Spool
+Bone_East_13
+Greymoor_02
+Song_19_entrance
+Under_10
+Ward_01
+Library_11b
+Cog_07
+Peak_01
+Dock_03c
+Arborium_09
+Weave_11
+Hang_03_top
+Grindle Shop Piece (Coral_42)
+Belltown Shop Piece
+Merchant Enclave Shop Piece (Song_Enclave)
+Flea Caravan Troupe Leader Judge Piece (Coral_Judge_Arena)
+Save Sherma Quest Piece (Ward_09)
+[A-Za-z ]
+Save slot has no version in file!
+Cleaning up save slot version resulted in empty version text!
+SceneLintLogger: 
+_UnscaledGlobalTime
+doubleJumpNpcPresent
+Attempt to get 
+ from static variable list failed!
+UKu52ePUBwetZ9wNX88o54dnfKRu0T1l
+No terrain thunk prefab to spawn!
+No runner provided for ScaleTo
+No transform provided for ScaleTo
+Inactive coroutines were cleared: {0}
+Audio clip vibration element {0} is missing an audio clip.
+Audio clip vibration element {0} is missing vibration data asset.
+{0} (i) multiple vibration data assets assigned.
+{0} is missing vibration region.
+{0} is missing audio source. Emission Sync will fail.
+{0} : {1}
+Vibration Manager Updater
+Ne exit matches found for maze entry scene
+Dust_Maze_Last_Hall
+_FogRotation
+Could not find a HeroCorpseMarker
+Dust_Maze_09_entrance
+Death Respawn Marker
+Persistent Int Item ({0}) does not have a PlayMakerFSM attached to read value from.
+There is more than one component of type: <b>{0}</b> on <b>{1}</b>, please remove one!
+Preloaded scene was not loaded with the expected load method! Expected: {0}, Was: {1}
+Cannot preload scene with empty name!
+Scene Preloader
+SceneTeleportMap
+_boss_defeated
+_boss
+_preload
+_bellway
+_mapper
+_boss_golem
+_boss_golem_rest
+_boss_beastfly
+_additive
+_caravan
+_festival
+Assets/Scenes/Tutorial_01.unity
+Tutorial_01
+right1
+Assets/Scenes/Town.unity
+left1
+door_bretta
+door_jiji
+door_sly
+door_station
+door_mapper
+room_divine
+room_grimm
+Assets/Scenes/Room_Town_Stag_Station.unity
+Room_Town_Stag_Station
+Assets/Scenes/Room_Charm_Shop.unity
+Room_Charm_Shop
+Assets/Scenes/Room_Mender_House.unity
+Room_Mender_House
+Assets/Scenes/Room_mapper.unity
+Room_mapper
+Assets/Scenes/Room_nailmaster.unity
+Room_nailmaster
+Assets/Scenes/Room_nailmaster_02.unity
+Room_nailmaster_02
+Assets/Scenes/Room_nailmaster_03.unity
+Room_nailmaster_03
+Assets/Scenes/Room_nailsmith.unity
+Room_nailsmith
+Assets/Scenes/Room_shop.unity
+Room_shop
+door1
+Assets/Scenes/Room_Sly_Storeroom.unity
+Room_Sly_Storeroom
+Assets/Scenes/Room_temple.unity
+Room_temple
+Assets/Scenes/Room_ruinhouse.unity
+Room_ruinhouse
+Assets/Scenes/Room_Mask_Maker.unity
+Room_Mask_Maker
+Assets/Scenes/Room_Mansion.unity
+Room_Mansion
+Assets/Scenes/Room_Tram.unity
+Room_Tram
+Assets/Scenes/Room_Tram_RG.unity
+Room_Tram_RG
+Assets/Scenes/Room_Bretta.unity
+Room_Bretta
+Assets/Scenes/Room_Bretta_Basement.unity
+Room_Bretta_Basement
+Assets/Scenes/Room_Fungus_Shaman.unity
+Room_Fungus_Shaman
+Assets/Scenes/Room_Ouiji.unity
+Room_Ouiji
+Assets/Scenes/Room_Jinn.unity
+Room_Jinn
+Assets/Scenes/Room_Colosseum_01.unity
+Room_Colosseum_01
+Assets/Scenes/Room_Colosseum_02.unity
+Room_Colosseum_02
+Assets/Scenes/Room_Colosseum_Bronze.unity
+Room_Colosseum_Bronze
+left1 (1)
+Assets/Scenes/Room_Colosseum_Silver.unity
+Room_Colosseum_Silver
+Assets/Scenes/Room_Colosseum_Gold.unity
+Room_Colosseum_Gold
+Assets/Scenes/Room_Colosseum_Spectate.unity
+Room_Colosseum_Spectate
+Assets/Scenes/Room_Slug_Shrine.unity
+Room_Slug_Shrine
+Assets/Scenes/Crossroads/Crossroads_01.unity
+Crossroads_01
+Assets/Scenes/Crossroads/Crossroads_02.unity
+Crossroads_02
+Assets/Scenes/Crossroads/Crossroads_03.unity
+Crossroads_03
+left2
+right2
+Assets/Scenes/Crossroads/Crossroads_04.unity
+Crossroads_04
+door_charmshop
+door_Mender_House
+Assets/Scenes/Crossroads/Crossroads_05.unity
+Crossroads_05
+Assets/Scenes/Crossroads/Crossroads_06.unity
+Crossroads_06
+Assets/Scenes/Crossroads/Crossroads_07.unity
+Crossroads_07
+left3
+Assets/Scenes/Crossroads/Crossroads_08.unity
+Crossroads_08
+Assets/Scenes/Crossroads/Crossroads_09.unity
+Crossroads_09
+Assets/Scenes/Crossroads/Crossroads_10.unity
+Crossroads_10
+Assets/Scenes/Crossroads/Crossroads_11_alt.unity
+Crossroads_11_alt
+Assets/Scenes/Crossroads/Crossroads_12.unity
+Crossroads_12
+Assets/Scenes/Crossroads/Crossroads_13.unity
+Crossroads_13
+Assets/Scenes/Crossroads/Crossroads_14.unity
+Crossroads_14
+Assets/Scenes/Crossroads/Crossroads_15.unity
+Crossroads_15
+Assets/Scenes/Crossroads/Crossroads_16.unity
+Crossroads_16
+Assets/Scenes/Crossroads/Crossroads_18.unity
+Crossroads_18
+Assets/Scenes/Crossroads/Crossroads_19.unity
+Crossroads_19
+Assets/Scenes/Crossroads/Crossroads_21.unity
+Crossroads_21
+Assets/Scenes/Crossroads/Crossroads_22.unity
+Crossroads_22
+Assets/Scenes/Crossroads/Crossroads_25.unity
+Crossroads_25
+Assets/Scenes/Crossroads/Crossroads_27.unity
+Crossroads_27
+Assets/Scenes/Crossroads/Crossroads_30.unity
+Crossroads_30
+Assets/Scenes/Crossroads/Crossroads_31.unity
+Crossroads_31
+Assets/Scenes/Crossroads/Crossroads_33.unity
+Crossroads_33
+Assets/Scenes/Crossroads/Crossroads_35.unity
+Crossroads_35
+Assets/Scenes/Crossroads/Crossroads_36.unity
+Crossroads_36
+Assets/Scenes/Crossroads/Crossroads_37.unity
+Crossroads_37
+Assets/Scenes/Crossroads/Crossroads_38.unity
+Crossroads_38
+Assets/Scenes/Crossroads/Crossroads_39.unity
+Crossroads_39
+Assets/Scenes/Crossroads/Crossroads_40.unity
+Crossroads_40
+Assets/Scenes/Crossroads/Crossroads_42.unity
+Crossroads_42
+Assets/Scenes/Crossroads/Crossroads_43.unity
+Crossroads_43
+Assets/Scenes/Crossroads/Crossroads_45.unity
+Crossroads_45
+Assets/Scenes/Crossroads/Crossroads_46.unity
+Crossroads_46
+door_tram
+Assets/Scenes/Crossroads/Crossroads_46b.unity
+Crossroads_46b
+Assets/Scenes/Crossroads/Crossroads_ShamanTemple.unity
+Crossroads_ShamanTemple
+Assets/Scenes/Crossroads/Crossroads_47.unity
+Crossroads_47
+Assets/Scenes/Crossroads/Crossroads_48.unity
+Crossroads_48
+Assets/Scenes/Crossroads/Crossroads_49.unity
+Crossroads_49
+elev_entrance
+Assets/Scenes/Crossroads/Crossroads_49b.unity
+Crossroads_49b
+Assets/Scenes/Crossroads/Crossroads_50.unity
+Crossroads_50
+Assets/Scenes/Crossroads/Crossroads_52.unity
+Crossroads_52
+Assets/Scenes/City/Ruins_House_01.unity
+Ruins_House_01
+Assets/Scenes/City/Ruins_House_02.unity
+Ruins_House_02
+Assets/Scenes/City/Ruins_House_03.unity
+Ruins_House_03
+Assets/Scenes/City/Ruins_Elevator.unity
+Ruins_Elevator
+Assets/Scenes/City/Ruins_Bathhouse.unity
+Ruins_Bathhouse
+Assets/Scenes/City/Ruins1_01.unity
+Ruins1_01
+Assets/Scenes/City/Ruins1_02.unity
+Ruins1_02
+Assets/Scenes/City/Ruins1_03.unity
+Ruins1_03
+Assets/Scenes/City/Ruins1_04.unity
+Ruins1_04
+Assets/Scenes/City/Ruins1_05.unity
+Ruins1_05
+Assets/Scenes/City/Ruins1_05b.unity
+Ruins1_05b
+Assets/Scenes/City/Ruins1_06.unity
+Ruins1_06
+Assets/Scenes/City/Ruins1_09.unity
+Ruins1_09
+Assets/Scenes/City/Ruins1_17.unity
+Ruins1_17
+Assets/Scenes/City/Ruins1_18.unity
+Ruins1_18
+Assets/Scenes/City/Ruins1_23.unity
+Ruins1_23
+Assets/Scenes/City/Ruins1_24.unity
+Ruins1_24
+Assets/Scenes/City/Ruins1_25.unity
+Ruins1_25
+Assets/Scenes/City/Ruins1_27.unity
+Ruins1_27
+Assets/Scenes/City/Ruins1_28.unity
+Ruins1_28
+Assets/Scenes/City/Ruins1_29.unity
+Ruins1_29
+Assets/Scenes/City/Ruins1_30.unity
+Ruins1_30
+Assets/Scenes/City/Ruins1_31.unity
+Ruins1_31
+Assets/Scenes/City/Ruins1_32.unity
+Ruins1_32
+Assets/Scenes/City/Ruins2_01.unity
+Ruins2_01
+Assets/Scenes/City/Ruins2_03.unity
+Ruins2_03
+Assets/Scenes/City/Ruins2_04.unity
+Ruins2_04
+door_Ruin_House_02
+door_Ruin_House_01
+door_Ruin_Elevator
+door_Ruin_House_03
+Assets/Scenes/City/Ruins2_05.unity
+Ruins2_05
+Assets/Scenes/City/Ruins2_06.unity
+Ruins2_06
+Assets/Scenes/City/Ruins2_07.unity
+Ruins2_07
+Assets/Scenes/City/Ruins2_08.unity
+Ruins2_08
+Assets/Scenes/City/Ruins2_09.unity
+Ruins2_09
+Assets/Scenes/City/Ruins2_10.unity
+Ruins2_10
+Assets/Scenes/City/Ruins2_10b.unity
+Ruins2_10b
+Assets/Scenes/City/Ruins2_11.unity
+Ruins2_11
+Assets/Scenes/City/Ruins2_Watcher_Room.unity
+Ruins2_Watcher_Room
+Assets/Scenes/Fungus/Fungus1_01.unity
+Fungus1_01
+Assets/Scenes/Fungus/Fungus1_01b.unity
+Fungus1_01b
+Assets/Scenes/Fungus/Fungus1_02.unity
+Fungus1_02
+Assets/Scenes/Fungus/Fungus1_03.unity
+Fungus1_03
+Assets/Scenes/Fungus/Fungus1_04.unity
+Fungus1_04
+Assets/Scenes/Fungus/Fungus1_05.unity
+Fungus1_05
+Assets/Scenes/Fungus/Fungus1_06.unity
+Fungus1_06
+Assets/Scenes/Fungus/Fungus1_07.unity
+Fungus1_07
+Assets/Scenes/Fungus/Fungus1_08.unity
+Fungus1_08
+Assets/Scenes/Fungus/Fungus1_09.unity
+Fungus1_09
+Assets/Scenes/Fungus/Fungus1_10.unity
+Fungus1_10
+Assets/Scenes/Fungus/Fungus1_11.unity
+Fungus1_11
+Assets/Scenes/Fungus/Fungus1_12.unity
+Fungus1_12
+Assets/Scenes/Fungus/Fungus1_13.unity
+Fungus1_13
+Assets/Scenes/Fungus/Fungus1_14.unity
+Fungus1_14
+Assets/Scenes/Fungus/Fungus1_15.unity
+Fungus1_15
+Assets/Scenes/Fungus/Fungus1_16_alt.unity
+Fungus1_16_alt
+Assets/Scenes/Fungus/Fungus1_17.unity
+Fungus1_17
+Assets/Scenes/Fungus/Fungus1_19.unity
+Fungus1_19
+Assets/Scenes/Fungus/Fungus1_20_v02.unity
+Fungus1_20_v02
+Assets/Scenes/Fungus/Fungus1_21.unity
+Fungus1_21
+Assets/Scenes/Fungus/Fungus1_22.unity
+Fungus1_22
+Assets/Scenes/Fungus/Fungus1_23.unity
+Fungus1_23
+Assets/Scenes/Fungus/Fungus1_24.unity
+Fungus1_24
+Assets/Scenes/Fungus/Fungus1_25.unity
+Fungus1_25
+Assets/Scenes/Fungus/Fungus1_26.unity
+Fungus1_26
+door_SlugShrine
+Assets/Scenes/Fungus/Fungus1_28.unity
+Fungus1_28
+Assets/Scenes/Fungus/Fungus1_29.unity
+Fungus1_29
+Assets/Scenes/Fungus/Fungus1_30.unity
+Fungus1_30
+Assets/Scenes/Fungus/Fungus1_31.unity
+Fungus1_31
+Assets/Scenes/Fungus/Fungus1_32.unity
+Fungus1_32
+Assets/Scenes/Fungus/Fungus1_34.unity
+Fungus1_34
+Assets/Scenes/Fungus/Fungus1_35.unity
+Fungus1_35
+Assets/Scenes/Fungus/Fungus1_36.unity
+Fungus1_36
+Assets/Scenes/Fungus/Fungus1_37.unity
+Fungus1_37
+Assets/Scenes/Fungus/Fungus1_Slug.unity
+Fungus1_Slug
+Assets/Scenes/Fungus/Fungus2_01.unity
+Fungus2_01
+Assets/Scenes/Fungus/Fungus2_02.unity
+Fungus2_02
+Assets/Scenes/Fungus/Fungus2_03.unity
+Fungus2_03
+Assets/Scenes/Fungus/Fungus2_04.unity
+Fungus2_04
+Assets/Scenes/Fungus/Fungus2_05.unity
+Fungus2_05
+Assets/Scenes/Fungus/Fungus2_06.unity
+Fungus2_06
+Assets/Scenes/Fungus/Fungus2_07.unity
+Fungus2_07
+Assets/Scenes/Fungus/Fungus2_08.unity
+Fungus2_08
+Assets/Scenes/Fungus/Fungus2_09.unity
+Fungus2_09
+Assets/Scenes/Fungus/Fungus2_10.unity
+Fungus2_10
+Assets/Scenes/Fungus/Fungus2_11.unity
+Fungus2_11
+Assets/Scenes/Fungus/Fungus2_12.unity
+Fungus2_12
+Assets/Scenes/Fungus/Fungus2_13.unity
+Fungus2_13
+Assets/Scenes/Fungus/Fungus2_14.unity
+Fungus2_14
+Assets/Scenes/Fungus/Fungus2_15.unity
+Fungus2_15
+Assets/Scenes/Fungus/Fungus2_17.unity
+Fungus2_17
+Assets/Scenes/Fungus/Fungus2_18.unity
+Fungus2_18
+Assets/Scenes/Fungus/Fungus2_19.unity
+Fungus2_19
+Assets/Scenes/Fungus/Fungus2_20.unity
+Fungus2_20
+Assets/Scenes/Fungus/Fungus2_21.unity
+Fungus2_21
+Assets/Scenes/Fungus/Fungus2_23.unity
+Fungus2_23
+Assets/Scenes/Fungus/Fungus2_25.unity
+Fungus2_25
+right1 (1)
+Assets/Scenes/Fungus/Fungus2_26.unity
+Fungus2_26
+Assets/Scenes/Fungus/Fungus2_28.unity
+Fungus2_28
+Assets/Scenes/Fungus/Fungus2_29.unity
+Fungus2_29
+Assets/Scenes/Fungus/Fungus2_30.unity
+Fungus2_30
+Assets/Scenes/Fungus/Fungus2_31.unity
+Fungus2_31
+Assets/Scenes/Fungus/Fungus2_32.unity
+Fungus2_32
+Assets/Scenes/Fungus/Fungus2_33.unity
+Fungus2_33
+Assets/Scenes/Fungus/Fungus2_34.unity
+Fungus2_34
+Assets/Scenes/Fungus/Fungus3_01.unity
+Fungus3_01
+Assets/Scenes/Fungus/Fungus3_02.unity
+Fungus3_02
+Assets/Scenes/Fungus/Fungus3_03.unity
+Fungus3_03
+Assets/Scenes/Fungus/Fungus3_04.unity
+Fungus3_04
+Assets/Scenes/Fungus/Fungus3_05.unity
+Fungus3_05
+Assets/Scenes/Fungus/Fungus3_08.unity
+Fungus3_08
+Assets/Scenes/Fungus/Fungus3_10.unity
+Fungus3_10
+Assets/Scenes/Fungus/Fungus3_11.unity
+Fungus3_11
+Assets/Scenes/Fungus/Fungus3_13.unity
+Fungus3_13
+Assets/Scenes/Fungus/Fungus3_21.unity
+Fungus3_21
+Assets/Scenes/Fungus/Fungus3_22.unity
+Fungus3_22
+Assets/Scenes/Fungus/Fungus3_23.unity
+Fungus3_23
+Assets/Scenes/Fungus/Fungus3_24.unity
+Fungus3_24
+Assets/Scenes/Fungus/Fungus3_25.unity
+Fungus3_25
+Assets/Scenes/Fungus/Fungus3_25b.unity
+Fungus3_25b
+Assets/Scenes/Fungus/Fungus3_26.unity
+Fungus3_26
+Assets/Scenes/Fungus/Fungus3_27.unity
+Fungus3_27
+Assets/Scenes/Fungus/Fungus3_28.unity
+Fungus3_28
+Assets/Scenes/Fungus/Fungus3_30.unity
+Fungus3_30
+Assets/Scenes/Fungus/Fungus3_34.unity
+Fungus3_34
+Assets/Scenes/Fungus/Fungus3_35.unity
+Fungus3_35
+Assets/Scenes/Fungus/Fungus3_39.unity
+Fungus3_39
+Assets/Scenes/Fungus/Fungus3_40.unity
+Fungus3_40
+Assets/Scenes/Fungus/Fungus3_44.unity
+Fungus3_44
+Assets/Scenes/Fungus/Fungus3_47.unity
+Fungus3_47
+Assets/Scenes/Fungus/Fungus3_48.unity
+Fungus3_48
+Assets/Scenes/Fungus/Fungus3_49.unity
+Fungus3_49
+Assets/Scenes/Fungus/Fungus3_50.unity
+Fungus3_50
+Assets/Scenes/Fungus/Fungus3_archive.unity
+Fungus3_archive
+Assets/Scenes/Fungus/Fungus3_archive_02.unity
+Fungus3_archive_02
+Assets/Scenes/Cliffs/Cliffs_01.unity
+Cliffs_01
+right4
+right3
+Assets/Scenes/Cliffs/Cliffs_02.unity
+Cliffs_02
+Assets/Scenes/Cliffs/Cliffs_03.unity
+Cliffs_03
+Assets/Scenes/Cliffs/Cliffs_04.unity
+Cliffs_04
+Assets/Scenes/Cliffs/Cliffs_05.unity
+Cliffs_05
+Assets/Scenes/Cliffs/Cliffs_06.unity
+Cliffs_06
+Assets/Scenes/Resting Grounds/RestingGrounds_02.unity
+RestingGrounds_02
+Assets/Scenes/Resting Grounds/RestingGrounds_04.unity
+RestingGrounds_04
+Assets/Scenes/Resting Grounds/RestingGrounds_05.unity
+RestingGrounds_05
+Assets/Scenes/Resting Grounds/RestingGrounds_06.unity
+RestingGrounds_06
+Assets/Scenes/Resting Grounds/RestingGrounds_07.unity
+RestingGrounds_07
+Assets/Scenes/Resting Grounds/RestingGrounds_08.unity
+RestingGrounds_08
+Assets/Scenes/Resting Grounds/RestingGrounds_09.unity
+RestingGrounds_09
+Assets/Scenes/Resting Grounds/RestingGrounds_10.unity
+RestingGrounds_10
+Assets/Scenes/Resting Grounds/RestingGrounds_12.unity
+RestingGrounds_12
+door_Mansion
+Assets/Scenes/Resting Grounds/RestingGrounds_17.unity
+RestingGrounds_17
+Assets/Scenes/Mines/Mines_01.unity
+Mines_01
+Assets/Scenes/Mines/Mines_02.unity
+Mines_02
+Assets/Scenes/Mines/Mines_03.unity
+Mines_03
+Assets/Scenes/Mines/Mines_04.unity
+Mines_04
+Assets/Scenes/Mines/Mines_05.unity
+Mines_05
+Assets/Scenes/Mines/Mines_06.unity
+Mines_06
+Assets/Scenes/Mines/Mines_07.unity
+Mines_07
+Assets/Scenes/Mines/Mines_10.unity
+Mines_10
+Assets/Scenes/Mines/Mines_11.unity
+Mines_11
+Assets/Scenes/Mines/Mines_13.unity
+Mines_13
+Assets/Scenes/Mines/Mines_16.unity
+Mines_16
+Assets/Scenes/Mines/Mines_17.unity
+Mines_17
+Assets/Scenes/Mines/Mines_18.unity
+Mines_18
+Assets/Scenes/Mines/Mines_19.unity
+Mines_19
+Assets/Scenes/Mines/Mines_20.unity
+Mines_20
+Assets/Scenes/Mines/Mines_23.unity
+Mines_23
+Assets/Scenes/Mines/Mines_24.unity
+Mines_24
+Assets/Scenes/Mines/Mines_25.unity
+Mines_25
+Assets/Scenes/Mines/Mines_28.unity
+Mines_28
+Assets/Scenes/Mines/Mines_29.unity
+Mines_29
+Assets/Scenes/Mines/Mines_30.unity
+Mines_30
+Assets/Scenes/Mines/Mines_31.unity
+Mines_31
+Assets/Scenes/Mines/Mines_32.unity
+Mines_32
+Assets/Scenes/Mines/Mines_33.unity
+Mines_33
+Assets/Scenes/Mines/Mines_34.unity
+Mines_34
+Assets/Scenes/Mines/Mines_35.unity
+Mines_35
+Assets/Scenes/Mines/Mines_36.unity
+Mines_36
+Assets/Scenes/Mines/Mines_37.unity
+Mines_37
+Assets/Scenes/Deepnest/Deepnest_01.unity
+Deepnest_01
+Assets/Scenes/Deepnest/Deepnest_01b.unity
+Deepnest_01b
+Assets/Scenes/Deepnest/Deepnest_02.unity
+Deepnest_02
+Assets/Scenes/Deepnest/Deepnest_03.unity
+Deepnest_03
+Assets/Scenes/Deepnest/Deepnest_09.unity
+Deepnest_09
+Assets/Scenes/Deepnest/Deepnest_10.unity
+Deepnest_10
+door2
+Assets/Scenes/Deepnest/Deepnest_14.unity
+Deepnest_14
+left1 (2)
+left1 (3)
+Assets/Scenes/Deepnest/Deepnest_16.unity
+Deepnest_16
+Assets/Scenes/Deepnest/Deepnest_17.unity
+Deepnest_17
+Assets/Scenes/Deepnest/Deepnest_26.unity
+Deepnest_26
+right1 (2)
+right1 (3)
+Assets/Scenes/Deepnest/Deepnest_30.unity
+Deepnest_30
+Assets/Scenes/Deepnest/Deepnest_31.unity
+Deepnest_31
+Assets/Scenes/Deepnest/Deepnest_32.unity
+Deepnest_32
+Assets/Scenes/Deepnest/Deepnest_33.unity
+Deepnest_33
+Assets/Scenes/Deepnest/Deepnest_34.unity
+Deepnest_34
+Assets/Scenes/Deepnest/Deepnest_35.unity
+Deepnest_35
+Assets/Scenes/Deepnest/Deepnest_36.unity
+Deepnest_36
+Assets/Scenes/Deepnest/Deepnest_37.unity
+Deepnest_37
+Assets/Scenes/Deepnest/Deepnest_38.unity
+Deepnest_38
+Assets/Scenes/Deepnest/Deepnest_39.unity
+Deepnest_39
+Assets/Scenes/Deepnest/Deepnest_40.unity
+Deepnest_40
+Assets/Scenes/Deepnest/Deepnest_41.unity
+Deepnest_41
+Assets/Scenes/Deepnest/Deepnest_42.unity
+Deepnest_42
+Assets/Scenes/Deepnest/Deepnest_43.unity
+Deepnest_43
+Assets/Scenes/Deepnest/Deepnest_44.unity
+Deepnest_44
+Assets/Scenes/Deepnest/Deepnest_45_v02.unity
+Deepnest_45_v02
+Assets/Scenes/Deepnest/Deepnest_Spider_Town.unity
+Deepnest_Spider_Town
+Assets/Scenes/Room_spider_small.unity
+Room_spider_small
+Assets/Scenes/Deepnest/Deepnest_East_01.unity
+Deepnest_East_01
+Assets/Scenes/Deepnest/Deepnest_East_02.unity
+Deepnest_East_02
+Assets/Scenes/Deepnest/Deepnest_East_03.unity
+Deepnest_East_03
+Assets/Scenes/Deepnest/Deepnest_East_04.unity
+Deepnest_East_04
+Assets/Scenes/Deepnest/Deepnest_East_06.unity
+Deepnest_East_06
+Assets/Scenes/Deepnest/Deepnest_East_07.unity
+Deepnest_East_07
+Assets/Scenes/Deepnest/Deepnest_East_08.unity
+Deepnest_East_08
+Assets/Scenes/Deepnest/Deepnest_East_09.unity
+Deepnest_East_09
+Assets/Scenes/Deepnest/Deepnest_East_10.unity
+Deepnest_East_10
+Assets/Scenes/Deepnest/Deepnest_East_11.unity
+Deepnest_East_11
+Assets/Scenes/Deepnest/Deepnest_East_12.unity
+Deepnest_East_12
+door_cutsceneReturn
+Assets/Scenes/Deepnest/Deepnest_East_13.unity
+Deepnest_East_13
+Assets/Scenes/Deepnest/Deepnest_East_14.unity
+Deepnest_East_14
+Assets/Scenes/Deepnest/Deepnest_East_15.unity
+Deepnest_East_15
+Assets/Scenes/Deepnest/Deepnest_East_16.unity
+Deepnest_East_16
+Assets/Scenes/Deepnest/Deepnest_East_17.unity
+Deepnest_East_17
+Assets/Scenes/Deepnest/Deepnest_East_18.unity
+Deepnest_East_18
+Assets/Scenes/Deepnest/Deepnest_East_Hornet.unity
+Deepnest_East_Hornet
+Assets/Scenes/Room_Wyrm.unity
+Room_Wyrm
+Assets/Scenes/Abyss/Abyss_01.unity
+Abyss_01
+Assets/Scenes/Abyss/Abyss_02.unity
+Abyss_02
+Assets/Scenes/Abyss/Abyss_03.unity
+Abyss_03
+door_tram_arrive
+Assets/Scenes/Abyss/Abyss_03_b.unity
+Abyss_03_b
+Assets/Scenes/Abyss/Abyss_03_c.unity
+Abyss_03_c
+Assets/Scenes/Abyss/Abyss_04.unity
+Abyss_04
+Assets/Scenes/Abyss/Abyss_05.unity
+Abyss_05
+Assets/Scenes/Abyss/Abyss_06_Core.unity
+Abyss_06_Core
+left1 extra
+Assets/Scenes/Abyss/Abyss_08.unity
+Abyss_08
+Assets/Scenes/Abyss/Abyss_09.unity
+Abyss_09
+Assets/Scenes/Abyss/Abyss_10.unity
+Abyss_10
+Assets/Scenes/Abyss/Abyss_12.unity
+Abyss_12
+Assets/Scenes/Abyss/Abyss_15.unity
+Abyss_15
+Assets/Scenes/Abyss/Abyss_16.unity
+Abyss_16
+Assets/Scenes/Abyss/Abyss_17.unity
+Abyss_17
+Assets/Scenes/Abyss/Abyss_18.unity
+Abyss_18
+Assets/Scenes/Abyss/Abyss_19.unity
+Abyss_19
+Assets/Scenes/Abyss/Abyss_20.unity
+Abyss_20
+Assets/Scenes/Abyss/Abyss_21.unity
+Abyss_21
+Assets/Scenes/Abyss/Abyss_22.unity
+Abyss_22
+Assets/Scenes/Abyss/Abyss_Lighthouse_room.unity
+Abyss_Lighthouse_room
+Assets/Scenes/Room_Queen.unity
+Room_Queen
+Assets/Scenes/Waterways/Waterways_01.unity
+Waterways_01
+Assets/Scenes/Waterways/Waterways_02.unity
+Waterways_02
+Assets/Scenes/Waterways/Waterways_03.unity
+Waterways_03
+Assets/Scenes/Waterways/Waterways_04.unity
+Waterways_04
+Assets/Scenes/Waterways/Waterways_04b.unity
+Waterways_04b
+Assets/Scenes/Waterways/Waterways_05.unity
+Waterways_05
+Assets/Scenes/Waterways/Waterways_06.unity
+Waterways_06
+Assets/Scenes/Waterways/Waterways_07.unity
+Waterways_07
+Assets/Scenes/Waterways/Waterways_08.unity
+Waterways_08
+Assets/Scenes/Waterways/Waterways_09.unity
+Waterways_09
+Assets/Scenes/Waterways/Waterways_12.unity
+Waterways_12
+Assets/Scenes/Waterways/Waterways_13.unity
+Waterways_13
+Assets/Scenes/Waterways/Waterways_14.unity
+Waterways_14
+Assets/Scenes/Waterways/Waterways_15.unity
+Waterways_15
+Assets/Scenes/White Palace/White_Palace_01.unity
+White_Palace_01
+Assets/Scenes/White Palace/White_Palace_02.unity
+White_Palace_02
+Assets/Scenes/White Palace/White_Palace_03_hub.unity
+White_Palace_03_hub
+doorWarp
+Assets/Scenes/White Palace/White_Palace_04.unity
+White_Palace_04
+Assets/Scenes/White Palace/White_Palace_05.unity
+White_Palace_05
+Assets/Scenes/White Palace/White_Palace_06.unity
+White_Palace_06
+Assets/Scenes/White Palace/White_Palace_07.unity
+White_Palace_07
+Assets/Scenes/White Palace/White_Palace_08.unity
+White_Palace_08
+Assets/Scenes/White Palace/White_Palace_09.unity
+White_Palace_09
+Assets/Scenes/White Palace/White_Palace_11.unity
+White_Palace_11
+Assets/Scenes/White Palace/White_Palace_12.unity
+White_Palace_12
+Assets/Scenes/White Palace/White_Palace_13.unity
+White_Palace_13
+Assets/Scenes/White Palace/White_Palace_14.unity
+White_Palace_14
+Assets/Scenes/White Palace/White_Palace_15.unity
+White_Palace_15
+Assets/Scenes/White Palace/White_Palace_16.unity
+White_Palace_16
+Assets/Scenes/White Palace/White_Palace_17.unity
+White_Palace_17
+Assets/Scenes/White Palace/White_Palace_18.unity
+White_Palace_18
+Assets/Scenes/White Palace/White_Palace_19.unity
+White_Palace_19
+Assets/Scenes/White Palace/White_Palace_20.unity
+White_Palace_20
+Assets/Scenes/Hive/Hive_01.unity
+Hive_01
+Assets/Scenes/Hive/Hive_02.unity
+Hive_02
+Assets/Scenes/Hive/Hive_03.unity
+Hive_03
+Assets/Scenes/Hive/Hive_04.unity
+Hive_04
+Assets/Scenes/Hive/Hive_05.unity
+Hive_05
+Assets/Scenes/Grimm/Grimm_Divine.unity
+Grimm_Divine
+Assets/Scenes/Grimm/Grimm_Main_Tent.unity
+Grimm_Main_Tent
+Assets/Scenes/Grimm/Grimm_Nightmare.unity
+Grimm_Nightmare
+Assets/Scenes/Dream/Dream_Nailcollection.unity
+Dream_Nailcollection
+door_dreamReturn3
+door_dreamReturn2
+door_dreamReturn4
+Assets/Scenes/Dream/Dream_01_False_Knight.unity
+Dream_01_False_Knight
+Assets/Scenes/Dream/Dream_02_Mage_Lord.unity
+Dream_02_Mage_Lord
+Assets/Scenes/Dream/Dream_03_Infected_Knight.unity
+Dream_03_Infected_Knight
+Assets/Scenes/Dream/Dream_04_White_Defender.unity
+Dream_04_White_Defender
+Assets/Scenes/Dream/Dream_Mighty_Zote.unity
+Dream_Mighty_Zote
+Assets/Scenes/Dream/Dream_Guardian_Hegemol.unity
+Dream_Guardian_Hegemol
+Assets/Scenes/Dream/Dream_Guardian_Lurien.unity
+Dream_Guardian_Lurien
+Assets/Scenes/Dream/Dream_Guardian_Monomon.unity
+Dream_Guardian_Monomon
+Assets/Scenes/Dream/Dream_Backer_Shrine.unity
+Dream_Backer_Shrine
+Assets/Scenes/Dream/Dream_Room_Believer_Shrine.unity
+Dream_Room_Believer_Shrine
+Assets/Scenes/Dream/Dream_Abyss.unity
+Dream_Abyss
+Assets/Scenes/Dream/Dream_Final_Boss.unity
+Dream_Final_Boss
+Assets/Scenes/Room_Final_Boss_Atrium.unity
+Room_Final_Boss_Atrium
+Assets/Scenes/Room_Final_Boss_Core.unity
+Room_Final_Boss_Core
+Assets/Scenes/Testing/_test_charms.unity
+_test_charms
+Assets/Scenes/Testing/_test_dream.unity
+_test_dream
+amazing!
+tester
+InlineGraphicManager component is now Obsolete and has been removed from [
+] along with its InlineGraphic child.
+Sprite Assets/Default Sprite Asset
+Inline Graphic
+No Sprite Asset is assigned.
+Sprite index exceeds the number of sprites in this Sprite Asset.
+Converting from using anchor and lineLength properties to Text Container.
+lineLength set called.
+TMPro_Text_Mesh
+Converting Vertex Colors from Color32 to Color.
+TMP_Private_Mesh
+Please assign a Font Asset to this 
+ gameobject.
+Fonts & Materials/ARIAL SDF
+The ARIAL SDF Font Asset was not found. There is no Font Asset assigned to 
+Dictionary is Null!
+_CullMode
+ Instance
+Character with ASCII value of 
+ was not found in the Font Asset Glyph Table.
+ was not found in the Font Asset Glyph Table. It was replaced by a space.
+Can't Generate Mesh! No Font Asset has been assigned to Object ID: 
+Unable to use Ellipsis character since it wasn't found in the current Font Asset [
+]. Consider regenerating this font asset to include the Ellipsis character (u+2026).
+Note: Warnings can be disabled in the TMP Settings file.
+ERROR: Cannot Match both Vertical & Horizontal.
+TMPro_UGUI_Private_Mesh
+The Font Atlas Texture of the Font Asset 
+ assigned to 
+ is missing.
+Min (
+)   Max (
+_FaceTex
+_FaceColor
+_FaceDilate
+_FaceShininess
+_UnderlayColor
+_UnderlayOffsetX
+_UnderlayOffsetY
+_UnderlayDilate
+_UnderlaySoftness
+_WeightNormal
+_WeightBold
+_OutlineTex
+_OutlineWidth
+_OutlineSoftness
+_OutlineColor
+_GradientScale
+_ScaleX
+_ScaleY
+_PerspectiveFilter
+_TextureWidth
+_TextureHeight
+_Bevel
+_LightAngle
+_EnvMatrix
+_EnvMatrixRotation
+_GlowColor
+_GlowOffset
+_GlowPower
+_GlowOuter
+_MaskCoord
+_UseClipRect
+_MaskSoftnessX
+_MaskSoftnessY
+_VertexOffsetX
+_VertexOffsetY
+_Stencil
+_StencilOp
+_StencilComp
+_StencilReadMask
+_StencilWriteMask
+_ShaderFlags
+_ScaleRatioA
+_ScaleRatioB
+_ScaleRatioC
+BEVEL_ON
+GLOW_ON
+UNDERLAY_ON
+RATIOS_OFF
+MASK_SOFT
+MASK_HARD
+MASK_TEX
+OUTLINE_ON
+unity_GUIZTestMode
+Coroutine container not configured... did you forget to call Init?
+Scrollbar
+Sliding Area
+Handle
+TextMeshPro - InputField
+Text Area
+Placeholder
+Enter text...
+Dropdown
+Arrow
+Template
+Viewport
+Content
+Item Background
+Item Checkmark
+Item Label
+Option A
+Option B
+Option C
+The dropdown template is not assigned. The template needs to be assigned and must have a child GameObject with a Toggle component serving as the item.
+The dropdown template is not valid. The template must have a child GameObject with a Toggle component serving as the item.
+The dropdown template is not valid. The child GameObject with a Toggle component (the item) must have a RectTransform on its parent.
+The dropdown template is not valid. The Item Text must be on the item GameObject or children of it.
+The dropdown template is not valid. The Item Image must be on the item GameObject or children of it.
+Dropdown List
+Blocker
+Item 
+Kerning Key for [
+] and [
+] already exists.
+TMP_InputField_Mesh
+SelectAll
+ Input Caret
+!#$%&'*+-/=?^_`{|}~
+Selected Shader does not support Stencil Masking. Please select the Distance Field or Mobile Distance Field Shader.
+No Masking Material exists for 
+Removed (1) reference to 
+. There are 
+ references left.
+Removed last reference to 
+ with ID 
+Material List has already been cleared.
+TMP_MeshInfo_Mesh
+Internal error. Trying to destroy object that is already released to pool.
+TMP Settings
+TextMeshPro/Sprite
+Style Sheets/TMP Default Style Sheet
+TMP_SubMesh_Mesh
+ (Instance)
+TMP_SubMeshUI_Mesh
+TMP UI SubObject [
+Unable to add underline since the Font Asset doesn't contain the underline character.
+-------------------------------- !-#$%&-()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[-]^_`abcdefghijklmnopqrstuvwxyz{|}~-
+-------------------------------- !-#$%&-()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[-]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~-
+Perform update of MeshRenderer objects.
+Invalid profile button ID
+MenuButton missing flashEffect!
+Flash
+{0} does not support save data import.
+UpdateMonitorSetting...
+Could not find currently active display
+Failed to update frame cap setting. Selected index out of range.
+Couldn't match current Target Frame Rate setting - 
+MOH_OFF
+Couldn't find currently active language
+LANG_CURRENT
+{0} - Trying to select an option outside the list size (index: {1} listsize: {2})
+CancelAction not implemented for this control
+{0} x {1} @ {2:0.##}Hz
+ doesn't have a select sound specified. 
+Restore point was selected while in an unexpected state
+Restore Point Data is null
+Failed fetch restore points Slot {0}
+Timed out while trying to fetch restore points {0}
+Encountered unexpected state while trying to restore save {0}
+lastProfileIndex
+SAVE_CORRUPTED
+Unable to override data while not in restore save state
+UI Extensions/SoftMaskShader
+_AlphaMask
+_HardBlend
+_FlipAlphaMask
+_CutOff
+Quest object is null!
+large
+Playstation Gamepads
+Initialising Vibration Manager
+Found vibration data for {0} - {1}
+Found {0} vibration for {1} audio
+No vibration clip has been set for {0}
+Failed to find vibration data for {0}
+Joystick
+Button7
+leftstick
+horizontal
+vertical
+rightstick
+Button0
+Button1
+Button2
+Button3
+Button4
+Button5
+Button8
+Button9
+_horizontal
+_vertical
+joystick
+_left_trigger
+{0}: {1} : {2}
+Xbox id map not assigned
+ localised string changed from 
+#{0} : {1} : Did not find {2} for {3} in {4}
+Data Assets/Localisation
+Online Config Backup
+achievements2017
+localization
+Assets/Data Assets/Localisation/Xbox Achievement Database.asset
+Assets/Data Assets/Localisation/Xbox Localisation Database.asset
+{0}: !!{1}/{2}!! : {3}
+#{0} contains duplicated language code {1}
+#{0} contains duplicated locale {1}
+Languages list contains errors, Please fix before trying again.
+#{0} Unable to update {1} missing localised string
+Failed to switch language to {0}. Skipping.
+Encountered error while updating localisation for {0} - {1} : {2}
+Error while trying to fetch restore points for Slot #{0} : {1}
+Error while trying to load versioned backups for Slot # {0} : {1}
+Initializing Game Core runtime
+Retrieving Title ID
+Initialize Xbox Live
+00000000-0000-0000-0000-0000636f5860
+IAP_UNEXPECTED: Does the player you are signed in as have a license for the game? You can get one by downloading your game from the store and purchasing it first. If you can't find your game in the store, have you published it in Partner Center?
+E_GAMEUSER_NO_PACKAGE_IDENTITY: Are you trying to call GDK APIs from the Unity editor? To call GDK APIs, you must use the GDK > Build and Run menu. You can debug your code by attaching the Unity debugger once yourgame is launched.
+E_GAMERUNTIME_NOT_INITIALIZED: Are you trying to call GDK APIs from the Unity editor? To call GDK APIs, you must use the GDK > Build and Run menu. You can debug your code by attaching the Unity debugger once yourgame is launched.
+AM_E_XAST_UNEXPECTED: Have you added the Windows 10 PC platform on the Xbox Settings page in Partner Center? Learn more: aka.ms/sandboxtroubleshootingguide
+GXDK Task Queue Dispatch
+Setting resolution to {0}x{1} @ {2}Hz
+Already at desired resolution: {0}x{1} @ {2}Hz
+No matching refresh rate found for current resolution: {0}x{1} @ {2}Hz.
+Initialize game save provider
+save{0}
+restore{0}
+Save : "
+" : "
+ failed. No user detected.
+Check File Exists : "
+Enumerate "
+Loaded Blob : "
+Deleted Container : "
+Deleted Blob : "
+Sign in.
+Get Local User ID
+DownloadAndInstallPackageUpdates callback
+Unable to load shared data. Missing container name.
+Unable to load shared data. Missing file name.
+Unable to save shared data. Missing container name.
+Unable to save shared data. Missing file name.
+Failed to load data 
+<color="red">Disabled</color>
+<color="green">Enabled</color>
+Apply Layout
+FastNoise effect failing as noise texture is not assigned. please assign.
+_NoisePerChannel
+_NoiseTilingPerChannel
+_MidGrey
+_NoiseAmount
+Global Audio Settings
+Global Camera Settings
+Global Corpse Settings
+Global Demo Settings
+Global Effects Settings
+Global Gameplay Settings
+GlobalSettings Loader 
+GlobalSettings/
+.asset
+Global UI Settings
+arccos
+arcsin
+arctan
+floor
+ceiling
+round
+truncate
+major
+minor
+pitograd
+piofgrad
+#\{.*?\}#
+\b(sqr|sqrt)\b
+\b(atan2|arctan2)\b
+arctan2
+No closing bracket/parenthesis. Token: 
+Cannot query property 'IsValid' for unbound BindingSource.
+Keyboard
+Index 
+ is out of the range 0..
+Unknown data format version: 
+Mouse
+Binding source is already bound to action 
+Index is out of range for bindings on this action.
+Binding source to replace is not present in this action.
+Don't know how to load BindingSourceType: 
+Action '
+' already exists in this set.
+' does not exist in this action set.
+Unknown data format.
+Provided state could not be loaded:
+Negative 
+Positive 
+Unknown Controller
+UnknownDeviceControl( {0}, {1} )
+new InputControlSource( InputControlSourceType.
+Cannot be updated with an earlier tick.
+Cannot be updated for a new tick until pending tick is committed.
+Left Stick X
+Left Stick Y
+Right Stick X
+Right Stick Y
+DPad X
+DPad Y
+Command
+Cannot find type: 
+(is the IL2CPP stripping level too high?)
+Left Stick Left
+Left Stick Right
+Left Stick Up
+Left Stick Down
+Right Stick Left
+Right Stick Right
+Right Stick Up
+Right Stick Down
+DPad Left
+DPad Right
+DPad Up
+DPad Down
+InControl (version 
+[InControl] NativeInputDeviceManager enabled.
+[InControl] XInputDeviceManager enabled.
+NewUnityInputDeviceManager enabled.
+InputManager is not initialized. Call InputManager.Setup() first.
+A device manager of type '
+' already exists; cannot add another.
+Shift
+Option
+Control
+Left Shift
+Left Alt
+Left Option
+Left Command
+Left Control
+Right Shift
+Right Alt
+Right Option
+Right Command
+Right Control
+Left Arrow
+Right Arrow
+Up Arrow
+Down Arrow
+Numpad 0
+Numpad 1
+Numpad 2
+Numpad 3
+Numpad 4
+Numpad 5
+Numpad 6
+Numpad 7
+Numpad 8
+Numpad 9
+Numlock
+Numpad Divide
+Numpad Multiply
+Numpad Minus
+Numpad Plus
+Numpad Enter
+Numpad Period
+Clear
+Numpad Equals
+AltGr
+Caps Lock
+Exclamation Mark
+Tilde
+Dollar
+Percent
+Caret
+Ampersand
+Asterisk
+Left Paren
+Right Paren
+Underscore
+Left Brace
+Right Brace
+Colon
+Double Quote
+Less Than
+Greater Than
+Question Mark
+{NAME}
+Unknown Device
+Button 
+Analog 
+Attached native device with handle 
+Name: {0}
+Driver Type: {0}
+Location ID: {0}
+Serial Number: {0}
+Vendor ID: 0x{0:x}
+Product ID: 0x{0:x}
+Version Number: 0x{0:x}
+Buttons: {0}
+Analogs: {0}
+Detached native device with handle 
+Couldn't find device to detach with handle: 
+InControl Native (version 
+ could not be found or is missing a dependency.
+Error enabling NativeInputDeviceManager: 
+InControl.NativeDeviceProfiles.AfterglowXbox360WindowsNativeProfile
+InControl.NativeDeviceProfiles.AirFloControllerMacNativeProfile
+InControl.NativeDeviceProfiles.AirFloPS3WindowsNativeProfile
+InControl.NativeDeviceProfiles.AppleMFiExtendedGamepadNativeProfile
+InControl.NativeDeviceProfiles.AppleMFiMicroGamepadNativeProfile
+InControl.NativeDeviceProfiles.ArdwiinoControllerMacNativeProfile
+InControl.NativeDeviceProfiles.AtPlayControllerMacNativeProfile
+InControl.NativeDeviceProfiles.BatarangControllerMacNativeProfile
+InControl.NativeDeviceProfiles.BETAOPControllerMacNativeProfile
+InControl.NativeDeviceProfiles.BigBenControllerMacNativeProfile
+InControl.NativeDeviceProfiles.BrookNeoGeoConverterMacNativeProfile
+InControl.NativeDeviceProfiles.BrookPS2ConverterMacNativeProfile
+InControl.NativeDeviceProfiles.BuffaloClassicMacNativeProfile
+InControl.NativeDeviceProfiles.BuffaloClassicWindowsNativeProfile
+InControl.NativeDeviceProfiles.DragonRiseArcadeStickMacNativeProfile
+InControl.NativeDeviceProfiles.DualSenseMFiNativeProfile
+InControl.NativeDeviceProfiles.DualShock4MFiNativeProfile
+InControl.NativeDeviceProfiles.EASportsControllerMacNativeProfile
+InControl.NativeDeviceProfiles.EightBitdoNES30ProBTMacNativeProfile
+InControl.NativeDeviceProfiles.EightBitdoNES30ProUSBMacNativeProfile
+InControl.NativeDeviceProfiles.EightBitdoNES30ProWindowsNativeProfile
+InControl.NativeDeviceProfiles.EightBitdoSF30ProWindowsNativeProfile
+InControl.NativeDeviceProfiles.EightBitdoSFC30MacNativeProfile
+InControl.NativeDeviceProfiles.EightBitdoSFC30WindowsNativeProfile
+InControl.NativeDeviceProfiles.EightBitdoSN30ProWindowsNativeProfile
+InControl.NativeDeviceProfiles.EightBitdoSNES30MacNativeProfile
+InControl.NativeDeviceProfiles.EightBitdoSNES30WindowsNativeProfile
+InControl.NativeDeviceProfiles.ElecomControllerMacNativeProfile
+InControl.NativeDeviceProfiles.FusionXboxOneControllerMacNativeProfile
+InControl.NativeDeviceProfiles.GameCubeMayflashWindowsNativeProfile
+InControl.NativeDeviceProfiles.GameCubeWindowsNativeProfile
+InControl.NativeDeviceProfiles.GameStopControllerMacNativeProfile
+InControl.NativeDeviceProfiles.GoogleStadiaMacNativeProfile
+InControl.NativeDeviceProfiles.GoogleStadiaWindowsNativeProfile
+InControl.NativeDeviceProfiles.GuitarHeroControllerMacNativeProfile
+InControl.NativeDeviceProfiles.HarmonixDrumKitMacNativeProfile
+InControl.NativeDeviceProfiles.HarmonixGuitarMacNativeProfile
+InControl.NativeDeviceProfiles.HarmonixKeyboardMacNativeProfile
+InControl.NativeDeviceProfiles.HoneyBeeControllerMacNativeProfile
+InControl.NativeDeviceProfiles.HoriBlueSoloControllerMacNativeProfile
+InControl.NativeDeviceProfiles.HoriControllerMacNativeProfile
+InControl.NativeDeviceProfiles.HoriDOA4ArcadeStickMacNativeProfile
+InControl.NativeDeviceProfiles.HoriEdgeFightingStickMacNativeProfile
+InControl.NativeDeviceProfiles.HoriEX2ControllerMacNativeProfile
+InControl.NativeDeviceProfiles.HORIFightingCommanderControllerMacNativeProfile
+InControl.NativeDeviceProfiles.HoriFightingCommanderMacNativeProfile
+InControl.NativeDeviceProfiles.HoriFightingEdgeArcadeStickMacNativeProfile
+InControl.NativeDeviceProfiles.HoriFightingStickEX2MacNativeProfile
+InControl.NativeDeviceProfiles.HoriFightingStickMiniMacNativeProfile
+InControl.NativeDeviceProfiles.HoriFightingStickVXMacNativeProfile
+InControl.NativeDeviceProfiles.HoriFightStickMacNativeProfile
+InControl.NativeDeviceProfiles.HoriPadEXTurboControllerMacNativeProfile
+InControl.NativeDeviceProfiles.HoriPadUltimateMacNativeProfile
+InControl.NativeDeviceProfiles.HoriRAPNFightingStickMacNativeProfile
+InControl.NativeDeviceProfiles.HoriRealArcadeProEXMacNativeProfile
+InControl.NativeDeviceProfiles.HoriRealArcadeProEXPremiumVLXMacNativeProfile
+InControl.NativeDeviceProfiles.HoriRealArcadeProEXSEMacNativeProfile
+InControl.NativeDeviceProfiles.HoriRealArcadeProHayabusaMacNativeProfile
+InControl.NativeDeviceProfiles.HoriRealArcadeProIVMacNativeProfile
+InControl.NativeDeviceProfiles.HoriRealArcadeProVHayabusaMacNativeProfile
+InControl.NativeDeviceProfiles.HoriRealArcadeProVKaiFightingStickMacNativeProfile
+InControl.NativeDeviceProfiles.HoriRealArcadeProVXMacNativeProfile
+InControl.NativeDeviceProfiles.HoriRealArcadeProVXSAMacNativeProfile
+InControl.NativeDeviceProfiles.HoriXbox360GemPadExMacNativeProfile
+InControl.NativeDeviceProfiles.HyperkinX91MacNativeProfile
+InControl.NativeDeviceProfiles.InjusticeFightStickMacNativeProfile
+InControl.NativeDeviceProfiles.IonDrumRockerMacNativeProfile
+InControl.NativeDeviceProfiles.JoytekXbox360ControllerMacNativeProfile
+InControl.NativeDeviceProfiles.KiwitataNESWindowsNativeProfile
+InControl.NativeDeviceProfiles.KonamiDancePadMacNativeProfile
+InControl.NativeDeviceProfiles.LogitechChillStreamControllerMacNativeProfile
+InControl.NativeDeviceProfiles.LogitechControllerMacNativeProfile
+InControl.NativeDeviceProfiles.LogitechDriveFXRacingWheelMacNativeProfile
+InControl.NativeDeviceProfiles.LogitechF310ControllerMacNativeProfile
+InControl.NativeDeviceProfiles.LogitechF310ModeDMacNativeProfile
+InControl.NativeDeviceProfiles.LogitechF310ModeDWindowsNativeProfile
+InControl.NativeDeviceProfiles.LogitechF310ModeXWindowsNativeProfile
+InControl.NativeDeviceProfiles.LogitechF510ControllerMacNativeProfile
+InControl.NativeDeviceProfiles.LogitechF510ModeDMacNativeProfile
+InControl.NativeDeviceProfiles.LogitechF510ModeDWindowsNativeProfile
+InControl.NativeDeviceProfiles.LogitechF510ModeXWindowsNativeProfile
+InControl.NativeDeviceProfiles.LogitechF710ControllerMacNativeProfile
+InControl.NativeDeviceProfiles.LogitechF710ModeDMacNativeProfile
+InControl.NativeDeviceProfiles.LogitechF710ModeDWindowsNativeProfile
+InControl.NativeDeviceProfiles.LogitechF710ModeXWindowsNativeProfile
+InControl.NativeDeviceProfiles.LogitechG920RacingWheelMacNativeProfile
+InControl.NativeDeviceProfiles.LogitechThunderpadMacNativeProfile
+InControl.NativeDeviceProfiles.MadCatzArcadeStickMacNativeProfile
+InControl.NativeDeviceProfiles.MadCatzBeatPadMacNativeProfile
+InControl.NativeDeviceProfiles.MadCatzBrawlStickMacNativeProfile
+InControl.NativeDeviceProfiles.MadCatzCODControllerMacNativeProfile
+InControl.NativeDeviceProfiles.MadCatzControllerMacNativeProfile
+InControl.NativeDeviceProfiles.MadCatzFightPadControllerMacNativeProfile
+InControl.NativeDeviceProfiles.MadCatzFightPadMacNativeProfile
+InControl.NativeDeviceProfiles.MadCatzFightStickTE2MacNativeProfile
+InControl.NativeDeviceProfiles.MadCatzFightStickTESPlusMacNativeProfile
+InControl.NativeDeviceProfiles.MadCatzFPSProMacNativeProfile
+InControl.NativeDeviceProfiles.MadCatzGhostReconFightingStickMacNativeProfile
+InControl.NativeDeviceProfiles.MadCatzInnoControllerMacNativeProfile
+InControl.NativeDeviceProfiles.MadCatzMC2ControllerMacNativeProfile
+InControl.NativeDeviceProfiles.MadCatzMC2RacingWheelMacNativeProfile
+InControl.NativeDeviceProfiles.MadCatzMicroConControllerMacNativeProfile
+InControl.NativeDeviceProfiles.MadCatzMicroControllerMacNativeProfile
+InControl.NativeDeviceProfiles.MadCatzMLGFightStickTEMacNativeProfile
+InControl.NativeDeviceProfiles.MadCatzNeoFightStickMacNativeProfile
+InControl.NativeDeviceProfiles.MadCatzPortableDrumMacNativeProfile
+InControl.NativeDeviceProfiles.MadCatzProControllerMacNativeProfile
+InControl.NativeDeviceProfiles.MadCatzSaitekAV8R02MacNativeProfile
+InControl.NativeDeviceProfiles.MadCatzSF4FightStickRound2TEMacNativeProfile
+InControl.NativeDeviceProfiles.MadCatzSF4FightStickSEMacNativeProfile
+InControl.NativeDeviceProfiles.MadCatzSF4FightStickTEMacNativeProfile
+InControl.NativeDeviceProfiles.MadCatzSoulCaliberFightStickMacNativeProfile
+InControl.NativeDeviceProfiles.MadCatzSSF4ChunLiFightStickTEMacNativeProfile
+InControl.NativeDeviceProfiles.MadCatzSSF4FightStickTEMacNativeProfile
+InControl.NativeDeviceProfiles.MatCatzControllerMacNativeProfile
+InControl.NativeDeviceProfiles.MayflashMagicNSMacNativeProfile
+InControl.NativeDeviceProfiles.McbazelAdapterMacNativeProfile
+InControl.NativeDeviceProfiles.MicrosoftAdaptiveControllerMacNativeProfile
+InControl.NativeDeviceProfiles.MicrosoftXbox360ControllerMacNativeProfile
+InControl.NativeDeviceProfiles.MicrosoftXboxControllerMacNativeProfile
+InControl.NativeDeviceProfiles.MicrosoftXboxOneControllerMacNativeProfile
+InControl.NativeDeviceProfiles.MicrosoftXboxOneEliteControllerMacNativeProfile
+InControl.NativeDeviceProfiles.MKKlassikFightStickMacNativeProfile
+InControl.NativeDeviceProfiles.MLGControllerMacNativeProfile
+InControl.NativeDeviceProfiles.MVCTEStickMacNativeProfile
+InControl.NativeDeviceProfiles.NaconGC100XFControllerMacNativeProfile
+InControl.NativeDeviceProfiles.NintendoSwitchProMacNativeProfile
+InControl.NativeDeviceProfiles.NintendoSwitchProWindowsNativeProfile
+InControl.NativeDeviceProfiles.NVidiaShieldWindowsNativeProfile
+InControl.NativeDeviceProfiles.PCTWINSHOCKWindowsNativeProfile
+InControl.NativeDeviceProfiles.PDPAfterglowControllerMacNativeProfile
+InControl.NativeDeviceProfiles.PDPAfterglowPrismaticControllerMacNativeProfile
+InControl.NativeDeviceProfiles.PDPBattlefieldXBoxOneControllerMacNativeProfile
+InControl.NativeDeviceProfiles.PDPMarvelControllerMacNativeProfile
+InControl.NativeDeviceProfiles.PDPMetallicsLEControllerMacNativeProfile
+InControl.NativeDeviceProfiles.PDPTitanfall2XboxOneControllerMacNativeProfile
+InControl.NativeDeviceProfiles.PDPTronControllerMacNativeProfile
+InControl.NativeDeviceProfiles.PDPVersusControllerMacNativeProfile
+InControl.NativeDeviceProfiles.PDPXbox360ControllerMacNativeProfile
+InControl.NativeDeviceProfiles.PDPXboxOneArcadeStickMacNativeProfile
+InControl.NativeDeviceProfiles.PDPXboxOneControllerMacNativeProfile
+InControl.NativeDeviceProfiles.PlayStation3MacNativeProfile
+InControl.NativeDeviceProfiles.PlayStation4MacNativeProfile
+InControl.NativeDeviceProfiles.PlayStation4WindowsNativeProfile
+InControl.NativeDeviceProfiles.PlayStation5BluetoothMacNativeProfile
+InControl.NativeDeviceProfiles.PlayStation5BluetoothWindowsNativeProfile
+InControl.NativeDeviceProfiles.PlayStation5USBMacNativeProfile
+InControl.NativeDeviceProfiles.PlayStation5USBWindowsNativeProfile
+InControl.NativeDeviceProfiles.PlayStationAnalogJoystickWindowsNativeProfile
+InControl.NativeDeviceProfiles.PowerAAirflowControllerMacNativeProfile
+InControl.NativeDeviceProfiles.POWERAFUS1ONTournamentControllerMacNativeProfile
+InControl.NativeDeviceProfiles.PowerAMiniControllerMacNativeProfile
+InControl.NativeDeviceProfiles.PowerAMiniProExControllerMacNativeProfile
+InControl.NativeDeviceProfiles.PowerAMiniXboxOneControllerMacNativeProfile
+InControl.NativeDeviceProfiles.PowerANintendoSwitchMacNativeProfile
+InControl.NativeDeviceProfiles.PowerASpectraIlluminatedControllerMacNativeProfile
+InControl.NativeDeviceProfiles.ProEXXbox360ControllerMacNativeProfile
+InControl.NativeDeviceProfiles.ProEXXboxOneControllerMacNativeProfile
+InControl.NativeDeviceProfiles.QanbaFightStickPlusMacNativeProfile
+InControl.NativeDeviceProfiles.RazerAtroxArcadeStickMacNativeProfile
+InControl.NativeDeviceProfiles.RazerOnzaControllerMacNativeProfile
+InControl.NativeDeviceProfiles.RazerOnzaTEControllerMacNativeProfile
+InControl.NativeDeviceProfiles.RazerSabertoothEliteControllerMacNativeProfile
+InControl.NativeDeviceProfiles.RazerServalWindowsNativeProfile
+InControl.NativeDeviceProfiles.RazerStrikeControllerMacNativeProfile
+InControl.NativeDeviceProfiles.RazerWildcatControllerMacNativeProfile
+InControl.NativeDeviceProfiles.RazerWolverineUltimateControllerMacNativeProfile
+InControl.NativeDeviceProfiles.RedOctaneControllerMacNativeProfile
+InControl.NativeDeviceProfiles.RedOctaneGuitarMacNativeProfile
+InControl.NativeDeviceProfiles.RockBandDrumsMacNativeProfile
+InControl.NativeDeviceProfiles.RockBandGuitarMacNativeProfile
+InControl.NativeDeviceProfiles.RockCandyControllerMacNativeProfile
+InControl.NativeDeviceProfiles.RockCandyPS3ControllerMacNativeProfile
+InControl.NativeDeviceProfiles.RockCandyXbox360ControllerMacNativeProfile
+InControl.NativeDeviceProfiles.RockCandyXboxOneControllerMacNativeProfile
+InControl.NativeDeviceProfiles.SaitekXbox360ControllerMacNativeProfile
+InControl.NativeDeviceProfiles.SDLControllerNativeProfile
+InControl.NativeDeviceProfiles.SDLGenericNativeProfile
+InControl.NativeDeviceProfiles.SDLLogitechF310ModeXNativeProfile
+InControl.NativeDeviceProfiles.SDLLogitechF510ModeXNativeProfile
+InControl.NativeDeviceProfiles.SDLLogitechF710ModeXNativeProfile
+InControl.NativeDeviceProfiles.SDLNintendoSwitchNativeProfile
+InControl.NativeDeviceProfiles.SDLPlayStation3NativeProfile
+InControl.NativeDeviceProfiles.SDLPlayStation4NativeProfile
+InControl.NativeDeviceProfiles.SDLPlayStation5NativeProfile
+InControl.NativeDeviceProfiles.SDLXbox360NativeProfile
+InControl.NativeDeviceProfiles.SDLXboxOneNativeProfile
+InControl.NativeDeviceProfiles.SDLXboxSeriesXNativeProfile
+InControl.NativeDeviceProfiles.SteamWindowsNativeProfile
+InControl.NativeDeviceProfiles.SteelseriesNimbusMacNativeProfile
+InControl.NativeDeviceProfiles.SteelseriesNimbusPlusMacNativeProfile
+InControl.NativeDeviceProfiles.SwitchProControllerMFiNativeProfile
+InControl.NativeDeviceProfiles.ThrustMasterFerrari430RacingWheelMacNativeProfile
+InControl.NativeDeviceProfiles.ThrustmasterFerrari458RacingWheelMacNativeProfile
+InControl.NativeDeviceProfiles.ThrustMasterFerrari458SpiderRacingWheelMacNativeProfile
+InControl.NativeDeviceProfiles.ThrustmasterGPXControllerMacNativeProfile
+InControl.NativeDeviceProfiles.ThrustmasterTMXMacNativeProfile
+InControl.NativeDeviceProfiles.ThrustmasterTXGIPMacNativeProfile
+InControl.NativeDeviceProfiles.TrustPredatorJoystickMacNativeProfile
+InControl.NativeDeviceProfiles.TSZPelicanControllerMacNativeProfile
+InControl.NativeDeviceProfiles.Xbox360MortalKombatFightStickMacNativeProfile
+InControl.NativeDeviceProfiles.Xbox360ProEXControllerMacNativeProfile
+InControl.NativeDeviceProfiles.Xbox360WiredWindowsNativeProfile
+InControl.NativeDeviceProfiles.Xbox360WirelessWindowsNativeProfile
+InControl.NativeDeviceProfiles.XboxOneEliteWindows10AENativeProfile
+InControl.NativeDeviceProfiles.XboxOneEliteWindowsNativeProfile
+InControl.NativeDeviceProfiles.XboxOneMFiNativeProfile
+InControl.NativeDeviceProfiles.XboxOneSBluetoothMacNativeProfile
+InControl.NativeDeviceProfiles.XboxOneSMacNativeProfile
+InControl.NativeDeviceProfiles.XboxOneWindows10AENativeProfile
+InControl.NativeDeviceProfiles.XboxOneWindows10NativeProfile
+InControl.NativeDeviceProfiles.XboxOneWindowsNativeProfile
+InControl.NativeDeviceProfiles.XboxOneWirelessAdapterWindowsNativeProfile
+InControl.NativeDeviceProfiles.XboxSeriesXBluetoothMacNativeProfile
+InControl.NativeDeviceProfiles.XboxSeriesXMFiNativeProfile
+InControl.NativeDeviceProfiles.XboxSeriesXWindowsNativeProfile
+InControl.NativeDeviceProfiles.XboxWirelessMacNativeProfile
+InControl.NativeDeviceProfiles.XInputWindowsNativeProfile
+InControl.NativeDeviceProfiles.XTR_G2_MacNativeProfile
+InControl.NativeDeviceProfiles.XTR_G2_WindowsNativeProfile
+InControl.NativeDeviceProfiles.XTR55_G2_MacNativeProfile
+InControl.NativeDeviceProfiles.XTR55_G2_WindowsNativeProfile
+DUALSHOCK
+PS4 DUALSHOCK
+Left Trigger
+Right Trigger
+Cross
+Circle
+Square
+Triangle
+Left Bumper
+Right Bumper
+Left Stick Button
+Right Stick Button
+Touchpad Click
+Options
+DualSense
+PS5 DualSense
+Switch
+JoyCon/Pro Controller
+Touch Input Device
+Touch Manager component can only be added to the InControl Manager object.
+LeftStickLeft
+LeftStickRight
+LeftStickUp
+LeftStickDown
+RightStickLeft
+RightStickRight
+RightStickUp
+RightStickDown
+DPadUp
+DPadDown
+DPadLeft
+DPadRight
+LeftTrigger
+RightTrigger
+LeftBumper
+RightBumper
+PixelSnap
+Cannot map control "
+" as InputControlType.
+ in profile "
+" because this target is reserved as an alias. The mapping will be ignored.
+joystick 
+ analog 
+ button 
+Change in attached Unity joysticks detected; refreshing device list.
+webcam
+Unknown Wireless Controller
+Device 
+ with name "
+" does not match any supported profiles and will be considered an unknown controller.
+ matched profile 
+ matching profile 
+) is hidden and will not be attached.
+InControl.UnityDeviceProfiles.AirFloWiredPS3MacUnityProfile
+InControl.UnityDeviceProfiles.AirFloWiredPS3WindowsUnityProfile
+InControl.UnityDeviceProfiles.AmazonFireTVRemoteUnityProfile
+InControl.UnityDeviceProfiles.AmazonFireTVUnityProfile
+InControl.UnityDeviceProfiles.AndroidTVAmazonUnityProfile
+InControl.UnityDeviceProfiles.AndroidTVMiBoxRemoteUnityProfile
+InControl.UnityDeviceProfiles.AndroidTVRemoteUnityProfile
+InControl.UnityDeviceProfiles.AndroidTVUnityProfile
+InControl.UnityDeviceProfiles.AppleMFiUnityProfile
+InControl.UnityDeviceProfiles.AppleTVRemoteUnityProfile
+InControl.UnityDeviceProfiles.AppleTVWirelessControllerUnityProfile
+InControl.UnityDeviceProfiles.BeboncoolDA015CAAndroidUnityProfile
+InControl.UnityDeviceProfiles.BetopBTP2175sWindowsUnityProfile
+InControl.UnityDeviceProfiles.BetopBTPAX1TAndroidUnityProfile
+InControl.UnityDeviceProfiles.BetopBTPGenericAndroidUnityProfile
+InControl.UnityDeviceProfiles.BTC938AndroidUnityProfile
+InControl.UnityDeviceProfiles.BuffaloClassicAmazonUnityProfile
+InControl.UnityDeviceProfiles.BuffaloClassicMacUnityProfile
+InControl.UnityDeviceProfiles.BuffaloClassicWindowsUnityProfile
+InControl.UnityDeviceProfiles.DroidBoxPS3AndroidUnityProfile
+InControl.UnityDeviceProfiles.DroidBoxXboxAndroidUnityProfile
+InControl.UnityDeviceProfiles.EasySmxEsm9101AndroidUnityProfile
+InControl.UnityDeviceProfiles.EightBitdoFC30ProAndroidUnityProfile
+InControl.UnityDeviceProfiles.EightBitdoGenericAndroidUnityProfile
+InControl.UnityDeviceProfiles.EightBitdoN30Pro2AndroidUnityProfile
+InControl.UnityDeviceProfiles.EightBitdoNES30ProAndroidUnityProfile
+InControl.UnityDeviceProfiles.EightBitdoNES30ProMacUnityProfile
+InControl.UnityDeviceProfiles.EightBitdoNES30ProWindowsUnityProfile
+InControl.UnityDeviceProfiles.EightBitdoSF30ProAndroidUnityProfile
+InControl.UnityDeviceProfiles.EightBitdoSFC30AndroidUnityProfile
+InControl.UnityDeviceProfiles.EightBitdoSFC30MacUnityProfile
+InControl.UnityDeviceProfiles.EightBitdoSFC30WindowsUnityProfile
+InControl.UnityDeviceProfiles.EightBitdoSN30ProAndroidUnityProfile
+InControl.UnityDeviceProfiles.EightBitdoSNES30AndroidUnityProfile
+InControl.UnityDeviceProfiles.EightBitdoSNES30MacUnityProfile
+InControl.UnityDeviceProfiles.EightBitdoSNES30WindowsUnityProfile
+InControl.UnityDeviceProfiles.ExecutionerXMacUnityProfile
+InControl.UnityDeviceProfiles.ExecutionerXWindowsUnityProfile
+InControl.UnityDeviceProfiles.FixXBG301AndroidUnityProfile
+InControl.UnityDeviceProfiles.FlareAndroidUnityProfile
+InControl.UnityDeviceProfiles.FlarePlayAndroidUnityProfile
+InControl.UnityDeviceProfiles.GameCoreUnityProfile
+InControl.UnityDeviceProfiles.GameCubeMayflashWindowsUnityProfile
+InControl.UnityDeviceProfiles.GameCubeWindowsUnityProfile
+InControl.UnityDeviceProfiles.GameSirG3sAndroidUnityProfile
+InControl.UnityDeviceProfiles.GameSirG3wAndroidUnityProfile
+InControl.UnityDeviceProfiles.GameSirG4sAndroidUnityProfile
+InControl.UnityDeviceProfiles.GameStickLinuxUnityProfile
+InControl.UnityDeviceProfiles.GameStickUnityProfile
+InControl.UnityDeviceProfiles.GenericAndroidUnityProfile
+InControl.UnityDeviceProfiles.GenericBlackBerryUnityProfile
+InControl.UnityDeviceProfiles.GenericLinuxUnityProfile
+InControl.UnityDeviceProfiles.GoogleStadiaMacUnityProfile
+InControl.UnityDeviceProfiles.GoogleStadiaUnityProfile
+InControl.UnityDeviceProfiles.GoogleStadiaWindowsUnityProfile
+InControl.UnityDeviceProfiles.GreenThrottleAtlasAndroidUnityProfile
+InControl.UnityDeviceProfiles.HamaBlackForceWindowsUnityProfile
+InControl.UnityDeviceProfiles.HavitHVG95WLinuxProfile
+InControl.UnityDeviceProfiles.IpegaPG9021AndroidUnityProfile
+InControl.UnityDeviceProfiles.IpegaPG9023AndroidUnityProfile
+InControl.UnityDeviceProfiles.IpegaPG9025AndroidUnityProfile
+InControl.UnityDeviceProfiles.IpegaPG9037AndroidUnityProfile
+InControl.UnityDeviceProfiles.IpegaPG9055AndroidUnityProfile
+InControl.UnityDeviceProfiles.IpegaPG9068AndroidUnityProfile
+InControl.UnityDeviceProfiles.IpegaPG9129AndroidUnityProfile
+InControl.UnityDeviceProfiles.LevelUpBlackHawkWindowsUnityProfile
+InControl.UnityDeviceProfiles.LogitechF310LinuxUnityProfile
+InControl.UnityDeviceProfiles.LogitechF310ModeDMacUnityProfile
+InControl.UnityDeviceProfiles.LogitechF310ModeDWindowsUnityProfile
+InControl.UnityDeviceProfiles.LogitechF310ModeXMacUnityProfile
+InControl.UnityDeviceProfiles.LogitechF310ModeXWindowsUnityProfile
+InControl.UnityDeviceProfiles.LogitechF510LinuxUnityProfile
+InControl.UnityDeviceProfiles.LogitechF510ModeDMacUnityProfile
+InControl.UnityDeviceProfiles.LogitechF510ModeDWindowsUnityProfile
+InControl.UnityDeviceProfiles.LogitechF510ModeXMacUnityProfile
+InControl.UnityDeviceProfiles.LogitechF510ModeXWindowsUnityProfile
+InControl.UnityDeviceProfiles.LogitechF710LinuxUnityProfile
+InControl.UnityDeviceProfiles.LogitechF710MacUnityProfile
+InControl.UnityDeviceProfiles.LogitechF710ModeDWindowsUnityProfile
+InControl.UnityDeviceProfiles.LogitechF710ModeXWindowsUnityProfile
+InControl.UnityDeviceProfiles.LogitechModeDAmazonUnityProfile
+InControl.UnityDeviceProfiles.LogitechModeXAmazonUnityProfile
+InControl.UnityDeviceProfiles.LogitechWingManWindowsUnityProfile
+InControl.UnityDeviceProfiles.MadCatzCTRLRAmazonUnityProfile
+InControl.UnityDeviceProfiles.MadCatzCTRLRAndroidUnityProfile
+InControl.UnityDeviceProfiles.MadCatzMicroCTRLRAmazonUnityProfile
+InControl.UnityDeviceProfiles.MaxFireBlaze5WindowsUnityProfile
+InControl.UnityDeviceProfiles.MogaHeroPowerAndroidUnityProfile
+InControl.UnityDeviceProfiles.MogaProAndroidUnityProfile
+InControl.UnityDeviceProfiles.MogaProLinuxUnityProfile
+InControl.UnityDeviceProfiles.MogaProMacUnityProfile
+InControl.UnityDeviceProfiles.MogaProPowerAndroidUnityProfile
+InControl.UnityDeviceProfiles.MogaProWindowsUnityProfile
+InControl.UnityDeviceProfiles.MogaXP5XPlusAndroidUnityProfile
+InControl.UnityDeviceProfiles.NatecGenesisP44WindowsUnityProfile
+InControl.UnityDeviceProfiles.NexusPlayerAndroidUnityProfile
+InControl.UnityDeviceProfiles.NexusPlayerMacUnityProfile
+InControl.UnityDeviceProfiles.NexusPlayerRemoteAndroidUnityProfile
+InControl.UnityDeviceProfiles.NexusPlayerWindowsUnityProfile
+InControl.UnityDeviceProfiles.NintendoSwitchProAndroidUnityProfile
+InControl.UnityDeviceProfiles.NintendoSwitchProMacChromeUnityProfile
+InControl.UnityDeviceProfiles.NintendoSwitchProWindowsChromeUnityProfile
+InControl.UnityDeviceProfiles.NintendoSwitchProWindowsUnityProfile
+InControl.UnityDeviceProfiles.NVidiaShield2016AndroidUnityProfile
+InControl.UnityDeviceProfiles.NVidiaShield2017AndroidUnityProfile
+InControl.UnityDeviceProfiles.NVidiaShield2017NVidiaShieldUnityProfile
+InControl.UnityDeviceProfiles.NvidiaShieldRemoteAndroidUnityProfile
+InControl.UnityDeviceProfiles.NVidiaShieldWindows10UnityProfile
+InControl.UnityDeviceProfiles.NVidiaShieldWindows81UnityProfile
+InControl.UnityDeviceProfiles.NVidiaShieldWindowsUnityProfile
+InControl.UnityDeviceProfiles.NykoPlayPadProAmazonUnityProfile
+InControl.UnityDeviceProfiles.PlayStation2LinuxUnityProfile
+InControl.UnityDeviceProfiles.PlayStation2WindowsUnityProfile
+InControl.UnityDeviceProfiles.PlayStation3AndroidUnityProfile
+InControl.UnityDeviceProfiles.PlayStation3BWindowsUnityProfile
+InControl.UnityDeviceProfiles.PlayStation3LinuxUnityProfile
+InControl.UnityDeviceProfiles.PlayStation3MacUnityProfile
+InControl.UnityDeviceProfiles.PlayStation3ShenghicWindowsUnityProfile
+InControl.UnityDeviceProfiles.PlayStation3WindowsUnityProfile
+InControl.UnityDeviceProfiles.PlayStation4AmazonUnityProfile
+InControl.UnityDeviceProfiles.PlayStation4AndroidUnityProfile
+InControl.UnityDeviceProfiles.PlayStation4LinuxUnityProfile
+InControl.UnityDeviceProfiles.PlayStation4MacBluetoothUnityProfile
+InControl.UnityDeviceProfiles.PlayStation4MacChromeUnityProfile
+InControl.UnityDeviceProfiles.PlayStation4MacFirefoxUnityProfile
+InControl.UnityDeviceProfiles.PlayStation4MacUSBUnityProfile
+InControl.UnityDeviceProfiles.PlayStation4SteamLinkMacUnityProfile
+InControl.UnityDeviceProfiles.PlayStation4UnityProfile
+InControl.UnityDeviceProfiles.PlayStation4WindowsChromeUnityProfile
+InControl.UnityDeviceProfiles.PlayStation4WindowsFirefoxUnityProfile
+InControl.UnityDeviceProfiles.PlayStation4WindowsUnityProfile
+InControl.UnityDeviceProfiles.PlayStation5AndroidUnityProfile
+InControl.UnityDeviceProfiles.PlayStation5BluetoothMacUnityProfile
+InControl.UnityDeviceProfiles.PlayStation5UnityProfile
+InControl.UnityDeviceProfiles.PlayStationVitaPSMUnityProfile
+InControl.UnityDeviceProfiles.PxnP30AndroidUnityProfile
+InControl.UnityDeviceProfiles.RazerKishiAndroidUnityProfile
+InControl.UnityDeviceProfiles.RazerServalForgeTVUnityProfile
+InControl.UnityDeviceProfiles.RazerServalMacUnityProfile
+InControl.UnityDeviceProfiles.RedSamuraiAndroidUnityProfile
+InControl.UnityDeviceProfiles.SaitekAviatorWindowsUnityProfile
+InControl.UnityDeviceProfiles.SamsungGP20AndroidUnityProfile
+InControl.UnityDeviceProfiles.SpeedlinkStrikeMacUnityProfile
+InControl.UnityDeviceProfiles.SpeedlinkStrikeWindowsUnityProfile
+InControl.UnityDeviceProfiles.SteelSeriesFreeAndroidUnityProfile
+InControl.UnityDeviceProfiles.SteelSeriesFreeLinuxUnityProfile
+InControl.UnityDeviceProfiles.SteelSeriesFreeMacUnityProfile
+InControl.UnityDeviceProfiles.SteelSeriesFreeWindowsUnityProfile
+InControl.UnityDeviceProfiles.SteelSeriesStratusXLAndroidUnityProfile
+InControl.UnityDeviceProfiles.SteelSeriesStratusXLWindowsUnityProfile
+InControl.UnityDeviceProfiles.ValveStreamingWindowsUnityProfile
+InControl.UnityDeviceProfiles.Xbox360AmazonUnityProfile
+InControl.UnityDeviceProfiles.Xbox360AndroidUnityProfile
+InControl.UnityDeviceProfiles.Xbox360LinuxUnityProfile
+InControl.UnityDeviceProfiles.Xbox360MacChromeUnityProfile
+InControl.UnityDeviceProfiles.Xbox360MacFirefoxUnityProfile
+InControl.UnityDeviceProfiles.Xbox360MacSafariUnityProfile
+InControl.UnityDeviceProfiles.Xbox360MacUnityProfile
+InControl.UnityDeviceProfiles.Xbox360RockCandyAndroidUnityProfile
+InControl.UnityDeviceProfiles.Xbox360WindowsUnityProfile
+InControl.UnityDeviceProfiles.XboxOneBluetoothAndroidUnityProfile
+InControl.UnityDeviceProfiles.XboxOneMacChromeUnityProfile
+InControl.UnityDeviceProfiles.XboxOneMacFirefoxUnityProfile
+InControl.UnityDeviceProfiles.XboxOneMacSafariUnityProfile
+InControl.UnityDeviceProfiles.XboxOneMacUnityProfile
+InControl.UnityDeviceProfiles.XboxOneUnityProfile
+InControl.UnityDeviceProfiles.XboxOneWindows10AEUnityProfile
+InControl.UnityDeviceProfiles.XboxOneWindows10UnityProfile
+InControl.UnityDeviceProfiles.XboxOneWindowsUnityProfile
+InControl.UnityDeviceProfiles.XboxWirelessMacUnityProfile
+InControl.UnityDeviceProfiles.XiamoiWindowsUnityProfile
+InControl.UnityDeviceProfiles.XiaomiMacUnityProfile
+InControl.UnityDeviceProfiles.XInputWindowsChromeUnityProfile
+InControl.UnityDeviceProfiles.XInputWindowsFirefoxUnityProfile
+InControl.UnityDeviceProfiles.XTR_G2_MacUnityProfile
+InControl.UnityDeviceProfiles.XTR_G2_WindowsUnityProfile
+InControl.UnityDeviceProfiles.XTR55_G2_MacUnityProfile
+InControl.UnityDeviceProfiles.XTR55_G2_WindowsUnityProfile
+Trying to get a value from an OptionalFloat that has no value.
+Trying to get a value from an OptionalInputDeviceDriverType that has no value.
+Trying to get a value from an OptionalInputDeviceTransportType that has no value.
+Trying to get a value from an OptionalInt16 that has no value.
+Trying to get a value from an OptionalInt32 that has no value.
+Trying to get a value from an OptionalUInt16 that has no value.
+Trying to get a value from an OptionalUInt32 that has no value.
+Unity
+UnityEngine
+UnityEditor
+mscorlib
+Microsoft
+System
+JetBrains
+nunit
+ExCSS
+ICSharpCode
+AssetStoreTools
+The instance of singleton component 
+ was requested, but it doesn't appear to exist in the scene.
+Vista
+64Bit
+32Bit
+Windows 
+ Build 
+^(\d+)\.(\d+)\.(\d+)[a-zA-Z](\d+)
+{0}.{1}.{2}
+{0}.{1}.{2} build {3}
+{0}.{1}.{2}b{3}
+XInput Controller
+XInput Device #
+.dll could not be found or is missing a dependency.
+TestInputManager
+Joystick 
+Buttons: 
+Analogs: 
+\r?\n|\n
+RingBuffer size must be 1 or greater.
+Amazon Fire TV Remote
+Amazon Fire TV Remote on Amazon Fire TV
+Amazon AFT
+Amazon Fire Controller
+Amazon Fire Controller on Amazon Fire TV
+Android
+Amazon Fire Game Controller
+Android TV Controller
+Android TV Controller on Amazon Fire TV
+Gamepad
+Buffalo Class Gamepad
+Buffalo Class Gamepad on Amazon Fire TV
+USB,2-axis 8-button gamepad  
+Logitech Controller
+Logitech Controller on Amazon Fire TV (Mode D)
+Logitech Logitech Cordless RumblePad 2
+Start
+Logitech Controller on Amazon Fire TV (Mode X)
+Generic X-Box pad
+Mad Catz C.T.R.L.R Controller
+Mad Catz C.T.R.L.R Controller on Amazon Fire TV
+Mad Catz C.T.R.L.R 
+Mad Catz Micro C.T.R.L.R Controller
+Mad Catz Micro C.T.R.L.R Controller on Amazon Fire TV
+Mad Catz Micro C.T.R.L.R
+Nyko PlayPad Pro
+Nyko PlayPad Pro on Amazon Fire TV
+NYKO PLAYPAD PRO
+PlayStation 4 Controller
+PlayStation 4 Controller on Amazon Fire TV
+Wireless Controller
+TouchPad Button
+XBox 360 Controller
+XBox 360 Controller on Amazon Fire TV
+Microsoft X-Box 360 pad
+Xiaomi Remote
+Xiaomi Remote on Android TV
+Android TV Remote
+Android TV Remote on Android TV
+touch-input
+navigation-input
+Android TV Controller on Android TV
+BEBONCOOL DA015-CA Controller
+BEBONCOOL DA015-CA Controller on Android
+BBC-GAME
+BETOP BTP-AX1T Controller
+BETOP BTP-AX1T Controller on Android
+BETOP AX1 BFM
+BETOP BTP Controller
+BETOP BTP Controller on Android
+BETOP BFM GAMEPAD
+betop 
+BTC-938
+BTC-938 on Android
+DroidBOX GPD XD PlayON - PS3 Mode
+DroidBOX GPD XD PlayON - PS3 Mode on Android
+PLAYSTATION(R)3
+DroidBOX GPD XD PlayON - Xbox Mode
+DroidBOX GPD XD PlayON - Xbox Mode on Android
+EasySMX ESM-9101
+EasySMX ESM-9101 on Android
+USB GAMEPAD
+8Bitdo FC30 Pro
+8Bitdo FC30 Pro on Android
+8Bitdo Controller
+8Bitdo Controller on Android
+8bitdo
+8Bitdo N30 Pro 2 Controller
+8Bitdo N30 Pro 2 Controller on Android
+8BitDo N30 Pro 2
+8Bitdo NES30 Pro Controller
+8Bitdo NES30 Pro Controller on Android
+8Bitdo NES30 Pro
+8Bitdo SF30 Pro Controller
+8Bitdo SF30 Pro Controller on Android
+8Bitdo SF30 Pro
+8Bitdo SFC30 Controller
+8Bitdo SFC30 Controller on Android
+8Bitdo SFC30 GamePad
+8Bitdo SN30 Pro Controller
+8Bitdo SN30 Pro Controller on Android
+8Bitdo SN30 Pro
+8Bitdo SNES30 Controller
+8Bitdo SNES30 Controller on Android
+8Bitdo SNES30 GamePad
+FIX XBG-301
+FIX XBG-301 on Android
+FIX ALL IN ONE-AN  
+FIX ALL IN ONE-AN 
+FIX ALL IN ONE-AN
+Flare Controller
+Flare Controller on Flare
+MTK BT HID
+FlarePlay Controller
+FlarePlay Controller on Android
+GameSir G3s
+GameSir G3s on Android
+Gamesir-G3s
+GameSir G3w
+GameSir G3w on Android
+Xiaoji Gamesir-G3w
+GameSir G4s
+GameSir G4s on Android
+Gamesir-G4s
+Generic Controller
+Generic Controller on Android
+Broadcom Bluetooth HID
+Green Throttle Atlas Controller
+Green Throttle Atlas Controller on Android
+Green Throttle Atlas
+IPEGA PG-9021
+IPEGA PG-9021 on Android
+PG-9021
+IPEGA PG-9023
+IPEGA PG-9023 on Android
+ipega Extending Game Controller
+IPEGA PG-9025
+IPEGA PG-9025 on Android
+ipega media gamepad controller
+IPEGA PG-9037
+IPEGA PG-9037 on Android
+PG-9037
+IPEGA PG-9055
+IPEGA PG-9055 on Android
+PG-9055
+IPEGA PG-9068
+IPEGA PG-9068 on Android
+PG-9068
+IPEGA PG-9129
+IPEGA PG-9129 on Android
+PG-9129
+Mad Catz C.T.R.L.R Controller on Android
+Moga Hero Power
+Moga Hero Power on Android
+Moga 2 HID
+Moga Pro
+Moga Pro on Android
+Moga Pro HID
+Fire Bluetooth HID
+Moga Pro Power
+Moga Pro Power on Android
+Moga Pro 2 HID
+MOGA XP5-X Plus
+MOGA XP5-X Plus on Android
+Nexus Player Controller
+Nexus Player Controller on Android
+ASUS Gamepad
+Nexus Player Remote
+Google Nexus Remote
+Nintendo Switch Pro Controller
+Nintendo Switch Pro Controller on Android
+Pro Controller
+NVIDIA Shield Controller
+NVIDIA Shield Controller on Android
+nvidia_Corporation nvidia_joypad
+NVIDIA Shield
+NVIDIA Controller v
+NVIDIA Shield Controller on NVIDIA Shield
+NVIDIA Shield Remote
+NVIDIA Shield Remote on Android
+SHIELD Remote
+PlayStation 3 Controller
+PlayStation 3 Controller on Android
+PLAYSTATION(R)3 Controller
+SHENGHIC 2009/0708ZXW-V1Inc. PLAYSTATION(R)3Conteroller
+Sony PLAYSTATION(R)3 Controller
+PlayStation 4 Controller on Android
+Sony Computer Entertainment Wireless Controller
+Sony Interactive Entertainment Wireless Controller
+PlayStation 5 Controller
+PlayStation 5 Controller on Android
+Create
+PXN-P30 Controller
+PXN-P30 Controller on Android
+PXN-P30PRO
+Razer Kishi
+Razer Kishi on Android
+Red Samurai Wireless Controller
+Red Samurai Wireless Controller on Android
+GS Gamepad
+Samgsung Game Pad EI-GP20
+Samgsung Game Pad EI-GP20 on Android
+ANDROID
+Samsung Game Pad EI-GP20
+SteelSeries Free
+SteelSeries Free on Android
+Zeemote: SteelSeries FREE
+SteelSeries Stratus XL
+SteelSeries Stratus XL on Android
+XBox 360 Controller on Android
+XBox 360 Rock Candy Controller
+XBox 360 Rock Candy Controller on Android
+Xbox One Controller
+Xbox One Controller on Android
+Xbox Wireless Controller
+Apple TV Remote
+Apple TV Remote on tvOS
+AppleTV
+Remote
+TouchPad Click
+Play/Pause
+TouchPad X
+TouchPad Y
+Orientation X
+Orientation Y
+Orientation Z
+Acceleration X
+Acceleration Y
+Apple TV Controller
+Apple TV Controller on tvOS
+controller
+basic
+extended
+GameStick Controller
+GameStick Controller on Linux
+Linux
+Generic Controller on Linux
+Havit HV-G95W 2.4G Wireless Gamepad
+Havit HV-G95W 2.4G Wireless Gamepad on Linux
+ShanWan Twin USB Joystick
+Logitech F310 Controller
+Logitech F310 Controller on Linux
+Logitech Gamepad F310
+Logitech F510 Controller
+Logitech F510 Controller on Linux
+Logitech Gamepad F510
+Logitech F710 Controller
+Logitech F710 Controller on Linux
+Logitech Gamepad F710
+Moga Pro on Linux
+PlayStation 2 Controller
+PlayStation 2 Controller with USB Adapter on Linux
+Twin USB Joystick
+PlayStation 3 Controller on Linux
+PlayStation 4 Controller on Linux
+PS4 Controller
+PlayStation 4
+SteelSeries Free on Linux
+XBox 360 Controller on Linux
+Mega World Thrustmaster dual analog 3.2
+X360 Controller
+Air Flo Wired PS3 Controller
+Air Flo Wired PS3 Controller on Mac
+BDA PS3 Airflo wired controller
+iBuffalo Classic Controller
+iBuffalo Classic Controller on Mac
+ USB,2-axis 8-button gamepad
+8Bitdo NES30 Pro Controller on Mac
+Unknown 8Bitdo NES30 Pro
+8Bitdo NES30 Pro   8Bitdo NES30 Pro
+8Bitdo SFC30 Controller on Mac
+Unknown 8Bitdo SFC30 GamePad
+SFC30              SFC30 Joystick
+8Bitdo SNES30 Controller on Mac
+Unknown 8Bitdo SNES30 GamePad
+SNES30             SNES30 Joy    
+Executioner X Controller
+Zeroplus PS Vibration Feedback Converter
+Zeroplus PS Vibration Feedback Converter 
+Google Stadia Controller
+Google Stadia Controller on Mac
+Google Inc. Controller
+Capture
+Assistant
+Stadia
+Logitech F310 Controller on Mac (Mode D)
+Logitech Logitech Dual Action
+Logitech F310 Controller on Mac (Mode X)
+Logitech F510 Controller on Mac (Mode D)
+Logitech Logitech RumblePad 2 USB
+Logitech F510 Controller on Mac (Mode X)
+Logitech Rumble Gamepad F510
+Logitech F710 Controller on Mac
+Moga Pro on Mac
+Unknown Moga Pro HID
+Nexus Player Controller on OS X
+Unknown Gamepad
+PlayStation 3 Controller on Mac
+SZMY-POWER CO.,LTD. GAMEPAD 3 TURBO
+Gasia Co.,Ltd PS(R) Gamepad
+PlayStation 4 Controller on macOS
+Sony Interactive Entertainment DUALSHOCK
+4 USB Wireless Adaptor
+Unknown DUALSHOCK 4 Wireless Controller
+Share
+PlayStation 4 Controller on Mac
+PlayStation 4 Controller via Steam Link
+PlayStation 4 Controller on Mac via Steam Link
+Microsoft StreamingGamePad-1
+PlayStation 5 Controller on macOS
+Unknown DualSense Wireless Controller
+Razer Serval Controller
+Razer Serval Controller on Mac
+Razer Razer Serval
+Unknown Razer Serval
+Power
+Speedlink Strike Controller
+Speedlink Strike Controller on Mac (Analog Mode)
+DragonRise Inc.   Generic   USB  Joystick  
+SteelSeries Free on Mac
+Unknown Zeemote: SteelSeries FREE
+XBox 360 Controller on Mac
+Microsoft Wireless 360 Controller
+Mad Catz, Inc. Mad Catz FPS Pro GamePad
+Mad Catz, Inc. MadCatz Call of Duty GamePad
+Microsoft Corporation Controller
+Microsoft Corporation Xbox Original Wired Controller
+Xbox One Controller on OSX
+Microsoft Xbox One Wired Controller
+Guide
+Xbox Wireless Controller on macOS
+Microsoft Xbox Wireless Controller
+Xiamoi Bluetooth Controller
+Xiamoi Bluetooth Controller on Mac
+Unknown 
+SAILI Simulator XTR5.5 G2 FMS Controller
+SAILI Simulator XTR5.5 G2 FMS Controller on OS X
+              SAILI Simulator --- XTR5.5+G2+FMS Controller
+KMODEL Simulator XTR G2 FMS Controller
+KMODEL Simulator XTR G2 FMS Controller on OS X
+FeiYing Model KMODEL Simulator - XTR+G2+FMS Controller
+Apple MFi Controller
+Apple MFi Controller on iOS
+iPhone
+Game Core Controller
+Game Core Controller on Game Core
+GAMECORE
+Union Gamepad
+GameStick Controller on GameStick
+GameStick
+Generic Gamepad
+Generic Gamepad on BlackBerry
+Blackberry
+BlackBerry Gamepad :: SteelSeries FREE
+Stadia Controller
+Stadia Controller on Stadia
+DUALSHOCK
+4 wireless controller
+DUALSHOCK
+4 wireless controller on PlayStation
+4 system
+ORBIS
+cross button
+circle button
+square button
+triangle button
+L1 button
+R1 button
+touch pad button
+OPTIONS button
+L3 button
+R3 button
+left stick left
+left stick right
+left stick up
+left stick down
+right stick left
+right stick right
+right stick up
+right stick down
+left button
+right button
+up button
+down button
+L2 button
+R2 button
+DualSense
+ wireless controller
+DualSense
+ wireless controller on PlayStation
+Player\d+
+PlayStation Mobile
+PlayStation Mobile on Vita
+PSM UNITY FOR PSM
+PSM ON PS VITA
+PS VITA
+PSP2OS
+PS Vita
+Razer Serval Controller on Razer Forge TV
+Razer Forge
+Razer Serval
+Xbox One Controller on Xbox One
+XBOXONE
+DURANGOOS
+Windows.Xbox.Input.Gamepad
+Nintendo Switch Pro Controller on Mac Chrome
+Mac Chrome
+Pro Controller (STANDARD GAMEPAD Vendor: 057e Product: 2009)
+PlayStation 4 Controller on Mac Chrome
+Wireless Controller (STANDARD GAMEPAD Vendor: 054c Product: 05c
+Wireless Controller (STANDARD GAMEPAD Vendor: 054c Product: 09c
+PlayStation 4 Controller on Mac Firefox
+Mac Firefox
+54c-5c4-Wireless Controller
+54c-9cc-Wireless Controller
+PlayStation
+Touch Pad Button
+Xbox 360 Controller
+Xbox 360 Controller on Mac Chrome
+Xbox 360 Wired Controller (STANDARD GAMEPAD Vendor: 045e Produc
+Xbox 360
+Xbox 360 Controller on Mac Firefox
+45e-28e-Xbox 360 Wired Controller
+Xbox 360 Controller on Mac Safari
+Mac Safari
+Xbox One Controller on Mac Chrome
+Xbox One Wired Controller (STANDARD GAMEPAD Vendor: 045e Produc
+Xbox One
+Xbox One Controller on Mac Firefox
+Xbox One Controller on Mac Safari
+45e-2d1-Xbox One Wired Controller
+Nintendo Switch Pro Controller on Windows Chrome
+Windows Chrome
+Wireless Gamepad (STANDARD GAMEPAD Vendor: 057e Product: 2009)
+PlayStation 4 Controller on Windows Chrome
+PlayStation 4 Controller on Windows Firefox
+Windows Firefox
+054c-05c4-Wireless Controller
+054c-09cc-Wireless Controller
+XInput Controller on Windows Chrome
+Xbox 360 Controller (XInput STANDARD GAMEPAD)
+XInput Controller on Windows Firefox
+xinput
+Air Flo Wired PS3 Controller on Windows
+Windows
+PS3 Airflo wired controller
+BETOP BTP-2175s
+BETOP BTP-2175s on Windows
+Controller (<BETOP GAME FOR WINDOWS>)
+Buffalo Class Gamepad on Windows
+8Bitdo NES30 Pro Controller on Windows
+Bluetooth Wireless Controller   
+8Bitdo SFC30 Controller on Windows
+SFC30 Joystick
+8Bitdo SNES30 Controller on Windows
+SNES30 Joy    
+GameCube Controller
+GameCube Controller on Windows via MAYFLASH adapter
+MAYFLASH GameCube Controller Adapter
+Left Trigger Button
+Right Trigger Button
+C Down
+C Left
+C Right
+GameCube Controller on Windows
+USB GamePad
+Google Stadia Controller on Windows
+Hama Black Force Controller
+Hama Black Force Controller on Windows
+Generic   USB  Joystick  
+Level Up Black Hawk Controller
+Level Up Black Hawk Controller on Windows
+USB Joystick
+Logitech F310 Controller on Windows (DirectInput Mode)
+Logitech Dual Action
+Logitech F310 Controller on Windows (XInput Mode)
+Controller (Gamepad F310)
+Logitech F510 Controller on Windows (DirectInput Mode)
+Logitech RumblePad 2 USB
+Logitech F510 Controller on Windows (XInput Mode)
+Controller (Rumble Gamepad F510)
+Logitech F710 on Windows (DirectInput Mode)
+Logitech Cordless RumblePad 2
+Logitech F710 on Windows (XInput Mode)
+Controller (Wireless Gamepad F710)
+Logitech WingMan Controller
+Logitech WingMan Controller on Windows
+WingMan Cordless Gamepad
+Throttle
+MaxFire Blaze5
+MaxFire Blaze5 Controller on Windows
+Controller (MaxFire Blaze5)
+Moga Pro Controller
+Moga Pro Controller on Windows
+Android Controller Gen-2(ACC)
+Natec Genesis P44 Controller
+Natec Genesis P44 Controller on Windows
+EX10 GAMEPAD
+Nexus Player Controller on Windows
+GamePad
+Nintendo Switch Pro Controller on Windows
+Wireless Gamepad
+NVIDIA Shield Controller on Windows
+Windows 7
+Windows 8
+NVIDIA Controller
+NVIDIA Shield Controller on Windows 8.1
+Windows 8.1
+NVIDIA Controller v01.03
+PlayStation DualShock 2 Controller
+Compatible with PlayStation 2 Controller to USB adapter.
+PlayStation 3 Controller on Windows (via MotioninJoy Gamepad Tool)
+MotioninJoy Virtual DS3
+Shenghic PlayStation 3 Controller on Windows (not MotionInJoy)
+PLAYSTATION(R)3Conteroller
+MotioninJoy Virtual Game Controller
+PlayStation 4 Controller on Windows
+DUALSHOCK
+4 USB Wireless Adaptor
+Saitek AV8R
+Saitek AV8R on Windows
+Aviator for Playstation 3/PC
+Throttle Up
+Throttle Down
+Speedlink Strike Controller on Windows
+SPEEDLINK STRIKE Gamepad
+SteelSeries Free on Windows
+SteelSeries Stratus XL on Windows
+Controller (SteelSeries XInput Controller)
+Valve Streaming Gamepad
+Valve Streaming Gamepad on Windows
+Controller (Valve Streaming Gamepad)
+Xbox 360 Controller on Windows
+AIRFLO             
+AxisPad
+Controller (Afterglow Gamepad for Xbox 360)
+Controller (Batarang wired controller (XBOX))
+Controller (Gamepad for Xbox 360)
+Controller (GPX Gamepad)
+Controller (Infinity Controller 360)
+Controller (Mad Catz FPS Pro GamePad)
+Controller (MadCatz Call of Duty GamePad)
+Controller (MadCatz GamePad)
+Controller (MLG GamePad for Xbox 360)
+Controller (Razer Sabertooth Elite)
+Controller (Rock Candy Gamepad for Xbox 360)
+Controller (SL-6566)
+Controller (Xbox 360 For Windows)
+Controller (XBOX 360 For Windows)
+Controller (Xbox 360 Wireless Receiver for Windows)
+Controller (Xbox Airflo wired controller)
+Controller (XEOX Gamepad)
+Cyborg V.3 Rumble Pad
+Generic USB Joystick 
+MadCatz GamePad (Controller)
+Saitek P990 Dual Analog Pad
+SL-6566 (Controller)
+USB Gamepad 
+WingMan RumblePad
+XBOX 360 For Windows (Controller)
+XEOX Gamepad (Controller)
+XEQX Gamepad SL-6556-BK
+Controller (Inno GamePad..)
+360|xbox|catz
+XBox One Controller
+XBox One Controller on Windows
+Controller (Xbox One For Windows)
+Xbox Bluetooth Gamepad
+Controller (XBOX One For Windows)
+Xiamoi Bluetooth Controller on Windows
+XiaoMi Bluetooth Wireless GameController
+SAILI Simulator XTR5.5 G2 FMS Controller on Windows
+SAILI Simulator --- XTR5.5+G2+FMS Controller
+KMODEL Simulator XTR G2 FMS Controller on Windows
+KMODEL Simulator - XTR+G2+FMS Controller
+Air Flo Controller
+Air Flo Controller on Mac
+Ardwiino Controller
+Ardwiino Controller on Mac
+At Play Controller
+At Play Controller on Mac
+Batarang Controller
+Batarang Controller on Mac
+BETAOP Controller
+BETAOP Controller on Mac
+Big Ben Controller
+Big Ben Controller on Mac
+Brook NeoGeo Converter
+Brook NeoGeo Converter on Mac
+Brook PS2 Converter
+Brook PS2 Converter on Mac
+DragonRise Arcade Stick
+DragonRise Arcade Stick on Mac
+EA Sports Controller
+EA Sports Controller on Mac
+Elecom Controller
+Elecom Controller on Mac
+Fusion Xbox One Controller
+Fusion Xbox One Controller on Mac
+GameStop Controller
+GameStop Controller on Mac
+Guitar Hero Controller
+Guitar Hero Controller on Mac
+Harmonix Drum Kit
+Harmonix Drum Kit on Mac
+Harmonix Guitar
+Harmonix Guitar on Mac
+Harmonix Keyboard
+Harmonix Keyboard on Mac
+Honey Bee Controller
+Honey Bee Controller on Mac
+Hori Blue Solo Controller 
+Hori Blue Solo Controller
+on Mac
+Hori Controller
+Hori Controller on Mac
+Hori DOA4 Arcade Stick
+Hori DOA4 Arcade Stick on Mac
+Hori Edge Fighting Stick
+Hori Edge Fighting Stick on Mac
+Hori EX2 Controller
+Hori EX2 Controller on Mac
+HORI Fighting Commander Controller
+HORI Fighting Commander Controller on Mac
+Hori Fighting Commander
+Hori Fighting Commander on Mac
+Hori Fighting Edge Arcade Stick
+Hori Fighting Edge Arcade Stick on Mac
+Hori Fighting Stick EX2
+Hori Fighting Stick EX2 on Mac
+Hori Fighting Stick Mini
+Hori Fighting Stick Mini on Mac
+Hori Fighting Stick VX
+Hori Fighting Stick VX on Mac
+Hori Fight Stick
+Hori Fight Stick on Mac
+Hori Pad EX Turbo Controller
+Hori Pad EX Turbo Controller on Mac
+HoriPad Ultimate
+HoriPad Ultimate on Mac
+Hori RAP N Fighting Stick
+Hori RAP N Fighting Stick on Mac
+Hori Real Arcade Pro EX
+Hori Real Arcade Pro EX on Mac
+Hori Real Arcade Pro EX Premium VLX
+Hori Real Arcade Pro EX Premium VLX on Mac
+Hori Real Arcade Pro EX SE
+Hori Real Arcade Pro EX SE on Mac
+Hori Real Arcade Pro Hayabusa
+Hori Real Arcade Pro Hayabusa on Mac
+Hori Real Arcade Pro IV
+Hori Real Arcade Pro IV on Mac
+Hori Real Arcade Pro V Hayabusa
+Hori Real Arcade Pro V Hayabusa on Mac
+Hori Real Arcade Pro V Kai Fighting Stick
+Hori Real Arcade Pro V Kai Fighting Stick on Mac
+Hori Real Arcade Pro VX
+Hori Real Arcade Pro VX on Mac
+Hori Real Arcade Pro VX SA
+Hori Real Arcade Pro VX SA on Mac
+Hori Xbox 360 Gem Pad Ex
+Hori Xbox 360 Gem Pad Ex on Mac
+Hyperkin X91
+Hyperkin X91 on Mac
+Injustice Fight Stick
+Injustice Fight Stick on Mac
+Ion Drum Rocker
+Ion Drum Rocker on Mac
+Joytek Xbox 360 Controller
+Joytek Xbox 360 Controller on Mac
+Konami Dance Pad
+Konami Dance Pad on Mac
+Logitech Chill Stream Controller
+Logitech Chill Stream Controller on Mac
+Logitech Controller on Mac
+Logitech DriveFX Racing Wheel
+Logitech DriveFX Racing Wheel on Mac
+Logitech F310 Controller on Mac
+Logitech F510 Controller on Mac
+Logitech G920 Racing Wheel
+Logitech G920 Racing Wheel on Mac
+Logitech Thunderpad
+Logitech Thunderpad on Mac
+Mad Catz Arcade Stick
+Mad Catz Arcade Stick on Mac
+Mad Catz Beat Pad
+Mad Catz Beat Pad on Mac
+Mad Catz Brawl Stick
+Mad Catz Brawl Stick on Mac
+Mad Catz COD Controller
+Mad Catz COD Controller on Mac
+Mad Catz Controller
+Mad Catz Controller on Mac
+Mad Catz FightPad Controller
+Mad Catz FightPad Controller on Mac
+Mad Catz FightPad
+Mad Catz FightPad on Mac
+Mad Catz Fight Stick TE2
+Mad Catz Fight Stick TE2 on Mac
+Mad Catz Fight Stick TES Plus
+Mad Catz Fight Stick TES Plus on Mac
+Mad Catz FPS Pro
+Mad Catz FPS Pro on Mac
+Mad Catz Ghost Recon Fighting Stick
+Mad Catz Ghost Recon Fighting Stick on Mac
+Mad Catz Inno Controller
+Mad Catz Inno Controller on Mac
+MadCatz MC2 Controller
+MadCatz MC2 Controller on Mac
+MadCatz MC2 Racing Wheel
+MadCatz MC2 Racing Wheel on Mac
+Mad Catz MicroCon Controller
+Mad Catz MicroCon Controller on Mac
+Mad Catz Micro Controller
+Mad Catz Micro Controller on Mac
+Mad Catz MLG Fight Stick TE
+Mad Catz MLG Fight Stick TE on Mac
+Mad Catz Neo Fight Stick
+Mad Catz Neo Fight Stick on Mac
+Mad Catz Portable Drum
+Mad Catz Portable Drum on Mac
+Mad Catz Pro Controller
+Mad Catz Pro Controller on Mac
+Mad Catz Saitek AV8R02
+Mad Catz Saitek AV8R02 on Mac
+Mad Catz SF4 Fight Stick Round 2 TE
+Mad Catz SF4 Fight Stick Round 2 TE on Mac
+Mad Catz SF4 Fight Stick SE
+Mad Catz SF4 Fight Stick SE on Mac
+Mad Catz SF4 Fight Stick TE
+Mad Catz SF4 Fight Stick TE on Mac
+Mad Catz Soul Caliber Fight Stick
+Mad Catz Soul Caliber Fight Stick on Mac
+Mad Catz SSF4 Chun-Li Fight Stick TE
+Mad Catz SSF4 Chun-Li Fight Stick TE on Mac
+Mad Catz SSF4 Fight Stick TE
+Mad Catz SSF4 Fight Stick TE on Mac
+Mat Catz Controller
+Mat Catz Controller on Mac
+Mayflash Magic-NS
+Mayflash Magic-NS on Mac
+Mcbazel Adapter
+Mcbazel Adapter on Mac
+Microsoft Adaptive Controller
+Microsoft Adaptive Controller on Mac
+Microsoft Xbox 360 Controller
+Microsoft Xbox 360 Controller on Mac
+Microsoft Xbox Controller
+Microsoft Xbox Controller on Mac
+Microsoft Xbox One Controller
+Microsoft Xbox One Controller on Mac
+Microsoft Xbox One Elite Controller
+Microsoft Xbox One Elite Controller on Mac
+MK Klassik Fight Stick
+MK Klassik Fight Stick on Mac
+MLG Controller
+MLG Controller on Mac
+MVC TE Stick
+MVC TE Stick on Mac
+Nacon GC-100XF Controller
+Nacon GC-100XF Controller on Mac
+PDP Afterglow Controller
+PDP Afterglow Controller on Mac
+PDP Afterglow Prismatic Controller
+PDP Afterglow Prismatic Controller on Mac
+PDP Battlefield XBox One Controller
+PDP Battlefield XBox One Controller on Mac
+PDP Marvel Controller
+PDP Marvel Controller on Mac
+PDP Metallics LE Controller
+PDP Metallics LE Controller on Mac
+PDP Titanfall 2 Xbox One Controller
+PDP Titanfall 2 Xbox One Controller on Mac
+PDP Tron Controller
+PDP Tron Controller on Mac
+PDP Versus Controller
+PDP Versus Controller on Mac
+PDP Xbox 360 Controller
+PDP Xbox 360 Controller on Mac
+PDP Xbox One Arcade Stick
+PDP Xbox One Arcade Stick on Mac
+PDP Xbox One Controller
+PDP Xbox One Controller on Mac
+PowerA Airflow Controller
+PowerA Airflow Controller on Mac
+POWER A FUS1ON Tournament Controller
+POWER A FUS1ON Tournament Controller on Mac
+PowerA Mini Controller
+PowerA Mini Controller on Mac
+PowerA Mini Pro Ex Controller
+PowerA Mini Pro Ex Controller on Mac
+Power A Mini Xbox One Controller
+Power A Mini Xbox One Controller on Mac
+PowerA Spectra Illuminated Controller
+PowerA Spectra Illuminated Controller on Mac
+Pro EX Xbox 360 Controller
+Pro EX Xbox 360 Controller on Mac
+Pro EX Xbox One Controller
+Pro EX Xbox One Controller on Mac
+Qanba Fight Stick Plus
+Qanba Fight Stick Plus on Mac
+Razer Atrox Arcade Stick
+Razer Atrox Arcade Stick on Mac
+Razer Onza Controller
+Razer Onza Controller on Mac
+Razer Onza TE Controller
+Razer Onza TE Controller on Mac
+Razer Sabertooth Elite Controller
+Razer Sabertooth Elite Controller on Mac
+Razer Strike Controller
+Razer Strike Controller on Mac
+Razer Wildcat Controller
+Razer Wildcat Controller on Mac
+Razer Wolverine Ultimate Controller
+Razer Wolverine Ultimate Controller on Mac
+Red Octane Controller
+Red Octane Controller on Mac
+RedOctane Guitar
+RedOctane Guitar on Mac
+Rock Band Drums
+Rock Band Drums on Mac
+Rock Band Guitar
+Rock Band Guitar on Mac
+Rock Candy Controller
+Rock Candy Controller on Mac
+Rock Candy PS3 Controller
+Rock Candy PS3 Controller on Mac
+Rock Candy Xbox 360 Controller
+Rock Candy Xbox 360 Controller on Mac
+Rock Candy Xbox One Controller
+Rock Candy Xbox One Controller on Mac
+Saitek Xbox 360 Controller
+Saitek Xbox 360 Controller on Mac
+ThrustMaster Ferrari 430 Racing Wheel
+ThrustMaster Ferrari 430 Racing Wheel on Mac
+Thrustmaster Ferrari 458 Racing Wheel
+Thrustmaster Ferrari 458 Racing Wheel on Mac
+ThrustMaster Ferrari 458 Spider Racing Wheel
+ThrustMaster Ferrari 458 Spider Racing Wheel on Mac
+Thrustmaster GPX Controller
+Thrustmaster GPX Controller on Mac
+Thrustmaster TMX
+Thrustmaster TMX on Mac
+Thrustmaster TX GIP
+Thrustmaster TX GIP on Mac
+Trust Predator Joystick
+Trust Predator Joystick on Mac
+TSZ Pelican Controller
+TSZ Pelican Controller on Mac
+Xbox 360 Mortal Kombat Fight Stick
+Xbox 360 Mortal Kombat Fight Stick on Mac
+Xbox 360 Pro EX Controller
+Xbox 360 Pro EX Controller on Mac
+Nintendo Switch Pro Controller on Mac
+Touchpad Button
+PlayStation 5 Controller on Mac
+PowerA Nintendo Switch Controller
+PowerA Nintendo Switch Controller on Mac
+Action3
+Action1
+Action2
+Action4
+Steelseries Nimbus Controller
+Steelseries Nimbus Controller on Mac
+Steelseries Nimbus+ Controller
+Steelseries Nimbus+ Controller on Mac
+Nimbus+
+Microsoft Xbox One S Controller
+Microsoft Xbox One S (Bluetooth) Controller on Mac
+Microsoft Xbox One S Controller on Mac
+Microsoft Xbox Series X Controller
+Microsoft Xbox Series X Controller on Mac
+{NAME} MFi Controller
+MFi Controller on iOS / tvOS / macOS
+Sony DualSense Controller
+Sony DualSense Controller on iOS / tvOS / macOS
+Sony DualShock 4 Controller
+Sony DualShock 4 Controller on iOS / tvOS / macOS
+Nintendo Switch Pro Controller on iOS / tvOS / macOS
+Microsoft Xbox One Controller on iOS / tvOS / macOS
+Microsoft Xbox Series X Controller on iOS / tvOS / macOS
+Paddle 1
+Paddle 2
+Paddle 3
+Paddle 4
+Accelerometer X
+Accelerometer Y
+Accelerometer Z
+Gyroscope X
+Gyroscope Y
+Gyroscope Z
+Xbox Series X Controller
+Afterglow Xbox 360 Controller
+Afterglow Xbox 360 Controller on Windows
+Air Flo PS3 Controller
+Air Flo PS3 Controller on Windows
+iBuffalo Classic Controller on Windows
+8Bitdo SF30 Pro Controller on Windows
+8Bitdo SN30 Pro Controller on Windows
+Kiwitata NES Controller
+Kiwitata NES on Windows
+Logitech F310 Mode D Controller
+Logitech F310 Mode D Controller on Windows
+Logitech F310 Mode X Controller
+Logitech F310 Mode X Controller on Windows
+Logitech F510 Mode D Controller
+Logitech F510 Mode D Controller on Windows
+Logitech F510 Mode X Controller
+Logitech F510 Mode X Controller on Windows
+Logitech F710 Mode D Controller
+Logitech F710 Mode D Controller on Windows
+Logitech F710 Mode X Controller
+Logitech F710 Mode X Controller on Windows
+NVIDIA SHIELD Controller
+NVIDIA SHIELD Controller on Windows
+PC TWIN SHOCK
+PC TWIN SHOCK on Windows
+Touch Pad Tap
+PlayStation 5 Controller on Windows
+PlayStation Analog Joystick
+PlayStation Analog Joystick on Windows
+Razer Serval Controller on Windows
+Steam Controller
+Steam Controller on Windows
+Xbox 360 Wired Controller
+Xbox 360 Wired Controller on Windows
+Xbox 360 Wireless Controller
+Xbox 360 Wireless Controller on Windows
+Xbox One Elite Controller
+Xbox One Elite Controller on Windows
+Xbox One Controller on Windows
+Xbox Series X Controller on Windows
+XInput Controller on Windows
+UIBlend
+Optimized
+UIFontBlend
+_ClampHoriz
+_ClampVert
+_ClampBorder
+_UseAlphaChannel
+Alpha Masked/Sprites Alpha Masked - World Coords
+Alpha Masked/Unlit Alpha Masked - World Coords
+Shaders necessary for masking don't seem to be present in the project.
+_SCREEN_SPACE_UI
+_AlphaTex
+_MaskRotation
+_Axis
+_AXIS_X
+_AXIS_Y
+_AXIS_Z
+Ray Distance should be greater than zero!
+Invalid State!
+Fsm will not respond to Event: 
+GameObject requires RigidBody/Collider!
+GameObject requires a RigidBody2D or Collider2D component!
+[null]
+Owner
+Convert
+PlayMakerLegacyNetworking
+Could not add PlayMakerLegacyNetworking proxy!
+No Graphic component found on the specified GameObject for graphic rebuild.
+{0} in {1} is missing Hero Vibration Region component
+{0} in {1} is missing Hero Vibration Region object
+Owner requires a RigidBody2D or Collider2D!
+count 
+start index out of range
+count can not be negative
+ApplyValueToFsmVar failed
+hello
+start index and count out of range
+Can't add PlayMakerArrayListProxy
+Can't add PlayMakerHashTableProxy
+Untagged
+ can not be processed as a minimum
+ArrayList proxy is null
+ArrayList undefined
+Null Proxy
+Several HashTable Proxies coexists on the same GameObject and no reference is given to find the expected HashTable
+HashTable Proxy not found for reference <
+HashTable Proxy reference do not match
+HashTable not found
+Several ArrayList Proxies coexists on the same GameObject and no reference is given to find the expected ArrayList
+ArrayList Proxy not found for reference <
+ArrayList Proxy reference do not match
+ArrayList proxy not found
+HashTable proxy is null
+HashTable undefined
+Missing tk2dSpriteAnimator component: 
+Missing tk2dSpriteAnimator component
+gameObject var empty: 
+Missing tk2dBaseSprite component
+Missing tk2dBaseSprite component: 
+Missing tk2dTextMesh component: 
+Missing tk2dTextMesh component
+Missing tk2dTextMesh component 
+Text Anchor string '
+' is not valid. Use (case insensitive): LowerLeft,LowerCenter,LowerRight,MiddleLeft,MiddleCenter,MiddleRight,UpperLeft,UpperCenter or UpperRight
+lowerleft
+lowercenter
+lowerright
+middleleft
+middlecenter
+middleright
+upperleft
+uppercenter
+upperright
+Failed to play atmos cue, because the game manager is not ready
+Array types do not match
+AudioPlayer object not set!
+Cannot BeginSceneTransition() before the game manager is loaded.
+Cannot CheckGameState() before the game manager is loaded.
+Projectile gravity is 0! Ballistic velocity will also be zero!
+CallMethodProper: 
+ missing behaviour: 
+CallMethodProper error on 
+Method Name is invalid: 
+Count did not match. Required: {0}, Was: {1}, Method: {2}
+CAN_LERP_AMBIENT
+_AmbientLerp
+Action sends no events!
+{0} Offset Parent
+GET ITEM MSG END
+<native-code>
+{0}.{1}.{2}.{3}
+<unknown-game-object>
+<unknown-state>
+<unknown-action>
+<no-owner>
+Entry to {0} (sent by {1}) is deprecated
+onGround
+Platform
+{0} : {1}{2} : {3} - Missing Game Object
+ : Template : 
+EnemySingControl "
+Please specify Name, Tag, or both for the object you are looking for.
+gameObject1 is null!
+GameObjects and MatchEvents must have the same amount of elements!
+No values are being stored!
+Missing Renderer!
+Missing Material!
+Specify Parent Name, Tag, or both.
+PlayerData vector3 {0} does not exist. (FSM: {1}, State: {2})
+SKID END
+alpha
+includechildren
+NamedValueColor
+delay
+oncomplete
+iTweenOnComplete
+oncompleteparams
+onstart
+iTweenOnStart
+onstartparams
+ignoretimescale
+Cannot listen for buttons without game manager.
+Cannot listen for buttons without input handler.
+Variable Name must be specified!
+Variable type must be specified!
+Variable of correct type could not be found in PlayerData
+Raycast hit count exceeded allocated buffer
+Piercable Terrain
+Target requires a RigidBody2D or Collider2D!
+Play Maker FSM
+Persistent Bool Item
+MapperLeftBoneForest
+MapperLeftDocks
+MapperLeftWilds
+MapperLeftCrawl
+MapperLeftGreymoor
+SeenMapperBellhart
+MapperLeftBellhart
+MapperLeftShellwood
+MapperLeftHuntersNest
+MapperLeftJudgeSteps
+MapperLeftDustpens
+MapperLeftPeak
+MapperLeftShadow
+MapperLeftCoralCaverns
+Vector2
+Vector3
+GameObject
+Material
+Texture
+Color
+Quaternion
+Object
+SendRandomEventV2 infinite loop: Owner: {0}, Fsm: {1}, State: {2}
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Player Data reference is null, please check this is being set correctly.
+PlayerData float {0} does not exist. (FSM: {1}, State: {2})
+SetPlayerDataInt: could not find a GameManager on this object, please refere to the GameManager global variable
+SHAKE ALL GRASS
+Roar Wave Emitter
+Roar Wave Emitter Small
+ROAR WOUND CANCEL
+START
+BURST
+ROAR ENTER FORCED
+ROAR BURST ENTER FORCED
+ROAR BURST ENTER
+Tk2d animator was null
+Missing rigid body 2D: 
+no properties
+no properties found 
+Missing animation: 
+Missing Animation component on GameObject: 
+localPosition.x
+localPosition.y
+localPosition.z
+localRotation.x
+localRotation.y
+localRotation.z
+localRotation.w
+localScale.x
+localScale.y
+localScale.z
+Missing animName!
+Getting Body Position should only be done in OnAnimatorIK
+TakeScreenshot: 
+Size out of range: 
+Could not find FSM: 
+Could not find variable: 
+Can only copy arrays with the same elements type. Found <
+> and <
+Incompatible variable type: 
+Missing Audio Clip!
+Missing camera!
+MainCamera
+No MainCamera defined!
+No camera defined!
+@camera:No MainCamera Defined!
+@camera:GameObject has no Camera!
+Define at least 2 colors to make a gradient.
+False
+{1:D2}h:{2:D2}m:{3:D2}s:{10}ms
+Double-Click To Edit
+Can't add component: 
+EmptyObjectFromNull
+No such component: 
+Specify Name, Tag, or both.
+Specify Child Name, Tag, or both.
+UnityEngine.
+Couldn't get type: 
+Combo Failed: Timeout
+Combo Button: 
+Combo Succeeded!
+Action requires new Input System!
+horizontalslider
+horizontalsliderthumb
+verticalslider
+verticalsliderthumb
+TextField
+Toggle
+Images array doesn't match NumButtons.
+Texts array doesn't match NumButtons.
+Tooltips array doesn't match NumButtons.
+Vertical
+Fire1
+Mouse X
+Mouse Y
+rotate
+looktarget
+speed
+orienttopath
+looktime
+position
+islocal
+movetopath
+lookahead
+punch
+rotation
+scale
+shake
+LoadLevelAdditiveAsyc: 
+LoadLevelAdditive: 
+LoadLevelAsync: 
+LoadLevel: 
+LOAD COMPLETE
+MovieTexture is Obsolete. Use VideoPlayer actions instead.
+Time.deltaTime
+Missing MeshFilter!
+Could not find action 
+Null GameObject
+Source and Destination scenes can not be the same
+GameObject must be a root 
+At least one event setup is required
+Can't add script: 
+Behaviour is invalid!
+Invalid Method Name or Parameters: 
+Parameter count does not match method.
+Method has 
+ parameters.
+You specified 
+ paramaters.
+Parameters do not match method signature.
+Parameter 
+) should be of type: 
+Method does not have return.
+Specify 'none' in Store Result.
+Store Result is of the wrong type.
+It should be of type: 
+Class is invalid: 
+Behaviour missing
+InvokeMethod: 
+Array
+StartCoroutine: 
+Blocked: 
+Missing FsmComponent!
+Missing Variable: 
+Goto Previous State: 
+Ignored: 
+GameObject doesn't have FsmComponent: 
+MM/dd/yyyy HH:mm
+Missing component: 
+ on: 
+This Tween only works with UI GameObjects
+GameObject missing component:
+option
+GameObject needs a MeshRenderer, Sprite, Image, Text, Light, AudioSource, or CanvasGroup component.
+Missing GameObject 
+Missing UI.Button on 
+Missing UI.Toggle on 
+Missing GameObject
+Unity Web Request is Null!
+Failed to find camera target.
+Failed to find hero method for "{0}".
+Failed to find hero box.
+Encountered unsupported box state {0}. Setting to normal.
+HeroController was null
+State name must be specified!
+State could not be found in HeroControllerStates
+Wrong animation finished! Expected: {0}, Was: {1}
+Bounce Pod
+Harpoon Ring
+Failed to find hero controller.
+Object "
+" does not have a BlackThreadState component
+Target is null
+Variable of correct type could not be found in HeroControllerConfig
+DEPRECATED! Slot unlock XP system has been removed!
+Target GameObject does not have a TrackTriggerObjects component attached!
+Cost reference not assigned!
+Damage reference not assigned!
+! Turn in Quest? !
+FADE SCENE IN SLOWLY
+FADE SCENE IN
+FADE SCENE IN INSTANT
+FADE SCENE OUT INSTANT
+FADE OUT INSTANT
+FadeInRoutine
+CINEMATIC SKIP FADE
+SkipCutscene
+Surface Current In Tumble
+START FADE OUT
+Starting opening sequence.
+Sounds
+Lever Hit
+Bridge Rise
+Fence Rise
+Normal
+FadingOut
+Failsafe fade in activated. State: {0} Scene: {1}
+Beta Ender
+Spike Direction
+ENTER SPRINTING
+HeroCtrl-EnteringScene
+PRE ENTER SUPERJUMPING
+HeroCtrl-EnterQuake
+ENTER SUPERJUMPING
+Entering Super Jumping
+HAZARD RESPAWN
+HeroCtrl-HazardRespawned
+MAGGOT RESET
+Bench Control
+Alt Respawn Point
+Adjust Vector
+RespawnResting
+RESPAWN
+Prostrate
+{0}-{1}
+Collect Stand 1
+Collect Normal 1
+Collect Stand 2
+Collect Normal 2
+COLLECTED
+Collect Stand 3
+Collect Normal 3
+Grid was null!
+Hornet Desk Stand
+Abyss Kneel
+Abyss Kneel to Stand
+Hornet Desk Sit
+Could not test field {0} is it was not an enum type
+Can't use textures in non-created bloom resources
+BG OPEN
+BATTLE END
+WAVE QUEUED
+WAVE START
+Death Stun
+Burst Antic
+Bat End
+Bat Fly
+Dreamgate Out
+Dreamgate In
+Psalm Cylinder Ward
+Silk Heart Memory Respawn Marker
+Under_08
+Boss Scene controller has no end transition event assigned!
+Boss Scene Controller has no transition prefab assigned!
+DREAM EXIT
+The last Boss Scene in a sequence can not have a custom exit point!
+BigShake
+NPC CONTROL OFF
+CONVO CANCEL
+{0:00}:{1:00}
+finishedBossReturning
+Target
+Spawner
+Move Left
+Move Right
+Move Up
+Move Down
+Soul orb could not get player target!
+door_tubeEnter
+Scene Load #{0} : Scene Name: {1} : Entry Gate Name {2} : Entry Skip {3} : Prevent Camera Fade {4} : Wait For Scene Transition {5} : Force Fetch Wait {6}
+SAVE_FAILED
+Saving game disabled. No save file written.
+Save game slot not valid: {0}
+Error loading save file for slot {0}: {1}
+failed to clear
+cleared
+Cannot get save stats for invalid slot {0}
+Error while loading save file for slot {0} Exception: {1}
+Exception in responders to GameManager.SceneTransitionBegan. Attempting to continue load regardless.
+Reloading same scene! Destroying GuidComponents to prevent collisions...
+Demo End
+Quit Blanker
+Scenes/Quit_To_Menu
+Error while UnloadingLevel in QuitToMenu, attempting to continue regardless.
+Error while DestroyingPersonalPools in QuitToMenu, attempting to continue regardless.
+QUIT TO MENU
+TransitionScene(TransitionPoint) is no longer supported
+Failed to load language selector. {0}
+Scenes/Menu_Title
+Language select handle is invalid
+WillShowQuote
+LoadingIcon
+Insufficient space for new save profile
+FADE OUT
+Entering from this menu not implemented.
+FADE IN
+Switching between these menus is not implemented.
+Zap Antic
+Zap End
+Null key found in shared data
+Null value for key '{0}' found in shared data
+Duplicate key '{0}' found in shared data
+Failed to create directory 
+Migrated local slot {0} to cloud.
+GOG authorized
+GOG authorization failed: {0}
+GOG authorization lost
+GOG signing in...
+Retrieved stats
+Failed to retrieve stats: {0}
+GOG requesting user stats and achievements...
+Failed to parse number from "
+ failed to load restore point
+ is missing data
+SavedFlea_
+NEEDOLIN LOCK
+GATE LOCKS PRE COMPLETE
+GATE LOCKS COMPLETE
+ACTIVATION COMPLETE
+ACTIVATED ALL
+COMPLETE ANIMS STARTED
+Updraft Rise
+Witch
+Pod Bounce
+AddToDreamPlantCList
+DREAM AREA DISABLE
+Complete
+Home Bounce
+Home Wave
+Fade Away
+Alpha
+NEEDLE ABOVE
+NEEDLE BELOW
+Shake Up
+Flip Down 1
+Flip Down 2
+Idle Down
+Flip Up 1
+Flip Up 1N
+Flip Up 2
+Idle Up
+Glimmer Up
+FLY START
+FLY STOP
+Nested Fade Group "group" needs to be assigned!
+Error while cleaning personal object pools as part of quit, attempting to continue regardless.
+Error while recycling all as part of quit, attempting to continue regardless.
+FPS :
+DOOR ENTERED
+DOOR ENTER
+Content Pack Details do not exist for index 
+Hornet
+ Down
+Transitioning from {0} to {1}
+SKILL GET MSG ENDED
+GizmoUtilityMesh
+Exception in responders to SceneLoad.FetchComplete. Attempting to continue load regardless.
+Exception in responders to SceneLoad.WillActivate. Attempting to continue load regardless.
+Exception in scene load OperationHandle:
+Exception in responders to SceneLoad.ActivationComplete. Attempting to continue load regardless.
+Timed out while waiting for asset unload.
+Exception in responders to SceneLoad.Complete. Attempting to continue load regardless.
+Exception in responders to SceneLoad.StartCalled. Attempting to continue load regardless.
+Exception in responders to SceneLoad.BossLoaded. Attempting to continue load regardless.
+Exception in responders to ScenePreloader.Cleanup. Attempting to continue load regardless.
+Exception in responders to SceneLoad.Finish. Attempting to continue load regardless.
+Reverting Object Pool State : T {0:0.00}s
+Finished Reverting Object Pool State : T {0:0.00}s : Time Taken {1:0.00}s
+Beginning Asset Unload : T {0:0.00}s
+Waiting for asset unload.
+Asset unload operation timed out
+Finished Asset Unload : T {0:0.00}s : Time Taken {1:0.00}s
+Beginning GC : T {0:0.00}s
+Finished GC : T {0:0.00}s : Time Taken {1:0.00}s
+Other scene did not have any root GameObjects
+Additive scene load for 
+ failed with exception:
+UnitySelectMonitor
+Exiting unsupported state {0}
+Processing Version Backups. : Slot {0}
+Found {0} version backups. : Slot {1}
+Found {0} restore points. : Slot {1}
+Failed to create fetch request for slot {0}
+Failed to override data
+Unexpected call during {0} state detected
+Unhandled state transition from {0} to {1} detected
+Create Xbox Live context : 
+Get gamertag : 
+Create Xbox store context : 
+"{0}" - {1}
+Delay user 
+ sign out
+Get Xbox user ID
+Get user display pic.
+Initialise game save provider : 
+Fetching Achievements for 
+Max calls must be at least 1
+Error writing JsonSharedData in thread: 
+Trophy Menu
+Activity Menu
+Play Clip : 
+Attached: 
+Detached: 
+Active device changed to: 
+{0} finished
+Complete and load count miss matched {0}
+HasAnyMap
+Updating Achievement '
+' for 
+Unlock achievement 
+M2H_lastLanguage
+Idle Hurt
+Fly Up
+Fly Down
+Fly Turn
+Antic Skid
+Sprint Start
+Sprint
+Dash Forward
+Dash Forward Mantle
+Dash Down
+Fly Antic
+TurnToWalk
+VENT REGION ENTER
+VENT REGION EXIT
+FSM_SHARED_KEY
+SPAWN DEQUEUED
+OnSpawnDequeued
+Hollow Knight/Light Blur
+_BlurInfo
+BLACKTHREAD
+Death Air
+Death Land
+Death Land Air
+Death BounceAway
+Death Air AfterBounce
+Death Land AfterBounce
+IsExhibitionMode
+Assets/Audio/Vibration Files
+00000000-0000-0000-0000-0000636f5860
+58684736355579041
+6df4eee80bbe552d39094e3ee31e457ff109405df303f1cebf263f964c1a8a1e
+user.dat
+user{0}.dat
+Restore_Points
+restoreData
+NODEL
+Player
+CancelSuperDash
+CancelHeroJump
+Slide Start
+Slide Normal
+Slide Fast
+Slide Fast End
+Slide Brake
+Slide Brake End
+Airborne
+IsInQuestBoardDepositSequence
+ExhibitionModeProfileId
+TOOL EQUIPS CHANGED
+POST TOOL EQUIPS CHANGED
+Data Assets/Damages
+CONVO_END
+LINE_END
+CONVO_END_FORCED
+MapPinVisibilityState
+SILK REFRESHED
+--show-performance-hud
+--remote-save-directory=
+--enable-developer-cheats
+1.0.30000
+EnemyKillShake
+Menu_Title
+Tut_01
+Death Respawn Marker Init
+Opening_Sequence
+Intro_Cutscene_Prologue
+Intro_Cutscene
+Cinematic_Stag_travel
+PermaDeath
+PermaDeath_Unlock
+Cinematic_MrMushroom
+Cinematic_Ending_A
+Cinematic_Ending_B
+Cinematic_Ending_C
+Cinematic_Ending_D
+Cinematic_Ending_E
+End_Credits
+End_Credits_Scroll
+Menu_Credits
+Title_Screens
+Tutorial_01
+Cutscene_Boss_Door
+End_Game_Completion
+GG_End_Sequence
+GG_Entrance_Cutscene
+GG_Boss_Door_Entrance
+GG_Waterways
+Dust_Maze_09_entrance
+GAME SAVING
+GAME SAVED
+RecPermadeathMode
+RecBossRushMode
+GameLang
+GameBackers
+GameNativePopups
+RumbleSetting
+CameraShakeSetting
+HudScaleSetting
+VidResX
+VidResY
+VidResRefresh
+VidFullscreen
+VidVSync
+VidDisplay
+VidTFR
+VidParticles
+ShaderQuality
+VidDithering
+VidNoise
+VidOSValue
+VidOSSet
+VidBrightValue
+VidBrightSet
+MasterVolume
+MusicVolume
+SoundVolume
+PlayerVoiceEnabled
+KeyJump
+KeyAttack
+KeyDash
+KeyCast
+KeySupDash
+KeyDreamnail
+KeyQuickMap
+KeyQuickCast
+KeyTaunt
+KeyInventory
+KeyInventoryMap
+KeyInventoryJournal
+KeyInventoryTools
+KeyInventoryQuests
+KeyUp
+KeyDown
+KeyLeft
+KeyRight
+Controller
+GameLangSet
+NativeInput
+XInput
+AppleMFi
+-resetall
+-resetres
+-forcelang
+-allowdebug
+-nativeinput
+SceneTeleportMap
+!#$%&'*+-/=?^_`{|}~
+-------------------------------- !-#$%&-()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[-]^_`abcdefghijklmnopqrstuvwxyz{|}~-
+-------------------------------- !-#$%&-()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[-]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~-
+ps5 vibration
+PS5 Vibration Manager Asset
+Assets/Audio/Vibration Files/PS5
+Achievements
+mouse x
+mouse y
+InControlNative
+CAN_LERP_AMBIENT
+SHAKE ALL GRASS
+Assumes an Xbox-style gamepad with four face buttons, two triggers, two shoulder buttons, and two menu buttons.
+MeshRenderer, Sprite, Image, Text, Light.
+How to apply the Offset Color. Similar to Photoshop Blend modes. 
+Note: use the color alpha to fade the blend.
+MeshRenderer, Sprite, Image, Text, Light, AudioSource, or CanvasGroup component.
+TurnWalk
+Left Trigger
+Right Trigger
+Left Bumper
+Right Bumper
+VS_VERSION_INFO
+VarFileInfo
+Translation
+StringFileInfo
+000004b0
+FileDescription
+FileVersion
+0.0.0.0
+InternalName
+Assembly-CSharp.dll
+LegalCopyright
+OriginalFilename
+Assembly-CSharp.dll
+ProductVersion
+0.0.0.0
+Assembly Version
+0.0.0.0

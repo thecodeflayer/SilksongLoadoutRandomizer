@@ -50,6 +50,7 @@ namespace SilksongLoadoutRandomizer
             ("Bone_Steel_Servant", "Abyss Mass"),
 
             // === ACT 3 ===
+            ("wisp02", "WispPyreEffigy"),
             ("Bellway_Centipede_Arena", "Giant Centipede Head"),
             ("Bellway_Centipede_Arena", "Giant Centipede Butt"),
             ("Peak_07", "Pinstress Boss"),

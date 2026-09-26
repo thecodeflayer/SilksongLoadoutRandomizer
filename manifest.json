@@ -1,6 +1,6 @@
 {
   "name": "SilksongLoadoutRandomizer",
-  "version_number": "1.0.1",
+  "version_number": "1.0.2",
   "website_url": "https://github.com/thecodeflayer/SilksongLoadoutRandomizer",
   "description": "Randomizes Hornet's Crest and tool loadouts on bench rests, hotkeys, or boss kills.",
   "dependencies": [
