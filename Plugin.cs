@@ -109,20 +109,7 @@ namespace SilksongLoadoutRandomizer
                 }
             };
 
-            // 6. Tests
-            var testAttr = new ConfigurationManagerAttributes
-            {
-                Order = 10,
-                HideDefaultButton = true,
-                CustomDrawer = entry =>
-                {
-                    if (UnityEngine.GUILayout.Button("Run Integration Tests", UnityEngine.GUILayout.ExpandWidth(true)))
-                    {
-                        IntegrationTests.RunAllTests();
-                    }
-                }
-            };
-            Config.Bind("6. Testing", "Trigger Tests", "", new BepInEx.Configuration.ConfigDescription("Click this button to immediately run the integration test suite based on the CURRENT configuration values.", null, testAttr));
+
 
             Logger.LogInfo($"Plugin {MyPluginInfo.PLUGIN_GUID} is loaded and configured!");
         }
